@@ -778,6 +778,14 @@ summary{cursor:pointer;color:var(--suave)}
 footer{margin-top:56px;padding-top:20px;border-top:1px solid var(--linea);font-size:.88rem;color:var(--suave)}
 footer p{max-width:75ch}
 .errores{color:var(--baja)}
+.conclusiones,.analisis{margin-top:22px;padding:16px 18px;background:var(--superficie);border-radius:6px;max-width:80ch}
+.analisis{border-left:3px solid var(--relleno)}
+.conclusiones h3 span,.analisis h3 span{font-weight:400;font-size:.82rem;color:var(--suave);margin-left:8px}
+.conclusiones ul{margin:0;padding-left:18px}
+.conclusiones li{margin:6px 0;font-size:.93rem;line-height:1.45}
+.analisis p{margin:8px 0;font-size:.95rem}
+.analisis .fuentes{font-size:.82rem;color:var(--suave)}
+.analisis .viejo{color:var(--senal);font-size:.88rem;font-weight:600}
 @media (max-width:760px){
   .fila{grid-template-columns:max-content max-content 1fr;gap:10px 28px}
   .tit{grid-column:1/-1}
@@ -849,8 +857,87 @@ def html_movimientos(actuales, info, campo, previo, cfg):
     return f'<ul class="mov">{"".join(items)}</ul>'
 
 
+def _cita(r, extra=""):
+    return f'«{e(r["titulo"])}»: {pct(r["prob"])}{extra} ({NOMBRES[r["plataforma"]]})'
+
+
+def html_conclusiones(del_tema, info):
+    """Lecturas automáticas del tema, recalculadas en cada actualización."""
+    mercados = [r for r in del_tema if r["plataforma"] != "consolidado"]
+    # Se descartan los extremos: en las preguntas de "quién gana" hay un renglón
+    # por candidato y la mayoría cotiza cerca de 0%.
+    utiles = [r for r in mercados if 0.03 <= r["prob"] <= 0.97]   # ya vienen por volumen
+    puntos = []
+    for etiqueta, lo, hi in (("Lo que los mercados dan por probable", .66, .97),
+                             ("En disputa", .35, .65),
+                             ("Lo que ven poco probable", .03, .20)):
+        r = next((x for x in utiles if lo <= x["prob"] <= hi), None)
+        if r:
+            puntos.append(f"<b>{etiqueta}:</b> {_cita(r)}.")
+    hubo_historial = False
+    for campo, previo, minimo, texto in (("d24", "hace24", .03, "en 24 horas"),
+                                         ("d7", "hace7", .05, "en 7 días")):
+        con_dato = [r for r in mercados if info[r["clave"]][campo] is not None]
+        hubo_historial |= bool(con_dato)
+        movidos = [r for r in con_dato if abs(info[r["clave"]][campo]) >= minimo]
+        if movidos:
+            r = max(movidos, key=lambda x: abs(info[x["clave"]][campo]))
+            d = info[r["clave"]][campo]
+            puntos.append(f'<b>Mayor movimiento {texto}:</b> «{e(r["titulo"])}» pasó de '
+                          f'{pct(info[r["clave"]][previo])} a {pct(r["prob"])} '
+                          f'(<span class="{clase_delta(d)}">{pp(d)}</span>, {NOMBRES[r["plataforma"]]}).')
+    con7 = [info[r["clave"]]["d7"] for r in mercados if info[r["clave"]]["d7"] is not None]
+    if con7:
+        suben = sum(1 for d in con7 if d >= .03)
+        bajan = sum(1 for d in con7 if d <= -.03)
+        verbo = lambda n, sing, plur: f"{n} {sing if n == 1 else plur}"
+        puntos.append(f"<b>Clima de la semana:</b> de {len(con7)} mercados con una semana de historial, "
+                      f"{verbo(suben, 'subió', 'subieron')} y {verbo(bajan, 'bajó', 'bajaron')} "
+                      f"3 puntos o más; el resto se mantuvo.")
+    for c in (r for r in del_tema if r["plataforma"] == "consolidado"):
+        if c["divergencia"] >= .08:
+            puntos.append(f'<b>Las plataformas no coinciden</b> en «{e(c["titulo"])}»: '
+                          f'difieren en {round(c["divergencia"] * 100)} puntos.')
+    if not hubo_historial:
+        puntos.append("Los movimientos de 24 horas y 7 días aparecen cuando se acumula historial.")
+    if not puntos:
+        return ""
+    return (f'<div class="conclusiones"><h3>En números <span>se recalcula en cada actualización</span></h3>'
+            f'<ul>{"".join(f"<li>{p}</li>" for p in puntos)}</ul></div>')
+
+
+def cargar_analisis(path: Path):
+    try:
+        return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+    except (json.JSONDecodeError, OSError) as ex:
+        print(f"  analisis.json ilegible: {ex}", file=sys.stderr)
+        return {}
+
+
+def html_analisis(analisis, tema, ts, tz):
+    """Análisis escrito (analisis.json), con su fecha y aviso si quedó viejo."""
+    a = (analisis.get("temas") or {}).get(tema)
+    fecha = de_iso(analisis.get("fecha"))
+    if not a or not fecha:
+        return ""
+    parrafos = a.get("texto") or []
+    if isinstance(parrafos, str):
+        parrafos = [parrafos]
+    horas = (ts - fecha).total_seconds() / 3600
+    viejo = (f'<p class="viejo">Este análisis tiene {round(horas / 24)} días: '
+             f'los números de arriba pueden haber cambiado desde entonces.</p>' if horas > 36 else "")
+    fuentes = ", ".join(
+        f'<a href="{e(f.get("url"))}" target="_blank" rel="noopener">{e(f.get("nombre"))}</a>'
+        if f.get("url") else e(f.get("nombre")) for f in a.get("fuentes") or [])
+    return (f'<div class="analisis"><h3>Análisis <span>{fecha_es(fecha, True, tz)}, '
+            f'con los números de ese momento</span></h3>{viejo}'
+            f'{"".join(f"<p>{e(p)}</p>" for p in parrafos)}'
+            f'{f"<p class=fuentes>Fuentes: {fuentes}.</p>" if fuentes else ""}</div>')
+
+
 def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo):
     tz = tz_local(cfg)
+    analisis = {} if demo else cargar_analisis(BASE / "analisis.json")
     titulo = cfg.get("titulo", "Monitor de pronósticos")
     nombres_temas = [t["nombre"] for t in cfg.get("temas") or []]
     nombres_temas += sorted({t for c in consolidadas for t in c["temas"]} - set(nombres_temas))
@@ -873,7 +960,8 @@ def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo):
         resto = len(del_tema) - max_t
         nota = (f'<p class="nota">Se muestran los {max_t} con más volumen de {len(del_tema)}. La lista completa está en data.json.</p>'
                 if resto > 0 else "")
-        secciones.append(f'<section id="{slug(t)}"><h2>{e(t)}</h2>{nota}{filas}</section>')
+        cierre = html_conclusiones(del_tema, info) + html_analisis(analisis, t, ts, tz)
+        secciones.append(f'<section id="{slug(t)}"><h2>{e(t)}</h2>{nota}{filas}{cierre}</section>')
 
     pares = equivalencias(actuales, cfg.get("preguntas") or [])
     if pares:

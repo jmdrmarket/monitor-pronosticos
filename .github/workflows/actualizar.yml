@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 */6 * * *"     # cada 6 horas (hora UTC)
   workflow_dispatch:           # botón "Run workflow" para correrlo a mano
+  push:                        # regenerar en el momento si cambia el análisis o la configuración
+    branches: [main]
+    paths: ["analisis.json", "config.yaml"]
 
 permissions:
   contents: write
