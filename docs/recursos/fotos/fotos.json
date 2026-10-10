@@ -58,7 +58,9 @@
  "Raphaël Glucksmann": {
   "archivo": "raphael-glucksmann.jpg",
   "alias": [
-   "Raphaël Glucksmann"
+   "Raphaël Glucksmann",
+   "Raphael Glucksmann",
+   "Glucksmann"
   ],
   "autor": "Mathieu Delmestre",
   "licencia": "Public domain",
@@ -332,7 +334,8 @@
   "archivo": "donald-trump.jpg",
   "alias": [
    "Donald Trump",
-   "Trump"
+   "Trump",
+   "Donald J. Trump"
   ],
   "autor": "Daniel Torok",
   "licencia": "Public domain",
@@ -428,7 +431,8 @@
   "alias": [
    "Volodymyr Zelenskyy",
    "Zelenskyy",
-   "Zelensky"
+   "Zelensky",
+   "Volodymyr Zelensky"
   ],
   "autor": "Press Service of the President of Ukraine",
   "licencia": "CC BY 4.0",
