@@ -1,0 +1,540 @@
+{
+ "Marine Le Pen": {
+  "archivo": "marine-le-pen.jpg",
+  "alias": [
+   "Marine Le Pen",
+   "Le Pen"
+  ],
+  "autor": "VOX España",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_(28-01-2022).jpg",
+  "wikidata": "Q12927"
+ },
+ "David Lisnard": {
+  "archivo": "david-lisnard.jpg",
+  "alias": [
+   "David Lisnard"
+  ],
+  "autor": "Frantogian",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:David_Lisnard_-_2013.jpg",
+  "wikidata": "Q3018298"
+ },
+ "Édouard Philippe": {
+  "archivo": "edouard-philippe.jpg",
+  "alias": [
+   "Édouard Philippe"
+  ],
+  "autor": "Jacques Paquier",
+  "licencia": "CC BY 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Philippe_2019_(cropped).jpg",
+  "wikidata": "Q3579995"
+ },
+ "Jean-Luc Mélenchon": {
+  "archivo": "jean-luc-melenchon.png",
+  "alias": [
+   "Jean-Luc Mélenchon"
+  ],
+  "autor": "jlm2017.fr",
+  "licencia": "CC BY 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:M%C3%A9lenchon_2027_-_55262255527_(cropped_3-4).png",
+  "wikidata": "Q5829"
+ },
+ "Gabriel Attal": {
+  "archivo": "gabriel-attal.jpg",
+  "alias": [
+   "Gabriel Attal"
+  ],
+  "autor": "Ismail Aissoub",
+  "licencia": "CC BY 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Gabriel_Attal_2025_(close_crop).jpg",
+  "wikidata": "Q30339350"
+ },
+ "Raphaël Glucksmann": {
+  "archivo": "raphael-glucksmann.jpg",
+  "alias": [
+   "Raphaël Glucksmann"
+  ],
+  "autor": "Mathieu Delmestre",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:2024-03-03_-_Congr%C3%A8s_du_PSE-_105_-_Raphael_Glucksmann.jpg",
+  "wikidata": "Q556149"
+ },
+ "François Hollande": {
+  "archivo": "francois-hollande.jpg",
+  "alias": [
+   "François Hollande"
+  ],
+  "autor": "Web Summit",
+  "licencia": "CC BY 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Hollande_-_2017_(27869823159)_(cropped_2).jpg",
+  "wikidata": "Q157"
+ },
+ "Emmanuel Macron": {
+  "archivo": "emmanuel-macron.jpg",
+  "alias": [
+   "Emmanuel Macron",
+   "Macron"
+  ],
+  "autor": "Nebojša Tejić",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_2025_(cropped).jpg",
+  "wikidata": "Q3052772"
+ },
+ "Flávio Bolsonaro": {
+  "archivo": "flavio-bolsonaro.jpg",
+  "alias": [
+   "Flávio Bolsonaro"
+  ],
+  "autor": "Agência Senado",
+  "licencia": "Attribution",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_(v._AgSen)_(3x4).jpg",
+  "wikidata": "Q10283057"
+ },
+ "Luiz Inácio Lula da Silva": {
+  "archivo": "luiz-inacio-lula-da-silva.jpg",
+  "alias": [
+   "Luiz Inácio Lula da Silva",
+   "Lula"
+  ],
+  "autor": "Palácio do Planalto from Brasilia, Brasil",
+  "licencia": "CC BY 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_(estreita).jpg",
+  "wikidata": "Q37181"
+ },
+ "Jair Bolsonaro": {
+  "archivo": "jair-bolsonaro.jpg",
+  "alias": [
+   "Jair Bolsonaro"
+  ],
+  "autor": "US Embassy Brasília",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Presidente_Jair_Messias_Bolsonaro.jpg",
+  "wikidata": "Q10304982"
+ },
+ "Nicolás Maduro": {
+  "archivo": "nicolas-maduro.jpg",
+  "alias": [
+   "Nicolás Maduro",
+   "Maduro"
+  ],
+  "autor": "Ricardo Stuckert",
+  "licencia": "CC BY 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Nicol%C3%A1s_Maduro_in_2023_(cropped).jpg",
+  "wikidata": "Q58132"
+ },
+ "Delcy Rodríguez": {
+  "archivo": "delcy-rodriguez.jpg",
+  "alias": [
+   "Delcy Rodríguez"
+  ],
+  "autor": "Presidency of Venezuela",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Delcy_Rodr%C3%ADguez_-_02_(19-01-2026)_(cropped_2).jpg",
+  "wikidata": "Q15081116"
+ },
+ "María Corina Machado": {
+  "archivo": "maria-corina-machado.jpg",
+  "alias": [
+   "María Corina Machado",
+   "Machado"
+  ],
+  "autor": "Kevin Payravi",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Nobel_Peace_Prize_2025_-_Mar%C3%ADa_Corina_Machado_press_conference_(cropped).jpg",
+  "wikidata": "Q439564"
+ },
+ "Javier Milei": {
+  "archivo": "javier-milei.jpg",
+  "alias": [
+   "Javier Milei",
+   "Milei"
+  ],
+  "autor": "Cancillería Argentina",
+  "licencia": "CC BY 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Javier_Milei_en_el_Sal%C3%B3n_Blanco_2_(cropped).jpg",
+  "wikidata": "Q52395487"
+ },
+ "Axel Kicillof": {
+  "archivo": "axel-kicillof.jpg",
+  "alias": [
+   "Axel Kicillof"
+  ],
+  "autor": "autor desconocido",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Axel_Kicillof_20190328.jpg",
+  "wikidata": "Q3754443"
+ },
+ "Claudia Sheinbaum": {
+  "archivo": "claudia-sheinbaum.jpg",
+  "alias": [
+   "Claudia Sheinbaum",
+   "Sheinbaum"
+  ],
+  "autor": "Bryan Berlin",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Claudia_Sheinbaum_Argentina_v_Spain_19_July_2026-283.jpg",
+  "wikidata": "Q5771800"
+ },
+ "Gavin Newsom": {
+  "archivo": "gavin-newsom.jpg",
+  "alias": [
+   "Gavin Newsom"
+  ],
+  "autor": "Office of the Lieutenant Governor of California",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Gavin_Newsom_official_photo.jpg",
+  "wikidata": "Q461391"
+ },
+ "Alexandria Ocasio-Cortez": {
+  "archivo": "alexandria-ocasio-cortez.jpg",
+  "alias": [
+   "Alexandria Ocasio-Cortez",
+   "Ocasio-Cortez"
+  ],
+  "autor": "Franmarie Metzler; U.S. House Office of Photography",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Alexandria_Ocasio-Cortez_Official_Portrait.jpg",
+  "wikidata": "Q55223040"
+ },
+ "Jon Ossoff": {
+  "archivo": "jon-ossoff.jpg",
+  "alias": [
+   "Jon Ossoff"
+  ],
+  "autor": "U.S. Senate Photographic Studio",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Jon_Ossoff_Senate_Portrait_2021.jpg",
+  "wikidata": "Q28839536"
+ },
+ "Kamala Harris": {
+  "archivo": "kamala-harris.jpg",
+  "alias": [
+   "Kamala Harris"
+  ],
+  "autor": "Lawrence Jackson",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait.jpg",
+  "wikidata": "Q10853588"
+ },
+ "Pete Buttigieg": {
+  "archivo": "pete-buttigieg.jpg",
+  "alias": [
+   "Pete Buttigieg"
+  ],
+  "autor": "United States Department of Transportation",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Pete_Buttigieg,_Secretary_of_Transportation.jpg",
+  "wikidata": "Q7173106"
+ },
+ "Josh Shapiro": {
+  "archivo": "josh-shapiro.jpg",
+  "alias": [
+   "Josh Shapiro"
+  ],
+  "autor": "Governor Tom Wolf from Harrisburg, PA",
+  "licencia": "CC BY 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Josh_Shapiro_in_2019.jpg",
+  "wikidata": "Q6289368"
+ },
+ "J. D. Vance": {
+  "archivo": "j-d-vance.jpg",
+  "alias": [
+   "J.D. Vance",
+   "JD Vance",
+   "Vance"
+  ],
+  "autor": "Emily J. Higgins",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg",
+  "wikidata": "Q28935729"
+ },
+ "Marco Rubio": {
+  "archivo": "marco-rubio.jpg",
+  "alias": [
+   "Marco Rubio"
+  ],
+  "autor": "U.S. Department of State",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio.jpg",
+  "wikidata": "Q324546"
+ },
+ "Ron DeSantis": {
+  "archivo": "ron-desantis.jpg",
+  "alias": [
+   "Ron DeSantis"
+  ],
+  "autor": "United States Congress",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Ron_DeSantis_113th_Congress.jpg",
+  "wikidata": "Q3105215"
+ },
+ "Ted Cruz": {
+  "archivo": "ted-cruz.jpg",
+  "alias": [
+   "Ted Cruz"
+  ],
+  "autor": "U.S. Senate Photographic Studio",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Ted_Cruz_senatorial_portrait.jpg",
+  "wikidata": "Q2036942"
+ },
+ "James Talarico": {
+  "archivo": "james-talarico.jpg",
+  "alias": [
+   "James Talarico"
+  ],
+  "autor": "Antonioaesparza",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:James_Talarico_Press_Conference.jpg",
+  "wikidata": "Q100742942"
+ },
+ "Ken Paxton": {
+  "archivo": "ken-paxton.jpg",
+  "alias": [
+   "Ken Paxton"
+  ],
+  "autor": "Gage Skidmore",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:K_Paxton.jpg",
+  "wikidata": "Q6388290"
+ },
+ "Donald Trump": {
+  "archivo": "donald-trump.jpg",
+  "alias": [
+   "Donald Trump",
+   "Trump"
+  ],
+  "autor": "Daniel Torok",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+  "wikidata": "Q22686"
+ },
+ "Benjamin Netanyahu": {
+  "archivo": "benjamin-netanyahu.jpg",
+  "alias": [
+   "Benjamin Netanyahu",
+   "Netanyahu"
+  ],
+  "autor": "Avi Ohayon",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu,_February_2023.jpg",
+  "wikidata": "Q43723"
+ },
+ "Gadi Eisenkot": {
+  "archivo": "gadi-eisenkot.jpg",
+  "alias": [
+   "Gadi Eizenkot",
+   "Gadi Eisenkot",
+   "Eizenkot",
+   "Eisenkot"
+  ],
+  "autor": "יהב טרודלר (Yahav Trudler - Yahav Studio‬‏)",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Gadi_Eisenkot_2_(cropped_-_WD).jpg",
+  "wikidata": "Q796885"
+ },
+ "Naftali Bennett": {
+  "archivo": "naftali-bennett.jpg",
+  "alias": [
+   "Naftali Bennett"
+  ],
+  "autor": "Avi Ohayon",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Naftali_Bennett_official_portrait.jpg",
+  "wikidata": "Q39318"
+ },
+ "Avigdor Lieberman": {
+  "archivo": "avigdor-lieberman.jpg",
+  "alias": [
+   "Avigdor Lieberman"
+  ],
+  "autor": "Jim Mattis",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Avigdor_Lieberman_2017.jpg",
+  "wikidata": "Q58311"
+ },
+ "Mojtaba Khamenei": {
+  "archivo": "mojtaba-khamenei.jpg",
+  "alias": [
+   "Mojtaba Khamenei"
+  ],
+  "autor": "khamenei.ir",
+  "licencia": "CC BY 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Portrait_of_Mojtaba_Khamenei.jpg",
+  "wikidata": "Q2919350"
+ },
+ "Reza Pahlavi": {
+  "archivo": "reza-pahlavi.jpg",
+  "alias": [
+   "Reza Pahlavi",
+   "Pahlavi"
+  ],
+  "autor": "Steffen Wurzel",
+  "licencia": "CC BY 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Pahlavi_in_Berlin_April_2026.jpg",
+  "wikidata": "Q334871"
+ },
+ "Vladimir Putin": {
+  "archivo": "vladimir-putin.png",
+  "alias": [
+   "Vladimir Putin",
+   "Putin"
+  ],
+  "autor": "Пресс-служба Президента России",
+  "licencia": "CC BY 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Putin_V_2026_08_10.png",
+  "wikidata": "Q7747"
+ },
+ "Volodymyr Zelenskyy": {
+  "archivo": "volodymyr-zelenskyy.jpg",
+  "alias": [
+   "Volodymyr Zelenskyy",
+   "Zelenskyy",
+   "Zelensky"
+  ],
+  "autor": "Press Service of the President of Ukraine",
+  "licencia": "CC BY 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_(31-12-2025)_(cropped).jpg",
+  "wikidata": "Q3874799"
+ },
+ "Xi Jinping": {
+  "archivo": "xi-jinping.jpg",
+  "alias": [
+   "Xi Jinping"
+  ],
+  "autor": "Presidencia de la República del Ecuador",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Xi_Jinping_on_August_18,_2026_(cropped).jpg",
+  "wikidata": "Q15031"
+ },
+ "Lai Ching-te": {
+  "archivo": "lai-ching-te.jpg",
+  "alias": [
+   "Lai Ching-te"
+  ],
+  "autor": "總統府",
+  "licencia": "Attribution",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:%E8%B3%B4%E6%B8%85%E5%BE%B7%E7%B8%BD%E7%B5%B1_1.jpg",
+  "wikidata": "Q3847080"
+ },
+ "Alberto Núñez Feijóo": {
+  "archivo": "alberto-nunez-feijoo.jpg",
+  "alias": [
+   "Alberto Núñez Feijóo"
+  ],
+  "autor": "European People's Party",
+  "licencia": "CC BY 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o_2025.jpg",
+  "wikidata": "Q2457783"
+ },
+ "Pedro Sánchez": {
+  "archivo": "pedro-sanchez.jpg",
+  "alias": [
+   "Pedro Sánchez"
+  ],
+  "autor": "Foto: Nebojša Tejić/STA",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Obisk_%C5%A1panskega_predsednika_vlade_v_Sloveniji_(53658605930)_(cropped).jpg",
+  "wikidata": "Q6070218"
+ },
+ "Friedrich Merz": {
+  "archivo": "friedrich-merz.jpg",
+  "alias": [
+   "Friedrich Merz",
+   "Merz"
+  ],
+  "autor": "Steffen Prößdorf",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_(3x4_cropped).jpg",
+  "wikidata": "Q566257"
+ },
+ "Andy Beshear": {
+  "archivo": "andy-beshear.jpg",
+  "alias": [
+   "Andy Beshear"
+  ],
+  "autor": "Kentucky National Guard",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:2021_Andy_Beshear.jpg",
+  "wikidata": "Q21572825"
+ },
+ "Mark Kelly": {
+  "archivo": "mark-kelly.jpg",
+  "alias": [
+   "Mark Kelly"
+  ],
+  "autor": "Wikimedia Commons",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Mark_E._Kelly_2001.jpg",
+  "wikidata": "Q357510"
+ },
+ "Tucker Carlson": {
+  "archivo": "tucker-carlson.jpg",
+  "alias": [
+   "Tucker Carlson"
+  ],
+  "autor": "Gage Skidmore",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Tucker_Carlson_2025.jpg",
+  "wikidata": "Q743162"
+ },
+ "J. B. Pritzker": {
+  "archivo": "j-b-pritzker.jpg",
+  "alias": [
+   "J.B. Pritzker",
+   "Pritzker"
+  ],
+  "autor": "Maryland GovPics",
+  "licencia": "CC BY 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:J.B._Pritzker_April_2023.jpg",
+  "wikidata": "Q6103950"
+ }
+}

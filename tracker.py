@@ -31,6 +31,7 @@ from pathlib import Path
 
 import yaml
 
+import decoracion
 import traduccion
 
 try:
@@ -780,6 +781,47 @@ summary{cursor:pointer;color:var(--suave)}
 footer{margin-top:56px;padding-top:20px;border-top:1px solid var(--linea);font-size:.88rem;color:var(--suave)}
 footer p{max-width:75ch}
 .errores{color:var(--baja)}
+.tema,.tarjeta,.chip{--ac:var(--ac-claro)}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]) .tema,:root:not([data-theme="light"]) .tarjeta,:root:not([data-theme="light"]) .chip{--ac:var(--ac-oscuro)} }
+:root[data-theme="dark"] .tema,:root[data-theme="dark"] .tarjeta,:root[data-theme="dark"] .chip{--ac:var(--ac-oscuro)}
+.tema h2{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding-left:14px;border-left:5px solid var(--ac)}
+.h2-banderas{display:inline-flex;gap:6px;font-size:1.1rem}
+.tema .riel .lleno{background:var(--ac)}
+.tema .conclusiones{border-top:3px solid var(--ac)}
+.tema .analisis{border-left-color:var(--ac)}
+nav.temas a.chip{display:inline-flex;align-items:center;gap:7px}
+nav.temas a.chip::before{content:"";width:10px;height:10px;border-radius:50%;background:var(--ac)}
+.fi{border-radius:2px;box-shadow:0 0 0 1px var(--linea)}
+.tit{display:flex;gap:12px;align-items:flex-start;min-width:0}
+.tit-txt{min-width:0}
+.avatar{flex:none;width:40px;height:40px;border-radius:50%;object-fit:cover;object-position:50% 22%;
+  background:var(--riel);background-size:cover;background-position:center;box-shadow:0 0 0 1px var(--linea)}
+.avatar.chico{width:28px;height:28px}
+span.avatar.fi{width:40px;height:40px;line-height:40px;background-size:cover}
+span.avatar.chico.fi{width:28px;height:28px;line-height:28px}
+.avatar.sin-imagen{background:var(--riel)}
+.plataforma{display:inline-flex;align-items:center;gap:5px;font-weight:600;color:var(--tinta)}
+.plataforma img{border-radius:3px}
+.meta .fi{margin-right:4px}
+.mov li{grid-template-columns:auto 1fr auto}
+.mov li .avatar{grid-row:1/span 2;align-self:center}
+.mov .t{grid-column:2}
+.mov .plat{grid-column:2}
+.mov .cambio{grid-column:3}
+.tarjetas{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px}
+.tarjeta{display:flex;flex-direction:column;gap:12px;padding:16px 18px;background:var(--superficie);border-radius:8px;
+  border-top:4px solid var(--ac);text-decoration:none;color:var(--tinta);transition:transform .15s ease,box-shadow .15s ease}
+.tarjeta:hover{transform:translateY(-2px);box-shadow:0 6px 18px rgba(0,0,0,.08)}
+.tarjeta-tema{display:flex;align-items:center;gap:6px;font-size:.8rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--ac)}
+.tarjeta-tema .fi:last-of-type{margin-right:4px}
+.tarjeta-cuerpo{display:flex;gap:12px;align-items:center}
+.tarjeta-preg{font-size:.95rem;line-height:1.35}
+.tarjeta-pie{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;margin-top:auto;font-size:.85rem}
+.tarjeta-pie .num{font-size:2.2rem;color:var(--ac);min-width:0}
+.tarjeta-plat{margin-left:auto}
+.creditos{margin-top:12px;font-size:.82rem}
+.creditos ul{columns:2 320px;padding-left:18px;margin:10px 0 0}
+.creditos li{break-inside:avoid;margin:2px 0}
 .conclusiones,.analisis{margin-top:22px;padding:16px 18px;background:var(--superficie);border-radius:6px;max-width:80ch}
 .analisis{border-left:3px solid var(--relleno)}
 .conclusiones h3 span,.analisis h3 span{font-weight:400;font-size:.82rem;color:var(--suave);margin-left:8px}
@@ -811,8 +853,10 @@ def html_fila(r, i, tz, cfg):
     if r["plataforma"] == "consolidado":
         meta.append("Consolidado entre plataformas")
     else:
-        meta.append(NOMBRES[r["plataforma"]])
+        meta.append(html_plataforma(r["plataforma"]))
         meta.append(volumen_txt(r))
+    if r.get("banderas") and (r.get("foto") or len(r["banderas"]) > 1):
+        meta.append(html_banderas(r["banderas"]))
     cierre = de_iso(r.get("cierre"))
     if cierre:
         meta.append(f"Cierra el {fecha_es(cierre, tz=tz)}")
@@ -830,7 +874,7 @@ def html_fila(r, i, tz, cfg):
         extra = f'<p class="partes">Por plataforma: {partes}.{aviso}</p>'
     return f"""
 <article class="fila{' consol' if r['plataforma'] == 'consolidado' else ''}">
-  <div class="tit">{titulo}<p class="meta">{''.join(f'<span>{m}</span>' for m in meta)}</p></div>
+  <div class="tit">{html_avatar(r)}<div class="tit-txt">{titulo}<p class="meta">{''.join(f'<span>{m}</span>' for m in meta)}</p></div></div>
   <div class="prob" role="img" aria-label="{e(etiqueta)}">
     <span class="num">{pct(r['prob'])}</span>
     <span class="riel"><span class="lleno" style="width:{r['prob'] * 100:.1f}%"></span>{antes}</span>
@@ -840,6 +884,75 @@ def html_fila(r, i, tz, cfg):
   <div class="spark-c">{minigrafico(i['serie'])}</div>
   {extra}
 </article>"""
+
+
+FOTOS_MOSTRADAS = set()     # las que la página muestra: solo esas van a los créditos
+
+
+def html_plataforma(p):
+    logo = decoracion.LOGOS.get(p)
+    img = f'<img src="recursos/logos/{logo}" alt="" width="14" height="14">' if logo else ""
+    return f'<span class="plataforma">{img}{NOMBRES.get(p, p)}</span>'
+
+
+def html_banderas(codigos):
+    return "".join(f'<span class="fi fi-{c}" title="{e(decoracion.PAISES.get(c, c.upper()))}"></span>'
+                   for c in codigos)
+
+
+def html_avatar(r, tam=""):
+    clase = f"avatar {tam}".strip()
+    if r.get("foto"):
+        nombre, d = r["foto"]
+        FOTOS_MOSTRADAS.add(nombre)
+        return (f'<img class="{clase}" src="recursos/fotos/{e(d["archivo"])}" alt="{e(nombre)}" loading="lazy" '
+                f'title="{e(nombre)}. Foto: {e(d["autor"])} ({e(d["licencia"])}), Wikimedia Commons">')
+    if r.get("banderas"):
+        c = r["banderas"][0]
+        return f'<span class="{clase} fi fi-{c} fis" title="{e(decoracion.PAISES.get(c, ""))}"></span>'
+    return f'<span class="{clase} sin-imagen" aria-hidden="true"></span>'
+
+
+def estilo_tema(nombre):
+    claro, oscuro = decoracion.COLORES.get(slug(nombre), ("#566273", "#97A3B3"))
+    return f'style="--ac-claro:{claro};--ac-oscuro:{oscuro}"'
+
+
+def html_panorama(nombres_temas, actuales, info):
+    """Una tarjeta por tema con su pregunta abierta de más volumen."""
+    tarjetas = []
+    for t in nombres_temas:
+        abiertos = [r for r in actuales.values() if t in r["temas"] and r["plataforma"] != "consolidado"
+                    and 0.10 <= r["prob"] <= 0.90]
+        if not abiertos:
+            continue
+        r = max(abiertos, key=lambda x: x.get("volumen") or 0)
+        d7 = info[r["clave"]]["d7"]
+        cambio = (f'<span class="{clase_delta(d7)}">{pp(d7)} en 7 días</span>' if d7 is not None
+                  else '<span class="igual">cambio de 7 días: en construcción</span>')
+        tarjetas.append(f"""<a class="tarjeta" href="#{slug(t)}" {estilo_tema(t)}>
+  <span class="tarjeta-tema">{html_banderas(decoracion.BANDERAS_TEMA.get(slug(t), []))}{e(t)}</span>
+  <span class="tarjeta-cuerpo">{html_avatar(r)}<span class="tarjeta-preg">{e(r.get("titulo_es", r["titulo"]))}</span></span>
+  <span class="tarjeta-pie"><b class="num">{pct(r["prob"])}</b>{cambio}<span class="tarjeta-plat">{html_plataforma(r["plataforma"])}</span></span>
+</a>""")
+    if not tarjetas:
+        return ""
+    return (f'<section id="panorama"><h2>Panorama</h2><p class="nota">La pregunta abierta con más dinero '
+            f'operado de cada tema. Tocá una tarjeta para ir al tema.</p><div class="tarjetas">{"".join(tarjetas)}</div></section>')
+
+
+def html_creditos(fotos):
+    if not FOTOS_MOSTRADAS:
+        return ""
+    items = []
+    for n in sorted(FOTOS_MOSTRADAS):
+        d = fotos.datos[n]
+        lic = (f'<a href="{e(d["licencia_url"])}" target="_blank" rel="noopener">{e(d["licencia"])}</a>'
+               if d["licencia_url"] else e(d["licencia"]))
+        items.append(f'<li>{e(n)}: {e(d["autor"])}, {lic}, '
+                     f'<a href="{e(d["fuente"])}" target="_blank" rel="noopener">Wikimedia Commons</a></li>')
+    return (f'<details class="creditos"><summary>Créditos de las fotos ({len(items)})</summary>'
+            f'<ul>{"".join(items)}</ul></details>')
 
 
 def html_movimientos(actuales, info, campo, previo, cfg):
@@ -854,8 +967,8 @@ def html_movimientos(actuales, info, campo, previo, cfg):
         antes = info[r["clave"]][previo]
         link = (f'<a href="{e(r["url"])}" target="_blank" rel="noopener">{e(r.get("titulo_es", r["titulo"]))}</a>'
                 if r["url"] else e(r.get("titulo_es", r["titulo"])))
-        items.append(f"""<li><span class="t">{link}</span>
-  <span class="plat">{NOMBRES[r['plataforma']]}{', ' + e(r['temas'][0]) if r['temas'] else ''}</span>
+        items.append(f"""<li>{html_avatar(r, "chico")}<span class="t">{link}</span>
+  <span class="plat">{html_plataforma(r['plataforma'])}{', ' + e(r['temas'][0]) if r['temas'] else ''}</span>
   <span class="cambio"><b class="{clase_delta(d)}">{pp(d)}</b><span>{pct(antes)} a {pct(r['prob'])}</span></span></li>""")
     return f'<ul class="mov">{"".join(items)}</ul>'
 
@@ -938,7 +1051,8 @@ def html_analisis(analisis, tema, ts, tz):
             f'{f"<p class=fuentes>Fuentes: {fuentes}.</p>" if fuentes else ""}</div>')
 
 
-def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo):
+def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo, fotos):
+    FOTOS_MOSTRADAS.clear()
     tz = tz_local(cfg)
     analisis = {} if demo else cargar_analisis(BASE / "analisis.json")
     titulo = cfg.get("titulo", "Monitor de pronósticos")
@@ -974,7 +1088,9 @@ def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo):
         nota = (f'<p class="nota">{" ".join(partes_nota)} La lista completa está en data.json.</p>'
                 if partes_nota else "")
         cierre = html_conclusiones(del_tema, info) + html_analisis(analisis, t, ts, tz)
-        secciones.append(f'<section id="{slug(t)}"><h2>{e(t)}</h2>{nota}{filas}{cierre}</section>')
+        secciones.append(f'<section id="{slug(t)}" class="tema" {estilo_tema(t)}><h2>{e(t)}'
+                         f'<span class="h2-banderas">{html_banderas(decoracion.BANDERAS_TEMA.get(slug(t), []))}</span></h2>'
+                         f'{nota}{filas}{cierre}</section>')
 
     pares = equivalencias(actuales, cfg.get("preguntas") or [])
     if pares:
@@ -988,7 +1104,7 @@ def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo):
 <p class="nota">Mercados de distintas plataformas con títulos parecidos. Si de verdad preguntan lo mismo (revisá fechas y reglas de resolución), copiá el bloque en la sección <em>preguntas</em> de config.yaml para consolidarlos.</p>
 <details><summary>Ver {len(pares)} sugerencias</summary><ul class="eq">{items}</ul></details></section>""")
 
-    nav = "".join(f'<a href="#{slug(t)}">{e(t)}</a>' for t in nombres_temas
+    nav = "".join(f'<a href="#{slug(t)}" class="chip" {estilo_tema(t)}>{e(t)}</a>' for t in nombres_temas
                   if any(t in r["temas"] for r in actuales.values()))
     if consolidadas:
         nav = '<a href="#consolidadas">Preguntas consolidadas</a>' + nav
@@ -1004,6 +1120,7 @@ def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo):
 <title>{e(titulo)}</title>
 <link rel="alternate" type="application/rss+xml" title="{e(titulo)}" href="feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css">
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>{CSS}</style>
 </head><body><div class="envoltura">
@@ -1014,6 +1131,7 @@ def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo):
   {aviso_demo}
 </header>
 <nav class="temas" aria-label="Temas">{nav}</nav>
+{html_panorama(nombres_temas, actuales, info)}
 <section id="movimientos"><h2>Lo que más se movió</h2>
 <p class="nota">Cambio en puntos porcentuales (pp). En cada mercado, la marca gris sobre la barra indica dónde estaba hace 7 días.</p>
 <div class="movimientos">
@@ -1023,6 +1141,8 @@ def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo):
 {''.join(secciones)}
 <footer>
   <p>Fuentes: Polymarket y Kalshi (dinero real), Manifold (dinero ficticio) y Metaculus (pronosticadores, si está configurado). Un precio de 41 centavos equivale a una probabilidad implícita del 41%. Los mercados con poco volumen se excluyen, pero incluso los incluidos pueden moverse por pocas operaciones. Esto no es asesoramiento financiero.</p>
+  <p>Fotos: Wikimedia Commons, todas con licencia libre; autor y licencia de cada una abajo y al pasar el mouse. Banderas: <a href="https://github.com/lipis/flag-icons" target="_blank" rel="noopener">flag-icons</a> (licencia MIT). Los logos de Polymarket, Kalshi, Manifold y Metaculus pertenecen a sus dueños y se usan solo para identificar la fuente de cada dato.</p>
+  {html_creditos(fotos)}
   {err}
 </footer>
 </div></body></html>"""
@@ -1057,11 +1177,17 @@ def generar_feed(cfg, actuales, info, ts, dir_datos, dir_salida):
 def generar_salidas(cfg, actuales, consolidadas, filas, ts, errores, dir_datos, dir_salida, demo):
     dir_salida.mkdir(parents=True, exist_ok=True)
     dic = {} if demo else traduccion.cargar(BASE / "traducciones.json")
+    fotos = decoracion.Fotos(BASE / "recursos" / "fotos")
     for r in actuales.values():
         r["titulo_es"] = traduccion.traducir(r["titulo"], dic) or r["titulo"]
+        if r["plataforma"] != "consolidado":
+            r["banderas"] = decoracion.banderas(r["titulo"])
+            r["foto"] = fotos.de(r["titulo"])
+    if (BASE / "recursos").exists():
+        shutil.copytree(BASE / "recursos", dir_salida / "recursos", dirs_exist_ok=True)
     info = preparar(actuales, filas, ts, cfg.get("dias_grafico", 30))
     (dir_salida / "index.html").write_text(
-        generar_html(cfg, actuales, consolidadas, info, ts, errores, demo), encoding="utf-8")
+        generar_html(cfg, actuales, consolidadas, info, ts, errores, demo, fotos), encoding="utf-8")
     generar_feed(cfg, actuales, info, ts, dir_datos, dir_salida)
     guardar_json(dir_salida / "data.json", {
         "actualizado": a_iso(ts),

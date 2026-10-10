@@ -47,6 +47,13 @@ Todo se ajusta en `config.yaml`, que se puede editar desde la web de GitHub (íc
 - **Títulos en castellano**: salen de `traducciones.json`, un diccionario que se completa a mano (o con la tarea nocturna del análisis). Los títulos que todavía no están ahí se muestran en inglés. El original se ve al pasar el mouse sobre el título.
 - **Frecuencia**: en `.github/workflows/actualizar.yml`, la línea `cron: "0 */6 * * *"` indica cada 6 horas. Para cada 3 horas, usá `"0 */3 * * *"`.
 
+## Fotos, banderas y logos
+
+- **Fotos** (`recursos/fotos/`): solo de Wikimedia Commons con licencia libre, con autor y licencia en `recursos/fotos/fotos.json`. La página los muestra al pasar el mouse y al pie, en "Créditos de las fotos". Para sumar a alguien: buscar su ficha en Wikidata, confirmar que la foto tenga licencia libre (dominio público, CC0, CC BY o CC BY-SA), bajar la miniatura y agregar su entrada con los alias con que aparece en los títulos. Nunca fotos de agencia.
+- **Banderas**: biblioteca flag-icons (licencia MIT). Los países se detectan por palabras del título, en `decoracion.py`.
+- **Logos**: los íconos de cada plataforma, solo para identificar de dónde sale el dato.
+- **Colores por tema**: en `decoracion.py`. Son decorativos: ningún dato depende del color.
+
 ## Metaculus (opcional)
 
 Metaculus pide un token gratuito. Creá una cuenta en metaculus.com y generá un token de API en la configuración de tu perfil. Después, en GitHub, entrá a *Settings → Secrets and variables → Actions → New repository secret*, con el nombre `METACULUS_TOKEN` y el token como valor. Sin el token, el monitor funciona igual con las otras tres plataformas.
