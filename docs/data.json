@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-10T18:32:03Z",
+ "actualizado": "2026-10-10T18:36:04Z",
  "mercados": [
   {
    "clave": "polymarket:665374",
@@ -403,7 +403,7 @@
    "probabilidad": 0.105,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 34145033.39,
+   "volumen": 34146952.43,
    "cierre": "2027-02-01T15:00:00Z"
   },
   {
@@ -898,7 +898,7 @@
    "probabilidad": 0.895,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 17524537.62,
+   "volumen": 17524651.24,
    "cierre": "2027-02-01T15:00:00Z"
   },
   {
@@ -1063,7 +1063,7 @@
    "probabilidad": 0.365,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 14309483.16,
+   "volumen": 14309780.76,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -1468,7 +1468,7 @@
    "probabilidad": 0.625,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 9192599.34,
+   "volumen": 9192766.22,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -1573,7 +1573,7 @@
    "probabilidad": 0.165,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 8469366.57,
+   "volumen": 8469498.09,
    "cierre": "2028-11-07T15:00:00Z"
   },
   {
@@ -1918,7 +1918,7 @@
    "probabilidad": 0.605,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 6222850.26,
+   "volumen": 6223167.7,
    "cierre": "2027-02-01T15:00:00Z"
   },
   {
@@ -2263,7 +2263,7 @@
    "probabilidad": 0.605,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 4798966.93,
+   "volumen": 4799002.9,
    "cierre": "2027-02-01T15:00:00Z"
   },
   {
@@ -2458,7 +2458,7 @@
    "probabilidad": 0.425,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 4285600.14,
+   "volumen": 4285680.58,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -2698,7 +2698,7 @@
    "probabilidad": 0.335,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 3631561.51,
+   "volumen": 3631697.12,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -2983,7 +2983,7 @@
    "probabilidad": 0.405,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 3279920.48,
+   "volumen": 3280002.46,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -3115,7 +3115,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.4115,
+   "probabilidad": 0.4125,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 3106684.7379119997,
@@ -3215,7 +3215,7 @@
    "clave": "polymarket:679026",
    "plataforma": "polymarket",
    "titulo": "Next French Presidential Election: Gabriel Attal",
-   "titulo_es": null,
+   "titulo_es": "Próxima elección presidencial francesa: Gabriel Attal",
    "url": "https://polymarket.com/event/next-french-presidential-election",
    "temas": [
     "Europa"
@@ -3250,7 +3250,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.4305,
+   "probabilidad": 0.43,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 2826455.625401001,
@@ -3313,7 +3313,7 @@
    "probabilidad": 0.125,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2767214.81,
+   "volumen": 2767450.96,
    "cierre": "2027-10-25T14:00:00Z"
   },
   {
@@ -3508,7 +3508,7 @@
    "probabilidad": 0.665,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2560043.99,
+   "volumen": 2560080.46,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -3831,12 +3831,12 @@
    "clave": "polymarket:679029",
    "plataforma": "polymarket",
    "titulo": "Next French Presidential Election: Raphaël Glucksmann",
-   "titulo_es": null,
+   "titulo_es": "Próxima elección presidencial francesa: Raphaël Glucksmann",
    "url": "https://polymarket.com/event/next-french-presidential-election",
    "temas": [
     "Europa"
    ],
-   "probabilidad": 0.02,
+   "probabilidad": 0.0195,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 2181781.3834090005,
@@ -4124,7 +4124,7 @@
    "probabilidad": 0.375,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1904862.21,
+   "volumen": 1905240.52,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -4800,7 +4800,7 @@
    "probabilidad": 0.625,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1330849.45,
+   "volumen": 1330926.81,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -4993,10 +4993,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.335,
+   "probabilidad": 0.345,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1213417.7,
+   "volumen": 1213555.83,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -6062,7 +6062,7 @@
    "probabilidad": 0.645,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 656778.74,
+   "volumen": 656784.64,
    "cierre": "2029-01-20T15:00:00Z"
   },
   {
@@ -7186,7 +7186,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.425,
+   "probabilidad": 0.43,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 416101.7827330001,
@@ -8316,7 +8316,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.069,
+   "probabilidad": 0.072,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 266514.06,
@@ -8466,7 +8466,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.036,
+   "probabilidad": 0.0355,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 248401.415649,
@@ -9051,7 +9051,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0085,
+   "probabilidad": 0.0095,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 213158.747248,
@@ -9159,7 +9159,7 @@
    "probabilidad": 0.28,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 208347.08,
+   "volumen": 208396.35,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -10013,7 +10013,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.1115,
+   "probabilidad": 0.1125,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 164704.25,
@@ -10480,7 +10480,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.047,
+   "probabilidad": 0.0465,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 152620.691912,
@@ -10887,7 +10887,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9325,
+   "probabilidad": 0.9345,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 142315.13,
@@ -10980,7 +10980,7 @@
    "probabilidad": 0.635,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 139500.72,
+   "volumen": 139517.92,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -11067,7 +11067,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.085,
+   "probabilidad": 0.086,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 136339.21,
@@ -11157,7 +11157,7 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.265,
+   "probabilidad": 0.275,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 133218.3505049998,
@@ -11850,7 +11850,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.07,
+   "probabilidad": 0.075,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 120094.67847800002,
@@ -12260,7 +12260,7 @@
    "probabilidad": 0.918,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 108050.66,
+   "volumen": 108100.66,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -12348,7 +12348,7 @@
     "Guerra Rusia–Ucrania",
     "Estados Unidos"
    ],
-   "probabilidad": 0.0185,
+   "probabilidad": 0.018,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 106339.40661699999,
@@ -12949,7 +12949,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.91,
+   "probabilidad": 0.915,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 96087.28250199999,
@@ -13206,7 +13206,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.147,
+   "probabilidad": 0.1475,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 92540.28651299998,
@@ -13570,7 +13570,7 @@
    "probabilidad": 0.595,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 88104.45,
+   "volumen": 88120.65,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -14643,7 +14643,7 @@
    "probabilidad": 0.66,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 72343.74,
+   "volumen": 72345.17,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -14865,7 +14865,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.0385,
+   "probabilidad": 0.038,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 70277.87808499999,
@@ -14911,7 +14911,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.23,
+   "probabilidad": 0.225,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 69843.69,
@@ -15106,7 +15106,7 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.076,
+   "probabilidad": 0.0765,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 68364.407771,
@@ -15678,7 +15678,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.535,
+   "probabilidad": 0.53,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 63343.706803,
@@ -15693,7 +15693,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.575,
+   "probabilidad": 0.485,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 63286.85623,
@@ -15949,7 +15949,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.39,
+   "probabilidad": 0.4,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 61491.203256000015,
@@ -16461,7 +16461,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.973,
+   "probabilidad": 0.974,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 57788.34,
@@ -16536,7 +16536,7 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.8535,
+   "probabilidad": 0.852,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 57022.318713,
@@ -17246,7 +17246,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9655,
+   "probabilidad": 0.968,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 53043.310684000004,
@@ -18000,7 +18000,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.551,
+   "probabilidad": 0.552,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 46972.62220600001,
@@ -18030,7 +18030,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.031,
+   "probabilidad": 0.0305,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 46730.079333,
@@ -18105,7 +18105,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.063,
+   "probabilidad": 0.0625,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 46004.98,
@@ -18210,7 +18210,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.09,
+   "probabilidad": 0.087,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 45717.46,
@@ -18361,7 +18361,7 @@
     "Elecciones en América Latina",
     "Estados Unidos"
    ],
-   "probabilidad": 0.27,
+   "probabilidad": 0.265,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 44772.991942,
@@ -18466,7 +18466,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.1,
+   "probabilidad": 0.105,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 44405.75814300001,
@@ -18721,7 +18721,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0185,
+   "probabilidad": 0.018,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 43468.79042200001,
@@ -19262,7 +19262,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.1155,
+   "probabilidad": 0.1145,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 41825.282375,
@@ -19397,7 +19397,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0745,
+   "probabilidad": 0.0755,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 41400.96,
@@ -19427,7 +19427,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.6,
+   "probabilidad": 0.606,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 41297.178275,
@@ -19457,7 +19457,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0265,
+   "probabilidad": 0.0255,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 41281.404815,
@@ -19937,7 +19937,7 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.017,
+   "probabilidad": 0.0175,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 39713.689817000006,
@@ -20148,7 +20148,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.505,
+   "probabilidad": 0.49,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 38827.758760000004,
@@ -20178,7 +20178,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9515,
+   "probabilidad": 0.951,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 38817.051397,
@@ -20764,7 +20764,7 @@
    "temas": [
     "Europa"
    ],
-   "probabilidad": 0.395,
+   "probabilidad": 0.39,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 36539.27536099999,
@@ -20989,7 +20989,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.15,
+   "probabilidad": 0.155,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 35806.270943,
@@ -21485,7 +21485,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.96,
+   "probabilidad": 0.959,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 34707.585202,
@@ -21590,7 +21590,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.062,
+   "probabilidad": 0.061,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 34477.568406,
@@ -21605,7 +21605,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.96,
+   "probabilidad": 0.9595,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 34431.01336600001,
@@ -21846,7 +21846,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.095,
+   "probabilidad": 0.1,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 33912.24288800001,
@@ -21876,7 +21876,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9725,
+   "probabilidad": 0.9735,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 33828.335730000006,
@@ -22056,7 +22056,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.022,
+   "probabilidad": 0.023,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 33502.921376,
@@ -22146,7 +22146,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.14,
+   "probabilidad": 0.13,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 33079.342754000005,
@@ -22221,7 +22221,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.22,
+   "probabilidad": 0.215,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 32908.140906,
@@ -22552,7 +22552,7 @@
    "temas": [
     "Europa"
    ],
-   "probabilidad": 0.0675,
+   "probabilidad": 0.068,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 32323.814460999998,
@@ -22702,7 +22702,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0045,
+   "probabilidad": 0.005,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 32073.17589900001,
@@ -23078,7 +23078,7 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.3515,
+   "probabilidad": 0.3495,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 31400.323856000003,
@@ -23424,7 +23424,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.37,
+   "probabilidad": 0.38,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 30677.054437,
@@ -23454,7 +23454,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9825,
+   "probabilidad": 0.9855,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 30633.925748999998,
@@ -23605,7 +23605,7 @@
    "temas": [
     "Europa"
    ],
-   "probabilidad": 0.006,
+   "probabilidad": 0.0055,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 30333.047244,
@@ -24116,7 +24116,7 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.0175,
+   "probabilidad": 0.0185,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 29384.856433999998,
@@ -24246,7 +24246,7 @@
    "clave": "kalshi:KXFRENCHPRES-27-GATT",
    "plataforma": "kalshi",
    "titulo": "Next French presidential election winner?: Gabriel Attal",
-   "titulo_es": null,
+   "titulo_es": "¿Quién gana la próxima elección presidencial francesa?: Gabriel Attal",
    "url": "https://kalshi.com/markets/kxfrenchpres",
    "temas": [
     "Europa"
@@ -24476,7 +24476,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9605,
+   "probabilidad": 0.945,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 28563.519915000004,
@@ -24521,7 +24521,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.022,
+   "probabilidad": 0.023,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 28540.565733000007,
@@ -24971,7 +24971,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.435,
+   "probabilidad": 0.425,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 27656.521492000003,
@@ -25707,7 +25707,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.485,
+   "probabilidad": 0.48,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 26727.65,
@@ -25977,7 +25977,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.153,
+   "probabilidad": 0.151,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 26407.149624,
@@ -25992,7 +25992,7 @@
    "temas": [
     "China y Taiwán"
    ],
-   "probabilidad": 0.0385,
+   "probabilidad": 0.0395,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 26389.836252999998,
@@ -26459,7 +26459,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.035,
+   "probabilidad": 0.0355,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 25799.028379000003,
@@ -26474,7 +26474,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0405,
+   "probabilidad": 0.041,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 25789.570879000003,
@@ -26519,7 +26519,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0435,
+   "probabilidad": 0.0455,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 25713.23,
@@ -26939,7 +26939,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.66,
+   "probabilidad": 0.655,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 25235.904753000003,
@@ -27029,7 +27029,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.018,
+   "probabilidad": 0.0225,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 25148.108418,
@@ -27284,7 +27284,7 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.425,
+   "probabilidad": 0.42,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 24845.53,
@@ -27479,7 +27479,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.32,
+   "probabilidad": 0.315,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 24576.849113999997,
@@ -27689,7 +27689,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.975,
+   "probabilidad": 0.9755,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 24360.113589,
@@ -27764,7 +27764,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.72,
+   "probabilidad": 0.715,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 24222.362224000004,
@@ -27884,7 +27884,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.44,
+   "probabilidad": 0.445,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 24020.567254,
@@ -28094,7 +28094,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.039,
+   "probabilidad": 0.0395,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 23700.348804999998,
@@ -28515,7 +28515,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.345,
+   "probabilidad": 0.335,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 23128.815150999995,
@@ -29643,7 +29643,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9565,
+   "probabilidad": 0.957,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 21961.712839,
@@ -29673,7 +29673,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9765,
+   "probabilidad": 0.9735,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 21924.214986000003,
@@ -29869,7 +29869,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0345,
+   "probabilidad": 0.028,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 21766.807032,
@@ -29929,7 +29929,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.964,
+   "probabilidad": 0.9635,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 21688.84893499999,
@@ -29959,7 +29959,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.028,
+   "probabilidad": 0.0265,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 21673.916658000002,
@@ -30409,7 +30409,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.046,
+   "probabilidad": 0.054,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 21260.93,
@@ -30424,7 +30424,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.024,
+   "probabilidad": 0.022,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 21218.417249000002,
@@ -30800,7 +30800,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.1,
+   "probabilidad": 0.105,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 20847.894641,
@@ -30845,7 +30845,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.932,
+   "probabilidad": 0.929,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 20802.292158999997,
@@ -31251,7 +31251,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9515,
+   "probabilidad": 0.952,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 20307.549418000002,
@@ -31311,7 +31311,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.1755,
+   "probabilidad": 0.176,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 20266.63147699999,
@@ -31611,7 +31611,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0595,
+   "probabilidad": 0.06,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19954.084938999997,
@@ -31791,7 +31791,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.955,
+   "probabilidad": 0.957,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19783.216171,
@@ -32046,7 +32046,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.795,
+   "probabilidad": 0.805,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19577.482665999996,
@@ -32181,7 +32181,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.967,
+   "probabilidad": 0.968,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19395.021758000003,
@@ -32301,7 +32301,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.945,
+   "probabilidad": 0.95,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19318.514354000003,
@@ -32421,7 +32421,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0205,
+   "probabilidad": 0.021,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19218.794708,
@@ -32527,7 +32527,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.195,
+   "probabilidad": 0.175,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19146.104148000002,
@@ -32707,7 +32707,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.6955,
+   "probabilidad": 0.6965,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 18953.705253,
@@ -32978,7 +32978,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0225,
+   "probabilidad": 0.023,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 18701.741577000004,
@@ -33249,7 +33249,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.022,
+   "probabilidad": 0.0185,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 18419.213007999995,
@@ -33414,7 +33414,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.1025,
+   "probabilidad": 0.0975,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 18311.29,
@@ -33564,7 +33564,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.953,
+   "probabilidad": 0.955,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 18211.230674,
@@ -33639,7 +33639,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.1035,
+   "probabilidad": 0.1015,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 18114.662043999997,
@@ -34104,7 +34104,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.028,
+   "probabilidad": 0.021,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17666.729127,
@@ -34119,7 +34119,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.032,
+   "probabilidad": 0.0315,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17652.882773,
@@ -34149,7 +34149,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9605,
+   "probabilidad": 0.96,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17612.713456,
@@ -34360,7 +34360,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.987,
+   "probabilidad": 0.986,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17453.223296999997,
@@ -34405,7 +34405,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.013,
+   "probabilidad": 0.01,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17381.03624,
@@ -34430,12 +34430,12 @@
    "clave": "polymarket:2054231",
    "plataforma": "polymarket",
    "titulo": "2027 French Presidential Election: who will be on the ballot?: Gabriel Attal",
-   "titulo_es": null,
+   "titulo_es": "Presidencial francesa 2027: ¿quiénes serán candidatos?: Gabriel Attal",
    "url": "https://polymarket.com/event/2027-french-presidential-election-who-will-be-on-the-ballot",
    "temas": [
     "Europa"
    ],
-   "probabilidad": 0.215,
+   "probabilidad": 0.21,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17367.410993,
@@ -34465,7 +34465,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0415,
+   "probabilidad": 0.0395,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17360.162091,
@@ -34630,7 +34630,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.8865,
+   "probabilidad": 0.952,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17219.79571,
@@ -34645,7 +34645,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0565,
+   "probabilidad": 0.0575,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17209.516473,
@@ -35171,7 +35171,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.956,
+   "probabilidad": 0.955,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 16965.585622,
@@ -35389,6 +35389,21 @@
    "cierre": "2027-01-03T13:59:00Z"
   },
   {
+   "clave": "kalshi:KXOHSENGOVCOMBO-26NOV-DEMDEM",
+   "plataforma": "kalshi",
+   "titulo": "Ohio Governor-Senate combo: Amy Acton and Sherrod Brown win",
+   "titulo_es": null,
+   "url": "https://kalshi.com/markets/kxohsengovcombo",
+   "temas": [
+    "Estados Unidos"
+   ],
+   "probabilidad": 0.53,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 16838.68,
+   "cierre": "2027-11-03T15:00:00Z"
+  },
+  {
    "clave": "polymarket:1284242",
    "plataforma": "polymarket",
    "titulo": "NY-06 House Election Winner: Joseph Chou (R)",
@@ -35464,21 +35479,6 @@
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
-   "clave": "kalshi:KXOHSENGOVCOMBO-26NOV-DEMDEM",
-   "plataforma": "kalshi",
-   "titulo": "Ohio Governor-Senate combo: Amy Acton and Sherrod Brown win",
-   "titulo_es": null,
-   "url": "https://kalshi.com/markets/kxohsengovcombo",
-   "temas": [
-    "Estados Unidos"
-   ],
-   "probabilidad": 0.52,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 16784.78,
-   "cierre": "2027-11-03T15:00:00Z"
-  },
-  {
    "clave": "polymarket:1285216",
    "plataforma": "polymarket",
    "titulo": "WI-06 House Election Winner: Brad Smith (D)",
@@ -35502,7 +35502,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9785,
+   "probabilidad": 0.98,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 16762.320744999997,
@@ -35742,7 +35742,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.26,
+   "probabilidad": 0.265,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 16621.174768,
@@ -35772,7 +35772,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.1075,
+   "probabilidad": 0.108,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 16614.490999999998,
@@ -36567,7 +36567,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.044,
+   "probabilidad": 0.045,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 16072.297939,
@@ -36627,7 +36627,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.035,
+   "probabilidad": 0.036,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 16000.923214000002,
@@ -37223,7 +37223,7 @@
    "clave": "polymarket:2054234",
    "plataforma": "polymarket",
    "titulo": "2027 French Presidential Election: who will be on the ballot?: Raphaël Glucksmann",
-   "titulo_es": null,
+   "titulo_es": "Presidencial francesa 2027: ¿quiénes serán candidatos?: Raphaël Glucksmann",
    "url": "https://polymarket.com/event/2027-french-presidential-election-who-will-be-on-the-ballot",
    "temas": [
     "Europa"
@@ -37453,7 +37453,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.06,
+   "probabilidad": 0.055,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 15436.770555000001,
@@ -37648,7 +37648,7 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.1805,
+   "probabilidad": 0.181,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 15292.590763000002,
@@ -37663,7 +37663,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.919,
+   "probabilidad": 0.9175,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 15282.28,
@@ -37918,7 +37918,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0095,
+   "probabilidad": 0.01,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 15105.678402000001,
@@ -38113,7 +38113,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.181,
+   "probabilidad": 0.1805,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 15028.120565,
@@ -38248,7 +38248,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.976,
+   "probabilidad": 0.9765,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14918.12973,
@@ -38383,7 +38383,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0415,
+   "probabilidad": 0.0425,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14808.817658,
@@ -38503,7 +38503,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0175,
+   "probabilidad": 0.0185,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14710.604013000004,
@@ -38608,7 +38608,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.355,
+   "probabilidad": 0.35,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14628.383227,
@@ -38968,7 +38968,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9655,
+   "probabilidad": 0.9685,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14444.893091999997,
@@ -39043,7 +39043,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9765,
+   "probabilidad": 0.977,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14390.366100999994,
@@ -39058,7 +39058,7 @@
    "temas": [
     "Europa"
    ],
-   "probabilidad": 0.565,
+   "probabilidad": 0.57,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14384.37679,
@@ -39133,7 +39133,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.075,
+   "probabilidad": 0.074,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14360.29,
@@ -39479,7 +39479,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.115,
+   "probabilidad": 0.11,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14118.759295000002,
@@ -39600,7 +39600,7 @@
     "Elecciones en América Latina",
     "Estados Unidos"
    ],
-   "probabilidad": 0.22,
+   "probabilidad": 0.215,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14073.19,
@@ -39705,7 +39705,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9825,
+   "probabilidad": 0.983,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13995.084726999998,
@@ -39855,7 +39855,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9395,
+   "probabilidad": 0.94,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13911.68,
@@ -39991,7 +39991,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.961,
+   "probabilidad": 0.965,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13819.8,
@@ -40489,7 +40489,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.036,
+   "probabilidad": 0.0345,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13416.938325,
@@ -40639,7 +40639,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.089,
+   "probabilidad": 0.09,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13357.797100000003,
@@ -40669,7 +40669,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.962,
+   "probabilidad": 0.9615,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13353.743661000004,
@@ -40699,7 +40699,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0405,
+   "probabilidad": 0.0365,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13320.31,
@@ -40759,7 +40759,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9675,
+   "probabilidad": 0.967,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13276.491357,
@@ -40789,7 +40789,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.967,
+   "probabilidad": 0.9675,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13257.286591,
@@ -40955,7 +40955,7 @@
    "temas": [
     "China y Taiwán"
    ],
-   "probabilidad": 0.245,
+   "probabilidad": 0.25,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13137.371409000001,
@@ -41437,7 +41437,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0295,
+   "probabilidad": 0.028,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12918.99649,
@@ -41557,7 +41557,7 @@
    "temas": [
     "Europa"
    ],
-   "probabilidad": 0.0415,
+   "probabilidad": 0.0385,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12857.999686999998,
@@ -41737,7 +41737,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.96,
+   "probabilidad": 0.959,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12724.283155000003,
@@ -41873,7 +41873,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.039,
+   "probabilidad": 0.041,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12653.89,
@@ -42203,7 +42203,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.977,
+   "probabilidad": 0.9775,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12467.070217000004,
@@ -42413,7 +42413,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.954,
+   "probabilidad": 0.9535,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12306.245546999993,
@@ -42473,7 +42473,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.33,
+   "probabilidad": 0.335,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12285.508779,
@@ -42488,7 +42488,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.026,
+   "probabilidad": 0.027,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12277.240176,
@@ -42713,7 +42713,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.38,
+   "probabilidad": 0.385,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12137.506786999998,
@@ -42728,7 +42728,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9435,
+   "probabilidad": 0.944,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12134.21,
@@ -43044,7 +43044,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.73,
+   "probabilidad": 0.735,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 11973.833473,
@@ -43104,7 +43104,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.1805,
+   "probabilidad": 0.18,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 11845.271122000002,
@@ -43169,6 +43169,21 @@
    "cambio_7d": null,
    "volumen": 11802.585806000001,
    "cierre": "2026-11-04T04:59:00Z"
+  },
+  {
+   "clave": "kalshi:KXIASENATE-26-AHIN",
+   "plataforma": "kalshi",
+   "titulo": "Iowa Senate winner? (Person): Ashley Hinson",
+   "titulo_es": null,
+   "url": "https://kalshi.com/markets/kxiasenate",
+   "temas": [
+    "Estados Unidos"
+   ],
+   "probabilidad": 0.565,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 11795.08,
+   "cierre": "2027-11-03T15:00:00Z"
   },
   {
    "clave": "polymarket:1981993",
@@ -43303,21 +43318,6 @@
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 11711.48,
-   "cierre": "2027-11-03T15:00:00Z"
-  },
-  {
-   "clave": "kalshi:KXIASENATE-26-AHIN",
-   "plataforma": "kalshi",
-   "titulo": "Iowa Senate winner? (Person): Ashley Hinson",
-   "titulo_es": null,
-   "url": "https://kalshi.com/markets/kxiasenate",
-   "temas": [
-    "Estados Unidos"
-   ],
-   "probabilidad": 0.555,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 11709.93,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -43824,7 +43824,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.194,
+   "probabilidad": 0.1935,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 11435.849144,
@@ -44319,7 +44319,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.58,
+   "probabilidad": 0.57,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 11136.956920000002,
@@ -44379,7 +44379,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0255,
+   "probabilidad": 0.027,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 11094.683822000003,
@@ -44409,7 +44409,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.039,
+   "probabilidad": 0.038,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 11089.074071,
@@ -44635,7 +44635,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.952,
+   "probabilidad": 0.9505,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10939.770805,
@@ -44680,7 +44680,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.109,
+   "probabilidad": 0.106,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10909.670194,
@@ -44770,7 +44770,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.982,
+   "probabilidad": 0.981,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10857.664514,
@@ -44972,6 +44972,21 @@
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
+   "clave": "kalshi:KXMIDTERMMOV-SCSENR-P9",
+   "plataforma": "kalshi",
+   "titulo": "South Carolina Senate margin of victory: Graham, 9+ pts",
+   "titulo_es": null,
+   "url": "https://kalshi.com/markets/kxmidtermmov",
+   "temas": [
+    "Estados Unidos"
+   ],
+   "probabilidad": 0.23,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 10771.6,
+   "cierre": "2027-11-03T15:00:00Z"
+  },
+  {
    "clave": "polymarket:3491748",
    "plataforma": "polymarket",
    "titulo": "MI-11 House Election Margin of Victory: Democrat 30-35%",
@@ -45017,21 +45032,6 @@
    "cierre": "2028-11-07T15:00:00Z"
   },
   {
-   "clave": "kalshi:KXMIDTERMMOV-SCSENR-P9",
-   "plataforma": "kalshi",
-   "titulo": "South Carolina Senate margin of victory: Graham, 9+ pts",
-   "titulo_es": null,
-   "url": "https://kalshi.com/markets/kxmidtermmov",
-   "temas": [
-    "Estados Unidos"
-   ],
-   "probabilidad": 0.225,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 10742.59,
-   "cierre": "2027-11-03T15:00:00Z"
-  },
-  {
    "clave": "kalshi:KXHOUSERACE-TX07-26-R",
    "plataforma": "kalshi",
    "titulo": "TX-07 House winner?: Alexander Hale",
@@ -45040,7 +45040,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0255,
+   "probabilidad": 0.0245,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10739.98,
@@ -45416,7 +45416,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.16,
+   "probabilidad": 0.155,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10591.379158000003,
@@ -45807,7 +45807,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.04,
+   "probabilidad": 0.0405,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10380.452120999997,
@@ -46138,7 +46138,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.127,
+   "probabilidad": 0.117,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10242.289642,
@@ -46153,7 +46153,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.0285,
+   "probabilidad": 0.028,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10240.334987000002,
@@ -46424,7 +46424,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.964,
+   "probabilidad": 0.9645,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10053.508328,
