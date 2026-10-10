@@ -793,6 +793,8 @@ nav.temas a.chip{display:inline-flex;align-items:center;gap:7px}
 nav.temas a.chip::before{content:"";width:10px;height:10px;border-radius:50%;background:var(--ac)}
 .fi{border-radius:2px;box-shadow:0 0 0 1px var(--linea)}
 .tit{display:flex;gap:12px;align-items:flex-start;min-width:0}
+.fila.misma{border-top:1px dashed var(--linea);padding-top:8px}
+.fila.misma .tit-txt{padding-left:0}
 .tit-txt{min-width:0}
 .avatar{flex:none;width:40px;height:40px;border-radius:50%;object-fit:cover;object-position:50% 22%;
   background:var(--riel);background-size:cover;background-position:center;box-shadow:0 0 0 1px var(--linea)}
@@ -844,7 +846,53 @@ span.avatar.chico.fi{width:28px;height:28px;line-height:28px}
 """
 
 
-def html_fila(r, i, tz, cfg):
+def _pregunta(r):
+    """Clave de la pregunta a la que pertenece una opción ("Pregunta: opción").
+
+    Se usa la pregunta traducida: así la misma pregunta de Polymarket y de Kalshi
+    ("Democratic Presidential Nominee 2028" y "2028 Democratic presidential nominee")
+    queda en un solo grupo y se comparan las plataformas una al lado de la otra."""
+    if r["plataforma"] == "consolidado" or ": " not in r["titulo"]:
+        return r["clave"]
+    return r.get("pregunta_es") or r["titulo"].rpartition(": ")[0]
+
+
+def _orden_opciones(g):
+    """Fechas en orden cronológico; el resto, de la más probable a la menos."""
+    fechas = []
+    for r in g:
+        f = traduccion.fecha(r["titulo"].rpartition(": ")[2]) if ": " in r["titulo"] else None
+        if not f:
+            return sorted(g, key=lambda r: -r["prob"])
+        d = de_iso(r.get("cierre"))
+        fechas.append((d or ahora(), r))
+    return [r for _, r in sorted(fechas, key=lambda x: x[0])]
+
+
+def agrupar(visibles, max_filas, max_opciones=4, max_preguntas=8):
+    """Elige preguntas, no opciones: las de más volumen total, con sus opciones juntas.
+
+    Cada candidato de una elección es un mercado aparte, y el favorito puede tener
+    menos volumen que su rival: elegir opción por opción cortaba la pregunta a la mitad
+    (Texas, 10/10: Paxton 38% adentro, Talarico 62% afuera)."""
+    grupos = {}
+    for r in visibles:
+        grupos.setdefault(_pregunta(r), []).append(r)
+    # Por el volumen de su opción más operada: sumar todas premiaba a las preguntas de
+    # muchos candidatos, que se quedaban con todos los lugares.
+    orden = sorted(grupos.values(), key=lambda g: (g[0]["plataforma"] != "consolidado",
+                                                   -max(r.get("volumen") or 0 for r in g)))
+    elegidos, filas = [], 0
+    for g in orden:
+        if filas >= max_filas or len(elegidos) >= max_preguntas:
+            break
+        g = _orden_opciones(g)[:max_opciones]
+        elegidos.append(g)
+        filas += len(g)
+    return elegidos, len(grupos)
+
+
+def html_fila(r, i, tz, cfg, misma=False):
     hace7 = i["hace7"]
     antes = (f'<span class="antes" style="left:{hace7 * 100:.1f}%" title="Hace 7 días: {pct(hace7)}"></span>'
              if hace7 is not None else "")
@@ -873,7 +921,7 @@ def html_fila(r, i, tz, cfg):
                  if div * 100 >= cfg.get("umbral_divergencia_pp", 8) else "")
         extra = f'<p class="partes">Por plataforma: {partes}.{aviso}</p>'
     return f"""
-<article class="fila{' consol' if r['plataforma'] == 'consolidado' else ''}">
+<article class="fila{' consol' if r['plataforma'] == 'consolidado' else ''}{' misma' if misma else ''}">
   <div class="tit">{html_avatar(r)}<div class="tit-txt">{titulo}<p class="meta">{''.join(f'<span>{m}</span>' for m in meta)}</p></div></div>
   <div class="prob" role="img" aria-label="{e(etiqueta)}">
     <span class="num">{pct(r['prob'])}</span>
@@ -1078,10 +1126,13 @@ def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo, fotos):
         lo, hi = cfg.get("rango_visible", [0.02, 0.98])
         visibles = [r for r in del_tema if r["plataforma"] == "consolidado" or lo <= r["prob"] <= hi]
         ocultos = len(del_tema) - len(visibles)
-        filas = "".join(html_fila(r, info[r["clave"]], tz, cfg) for r in visibles[:max_t])
+        grupos, total_preguntas = agrupar(visibles, max_t)
+        filas = "".join(html_fila(r, info[r["clave"]], tz, cfg, misma=j > 0)
+                        for g in grupos for j, r in enumerate(g))
         partes_nota = []
-        if len(visibles) > max_t:
-            partes_nota.append(f"Se muestran los {max_t} con más volumen de {len(visibles)}.")
+        if total_preguntas > len(grupos):
+            partes_nota.append(f"Se muestran las {len(grupos)} preguntas con más volumen de {total_preguntas}, "
+                               f"cada una con sus opciones juntas.")
         if ocultos:
             partes_nota.append(f"Se ocultan {ocultos} por debajo de {pct(lo)} o por encima de {pct(hi)}: "
                                f"candidatos sin chances o resultados casi definidos.")
@@ -1180,6 +1231,9 @@ def generar_salidas(cfg, actuales, consolidadas, filas, ts, errores, dir_datos, 
     fotos = decoracion.Fotos(BASE / "recursos" / "fotos")
     for r in actuales.values():
         r["titulo_es"] = traduccion.traducir(r["titulo"], dic) or r["titulo"]
+        if ": " in r["titulo"]:
+            pregunta = r["titulo"].rpartition(": ")[0].strip()
+            r["pregunta_es"] = dic.get(pregunta, pregunta)
         if r["plataforma"] != "consolidado":
             r["banderas"] = decoracion.banderas(r["titulo"])
             r["foto"] = fotos.de(r["titulo"])
