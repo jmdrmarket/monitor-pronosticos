@@ -31,6 +31,8 @@ from pathlib import Path
 
 import yaml
 
+import traduccion
+
 try:
     import requests
 except ImportError:  # el modo demo no lo necesita
@@ -816,8 +818,9 @@ def html_fila(r, i, tz, cfg):
         meta.append(f"Cierra el {fecha_es(cierre, tz=tz)}")
     if r["plataforma"] != "consolidado":
         meta.append(f'<span class="clave" title="Identificador para config.yaml">{e(r["clave"])}</span>')
-    titulo = (f'<a href="{e(r["url"])}" target="_blank" rel="noopener">{e(r["titulo"])}</a>'
-              if r["url"] else f'<strong>{e(r["titulo"])}</strong>')
+    original = f' title="Original: {e(r["titulo"])}"' if r.get("titulo_es", r["titulo"]) != r["titulo"] else ""
+    titulo = (f'<a href="{e(r["url"])}" target="_blank" rel="noopener"{original}>{e(r.get("titulo_es", r["titulo"]))}</a>'
+              if r["url"] else f'<strong{original}>{e(r.get("titulo_es", r["titulo"]))}</strong>')
     extra = ""
     if r["plataforma"] == "consolidado":
         partes = ", ".join(f'{NOMBRES[p["clave"].split(":")[0]]} {pct(p["prob"])}' for p in r["partes"])
@@ -849,8 +852,8 @@ def html_movimientos(actuales, info, campo, previo, cfg):
     items = []
     for d, r in lista[:top]:
         antes = info[r["clave"]][previo]
-        link = (f'<a href="{e(r["url"])}" target="_blank" rel="noopener">{e(r["titulo"])}</a>'
-                if r["url"] else e(r["titulo"]))
+        link = (f'<a href="{e(r["url"])}" target="_blank" rel="noopener">{e(r.get("titulo_es", r["titulo"]))}</a>'
+                if r["url"] else e(r.get("titulo_es", r["titulo"])))
         items.append(f"""<li><span class="t">{link}</span>
   <span class="plat">{NOMBRES[r['plataforma']]}{', ' + e(r['temas'][0]) if r['temas'] else ''}</span>
   <span class="cambio"><b class="{clase_delta(d)}">{pp(d)}</b><span>{pct(antes)} a {pct(r['prob'])}</span></span></li>""")
@@ -858,7 +861,7 @@ def html_movimientos(actuales, info, campo, previo, cfg):
 
 
 def _cita(r, extra=""):
-    return f'«{e(r["titulo"])}»: {pct(r["prob"])}{extra} ({NOMBRES[r["plataforma"]]})'
+    return f'«{e(r.get("titulo_es", r["titulo"]))}»: {pct(r["prob"])}{extra} ({NOMBRES[r["plataforma"]]})'
 
 
 def html_conclusiones(del_tema, info):
@@ -883,7 +886,7 @@ def html_conclusiones(del_tema, info):
         if movidos:
             r = max(movidos, key=lambda x: abs(info[x["clave"]][campo]))
             d = info[r["clave"]][campo]
-            puntos.append(f'<b>Mayor movimiento {texto}:</b> «{e(r["titulo"])}» pasó de '
+            puntos.append(f'<b>Mayor movimiento {texto}:</b> «{e(r.get("titulo_es", r["titulo"]))}» pasó de '
                           f'{pct(info[r["clave"]][previo])} a {pct(r["prob"])} '
                           f'(<span class="{clase_delta(d)}">{pp(d)}</span>, {NOMBRES[r["plataforma"]]}).')
     con7 = [info[r["clave"]]["d7"] for r in mercados if info[r["clave"]]["d7"] is not None]
@@ -956,19 +959,29 @@ def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo):
         if not del_tema:
             continue
         del_tema.sort(key=lambda r: (r["plataforma"] != "consolidado", -(r.get("volumen") or 0)))
-        filas = "".join(html_fila(r, info[r["clave"]], tz, cfg) for r in del_tema[:max_t])
-        resto = len(del_tema) - max_t
-        nota = (f'<p class="nota">Se muestran los {max_t} con más volumen de {len(del_tema)}. La lista completa está en data.json.</p>'
-                if resto > 0 else "")
+        # Los extremos se ocultan: en las preguntas de muchos candidatos cada nombre es
+        # un mercado, y los que no tienen chances acumulan volumen igual.
+        lo, hi = cfg.get("rango_visible", [0.02, 0.98])
+        visibles = [r for r in del_tema if r["plataforma"] == "consolidado" or lo <= r["prob"] <= hi]
+        ocultos = len(del_tema) - len(visibles)
+        filas = "".join(html_fila(r, info[r["clave"]], tz, cfg) for r in visibles[:max_t])
+        partes_nota = []
+        if len(visibles) > max_t:
+            partes_nota.append(f"Se muestran los {max_t} con más volumen de {len(visibles)}.")
+        if ocultos:
+            partes_nota.append(f"Se ocultan {ocultos} por debajo de {pct(lo)} o por encima de {pct(hi)}: "
+                               f"candidatos sin chances o resultados casi definidos.")
+        nota = (f'<p class="nota">{" ".join(partes_nota)} La lista completa está en data.json.</p>'
+                if partes_nota else "")
         cierre = html_conclusiones(del_tema, info) + html_analisis(analisis, t, ts, tz)
         secciones.append(f'<section id="{slug(t)}"><h2>{e(t)}</h2>{nota}{filas}{cierre}</section>')
 
     pares = equivalencias(actuales, cfg.get("preguntas") or [])
     if pares:
         items = "".join(
-            f"""<li>{e(a['titulo'])} <em>({NOMBRES[a['plataforma']]}, {pct(a['prob'])})</em><br>
-{e(b['titulo'])} <em>({NOMBRES[b['plataforma']]}, {pct(b['prob'])})</em>
-<code>  - nombre: "{e(a['titulo'][:70])}"
+            f"""<li>{e(a.get('titulo_es', a['titulo']))} <em>({NOMBRES[a['plataforma']]}, {pct(a['prob'])})</em><br>
+{e(b.get('titulo_es', b['titulo']))} <em>({NOMBRES[b['plataforma']]}, {pct(b['prob'])})</em>
+<code>  - nombre: "{e(a.get('titulo_es', a['titulo'])[:70])}"
     tema: "{e(a['temas'][0] if a['temas'] else '')}"
     mercados: ["{e(a['clave'])}", "{e(b['clave'])}"]</code></li>""" for _, a, b in pares)
         secciones.append(f"""<section id="equivalencias"><h2>Posibles equivalencias</h2>
@@ -1024,7 +1037,7 @@ def generar_feed(cfg, actuales, info, ts, dir_datos, dir_salida):
         if d is None or abs(d) < umbral or clave in recientes:
             continue
         items.append({"ts": a_iso(ts), "clave": clave, "url": r["url"],
-                      "titulo": f"{r['titulo']}: {pct(info[clave]['hace24'])} a {pct(r['prob'])} ({pp(d)} en 24 h)",
+                      "titulo": f"{r.get('titulo_es', r['titulo'])}: {pct(info[clave]['hace24'])} a {pct(r['prob'])} ({pp(d)} en 24 h)",
                       "desc": f"{NOMBRES[r['plataforma']]}. Tema: {', '.join(r['temas']) or 'sin tema'}."})
     items = sorted(items, key=lambda x: x["ts"], reverse=True)[:150]
     guardar_json(dir_datos / "feed.json", items)
@@ -1043,6 +1056,9 @@ def generar_feed(cfg, actuales, info, ts, dir_datos, dir_salida):
 
 def generar_salidas(cfg, actuales, consolidadas, filas, ts, errores, dir_datos, dir_salida, demo):
     dir_salida.mkdir(parents=True, exist_ok=True)
+    dic = {} if demo else traduccion.cargar(BASE / "traducciones.json")
+    for r in actuales.values():
+        r["titulo_es"] = traduccion.traducir(r["titulo"], dic) or r["titulo"]
     info = preparar(actuales, filas, ts, cfg.get("dias_grafico", 30))
     (dir_salida / "index.html").write_text(
         generar_html(cfg, actuales, consolidadas, info, ts, errores, demo), encoding="utf-8")
@@ -1050,7 +1066,8 @@ def generar_salidas(cfg, actuales, consolidadas, filas, ts, errores, dir_datos, 
     guardar_json(dir_salida / "data.json", {
         "actualizado": a_iso(ts),
         "mercados": sorted([{
-            "clave": k, "plataforma": r["plataforma"], "titulo": r["titulo"], "url": r["url"],
+            "clave": k, "plataforma": r["plataforma"], "titulo": r["titulo"],
+            "titulo_es": r.get("titulo_es") if r.get("titulo_es") != r["titulo"] else None, "url": r["url"],
             "temas": r["temas"], "probabilidad": round(r["prob"], 4),
             "cambio_24h": None if info[k]["d24"] is None else round(info[k]["d24"], 4),
             "cambio_7d": None if info[k]["d7"] is None else round(info[k]["d7"], 4),

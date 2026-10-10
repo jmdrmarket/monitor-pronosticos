@@ -43,6 +43,8 @@ Todo se ajusta en `config.yaml`, que se puede editar desde la web de GitHub (íc
 - **Temas**: agregá o quitá temas y palabras clave. Van en inglés, porque los mercados están en inglés.
 - **Preguntas consolidadas**: en la página, cada mercado muestra su identificador (por ejemplo `kalshi:KXHOUSE-26-D`). La sección *Posibles equivalencias* sugiere pares parecidos con el bloque listo para copiar. Antes de agruparlos, revisá que pregunten exactamente lo mismo: misma fecha límite y mismas reglas de resolución.
 - **Mínimos de volumen**: subilos si aparecen demasiados mercados chicos y ruidosos.
+- **Rango visible**: `rango_visible: [0.02, 0.98]` oculta de las listas los mercados por debajo del 2% o por encima del 98%. En las preguntas de muchos candidatos cada nombre es un mercado aparte, y los que no tienen chances acumulan volumen igual: sin este filtro, la lista se llena de nombres en 0%.
+- **Títulos en castellano**: salen de `traducciones.json`, un diccionario que se completa a mano (o con la tarea nocturna del análisis). Los títulos que todavía no están ahí se muestran en inglés. El original se ve al pasar el mouse sobre el título.
 - **Frecuencia**: en `.github/workflows/actualizar.yml`, la línea `cron: "0 */6 * * *"` indica cada 6 horas. Para cada 3 horas, usá `"0 */3 * * *"`.
 
 ## Metaculus (opcional)
