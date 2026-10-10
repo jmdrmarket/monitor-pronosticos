@@ -1,0 +1,98 @@
+# ============================================================
+#  Monitor de pronósticos — configuración
+#  Editá este archivo para cambiar qué se sigue. No hace falta
+#  tocar el código.
+# ============================================================
+
+titulo: "Monitor de pronósticos"
+zona_horaria: "America/Argentina/Buenos_Aires"
+
+# ------------------------------------------------------------
+# TEMAS
+# Los mercados están casi todos en inglés, así que las palabras
+# clave van en inglés. Reglas:
+#   - "Taiwan"   -> palabra exacta
+#   - "Ukrain*"  -> cualquier palabra que empiece así (Ukraine, Ukrainian)
+#   - mayúsculas y acentos no importan
+# Un mercado entra en un tema si contiene alguna palabra de "palabras"
+# y ninguna de "excluir".
+# ------------------------------------------------------------
+temas:
+  - nombre: "Guerra Rusia–Ucrania"
+    palabras: ["Ukrain*", "Russia*", "Putin", "Zelensky*", "Kyiv", "Crimea", "Donbas*"]
+
+  - nombre: "Medio Oriente"
+    palabras: ["Israel*", "Gaza", "Hamas", "Iran*", "Hezbollah", "Leban*", "Houthi*", "Netanyahu", "Syria*", "Yemen*"]
+
+  - nombre: "China y Taiwán"
+    palabras: ["Taiwan*", "Xi Jinping", "South China Sea", "PLA", "Beijing"]
+
+  - nombre: "Elecciones en América Latina"
+    palabras: ["Brazil*", "Lula", "Bolsonaro", "Colombia*", "Peru*", "Chile*", "Argentin*", "Milei", "Mexic*", "Sheinbaum", "Venezuela*", "Maduro", "Ecuador*", "Bolivia*"]
+
+  - nombre: "Estados Unidos"
+    palabras: ["Trump", "Senate", "House", "midterm*", "Supreme Court", "impeach*", "Congress", "Democrat*", "Republican*"]
+    excluir: ["White House press"]
+
+  - nombre: "Europa"
+    palabras: ["France", "French", "Macron", "German*", "Merz", "United Kingdom", "Starmer", "European Union", "NATO", "Hungar*", "Orban", "Poland", "Spain", "Italy", "Meloni"]
+
+# Palabras que excluyen un mercado de TODOS los temas (filtra deportes).
+excluir_siempre:
+  ["World Cup", "FIFA", "NBA", "NFL", "MLB", "NHL", "Premier League", "Champions League",
+   "Super Bowl", "Grand Prix", "Formula 1", "Olympic*", "UFC", "Eurovision", "Oscar*", "Grammy*"]
+
+# ------------------------------------------------------------
+# PREGUNTAS CONSOLIDADAS
+# Agrupan el MISMO evento en varias plataformas y calculan una
+# probabilidad promedio ponderada por volumen.
+# Los identificadores (ej. "kalshi:KX...") aparecen en la página
+# publicada, debajo de cada mercado y en la sección
+# "Posibles equivalencias", listos para copiar acá.
+# "invertir" sirve si una plataforma pregunta lo contrario
+# (ej. "¿Sigue la guerra?" vs. "¿Hay alto el fuego?").
+# ------------------------------------------------------------
+preguntas: []
+#  - nombre: "Alto el fuego Rusia–Ucrania antes de 2027"
+#    tema: "Guerra Rusia–Ucrania"
+#    mercados: ["polymarket:123456", "kalshi:KXUKRCEASE-26", "manifold:AbC123"]
+#    invertir: []
+
+# ------------------------------------------------------------
+# PLATAFORMAS
+# ------------------------------------------------------------
+polymarket:
+  activo: true
+  etiquetas: ["politics", "geopolitics", "world", "elections"]
+  max_paginas: 15          # 100 eventos por página y por etiqueta
+
+kalshi:
+  activo: true
+  categorias: ["Politics", "Elections", "World"]
+  max_paginas: 40          # 200 eventos por página
+
+manifold:                  # dinero ficticio: pesa menos en el consolidado
+  activo: true
+  max_por_busqueda: 30
+
+metaculus:                 # opcional: requiere el secreto METACULUS_TOKEN
+  activo: true
+  max_por_busqueda: 20
+
+# Volumen mínimo para que un mercado entre (filtra mercados sin liquidez,
+# donde dos o tres apostadores mueven el precio).
+minimos:
+  polymarket_usd: 10000
+  kalshi_contratos: 10000
+  manifold_mana: 5000
+  metaculus_pronosticadores: 30
+
+# ------------------------------------------------------------
+# PUBLICACIÓN
+# ------------------------------------------------------------
+max_por_tema: 15            # mercados por tema en la página (por volumen)
+top_movimientos: 8          # cuántos "mayores movimientos" mostrar
+dias_grafico: 30            # días de historia en los minigráficos
+umbral_feed_pp: 5           # un cambio de ≥5 puntos en 24 h entra al feed RSS
+umbral_divergencia_pp: 8    # marcar preguntas donde las plataformas difieren ≥8 puntos
+retencion_dias: 365         # cuánto historial guardar
