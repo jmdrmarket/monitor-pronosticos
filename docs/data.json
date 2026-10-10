@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-10T03:52:37Z",
+ "actualizado": "2026-10-10T04:04:36Z",
  "mercados": [
   {
    "clave": "polymarket:665374",
@@ -12,7 +12,7 @@
    "probabilidad": 0.155,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 73059004.53258908,
+   "volumen": 73059042.03258908,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -26,7 +26,7 @@
    "probabilidad": 0.0005,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 54436550.984328985,
+   "volumen": 54436550.98432896,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -54,7 +54,7 @@
    "probabilidad": 0.0065,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 50826127.419250034,
+   "volumen": 50826127.469250046,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -82,7 +82,7 @@
    "probabilidad": 0.0035,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 44637569.01404698,
+   "volumen": 44637569.01404696,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -96,7 +96,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 44433649.401322015,
+   "volumen": 44433649.40132203,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -110,7 +110,7 @@
    "probabilidad": 0.001,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 44246247.44409499,
+   "volumen": 44246247.444094986,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -124,7 +124,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 44186433.82927302,
+   "volumen": 44186434.56927302,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -138,7 +138,7 @@
    "probabilidad": 0.0005,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 43832618.133428,
+   "volumen": 43832618.13342801,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -152,7 +152,7 @@
    "probabilidad": 0.0225,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 43794290.37012188,
+   "volumen": 43794290.37012182,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -166,7 +166,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 43719072.42943101,
+   "volumen": 43719111.13843102,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -180,7 +180,7 @@
    "probabilidad": 0.0005,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 43463812.93337497,
+   "volumen": 43463812.93337499,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -208,7 +208,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 42909802.10036496,
+   "volumen": 42909802.100365005,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -250,7 +250,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 38965152.20021002,
+   "volumen": 38965152.20021003,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -264,7 +264,7 @@
    "probabilidad": 0.0005,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 38725704.872622,
+   "volumen": 38725704.87262204,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -306,7 +306,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 36480545.34111401,
+   "volumen": 36480545.501114,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -320,7 +320,7 @@
    "probabilidad": 0.0005,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 36059292.023975,
+   "volumen": 36059292.02397505,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -334,7 +334,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 35786103.845999,
+   "volumen": 35786120.96299899,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -348,7 +348,7 @@
    "probabilidad": 0.0225,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 35664393.415675,
+   "volumen": 35664393.41567487,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -362,7 +362,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 34184027.01586,
+   "volumen": 34184027.015860006,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -376,7 +376,7 @@
    "probabilidad": 0.105,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 33857065.93,
+   "volumen": 33858503.6,
    "cierre": "2027-02-01T15:00:00Z"
   },
   {
@@ -387,10 +387,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0105,
+   "probabilidad": 0.0095,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 33689067.834399,
+   "volumen": 33689067.83439901,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -404,7 +404,7 @@
    "probabilidad": 0.0005,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 32987911.24122901,
+   "volumen": 32987911.241229,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -460,7 +460,7 @@
    "probabilidad": 0.0025,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 28972547.65790501,
+   "volumen": 28972547.657905016,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -474,7 +474,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 28585934.490341008,
+   "volumen": 28585934.49034101,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -488,7 +488,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 28188842.745554,
+   "volumen": 28188842.745554015,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -502,7 +502,7 @@
    "probabilidad": 0.1545,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 27936069.240500994,
+   "volumen": 27936069.240500983,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -516,7 +516,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 27499091.67775799,
+   "volumen": 27499091.907758012,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -530,7 +530,7 @@
    "probabilidad": 0.045,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 26994377.742214955,
+   "volumen": 26994390.492215037,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -544,7 +544,7 @@
    "probabilidad": 0.0025,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 26340820.911089,
+   "volumen": 26340820.911088992,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -558,7 +558,7 @@
    "probabilidad": 0.0065,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 26326911.917935994,
+   "volumen": 26326911.91793602,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -572,7 +572,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 25894207.84558801,
+   "volumen": 25894207.845588006,
    "cierre": "2026-12-31T00:00:00Z"
   },
   {
@@ -586,7 +586,7 @@
    "probabilidad": 0.0005,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 25718493.084833995,
+   "volumen": 25718493.084834013,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -600,7 +600,7 @@
    "probabilidad": 0.0255,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 24814287.147457987,
+   "volumen": 24814287.14745805,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -614,7 +614,7 @@
    "probabilidad": 0.0105,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 24807240.95749502,
+   "volumen": 24807240.957495008,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -642,7 +642,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 23106953.205689013,
+   "volumen": 23106953.20568902,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -656,7 +656,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 22999063.280773003,
+   "volumen": 22999063.28077301,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -670,7 +670,7 @@
    "probabilidad": 0.115,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 21975887.732355986,
+   "volumen": 21977538.72954599,
    "cierre": "2026-10-05T03:59:00Z"
   },
   {
@@ -684,7 +684,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 21383214.320205994,
+   "volumen": 21383214.320206013,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -712,7 +712,7 @@
    "probabilidad": 0.0035,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 20412020.735007986,
+   "volumen": 20412020.735008005,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -726,7 +726,7 @@
    "probabilidad": 0.0025,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 19741130.012136005,
+   "volumen": 19741183.012136,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -740,7 +740,7 @@
    "probabilidad": 0.0235,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 19696515.203571998,
+   "volumen": 19696540.006388996,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -754,7 +754,7 @@
    "probabilidad": 0.8895,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 19144126.308759,
+   "volumen": 19144141.308758993,
    "cierre": "2026-10-05T03:59:00Z"
   },
   {
@@ -810,7 +810,7 @@
    "probabilidad": 0.0035,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 17941918.385723997,
+   "volumen": 17941918.70572401,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -824,7 +824,7 @@
    "probabilidad": 0.0245,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 17679513.73731902,
+   "volumen": 17679513.737318963,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -838,7 +838,7 @@
    "probabilidad": 0.0035,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 17468070.744739003,
+   "volumen": 17468070.744739,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -852,7 +852,7 @@
    "probabilidad": 0.895,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 17331761.73,
+   "volumen": 17331781.14,
    "cierre": "2027-02-01T15:00:00Z"
   },
   {
@@ -866,7 +866,7 @@
    "probabilidad": 0.0025,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 16900444.882013004,
+   "volumen": 16900447.21451301,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -877,10 +877,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.105,
+   "probabilidad": 0.11,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 16549516.2,
+   "volumen": 16550402.51,
    "cierre": "2027-02-01T15:00:00Z"
   },
   {
@@ -908,7 +908,7 @@
    "probabilidad": 0.4845,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15789859.286778998,
+   "volumen": 15789859.286778983,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -922,7 +922,7 @@
    "probabilidad": 0.0125,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15773957.227140978,
+   "volumen": 15773959.795890966,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -936,7 +936,7 @@
    "probabilidad": 0.0265,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15646870.089826003,
+   "volumen": 15646892.298593989,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -964,7 +964,7 @@
    "probabilidad": 0.0175,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 14702632.973062001,
+   "volumen": 14702632.973061997,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -992,7 +992,7 @@
    "probabilidad": 0.375,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 14101902.57,
+   "volumen": 14102121.03,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -1006,7 +1006,7 @@
    "probabilidad": 0.0045,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 14089112.958794003,
+   "volumen": 14089112.95879401,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1020,7 +1020,7 @@
    "probabilidad": 0.0055,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 14016196.775797999,
+   "volumen": 14016196.77579801,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1034,7 +1034,7 @@
    "probabilidad": 0.0315,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 13848277.337677998,
+   "volumen": 13848299.663805995,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1045,10 +1045,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0675,
+   "probabilidad": 0.0655,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 13833345.169213008,
+   "volumen": 13838345.169213,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1062,7 +1062,7 @@
    "probabilidad": 0.0265,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 13434235.20168001,
+   "volumen": 13434235.201679999,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1076,7 +1076,7 @@
    "probabilidad": 0.1505,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 13284536.558739005,
+   "volumen": 13284536.558739007,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1090,7 +1090,7 @@
    "probabilidad": 0.01,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 12519271.195366,
+   "volumen": 12519271.195366003,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1104,7 +1104,7 @@
    "probabilidad": 0.042,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 12458413.85375001,
+   "volumen": 12458413.853750002,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -1118,7 +1118,7 @@
    "probabilidad": 0.0495,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 12192340.061750012,
+   "volumen": 12192822.061750025,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1132,7 +1132,7 @@
    "probabilidad": 0.0065,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 12126847.825737,
+   "volumen": 12126847.825737003,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1160,7 +1160,7 @@
    "probabilidad": 0.0115,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 11357282.113065995,
+   "volumen": 11357282.113066005,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1174,7 +1174,7 @@
    "probabilidad": 0.028,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10890514.790261993,
+   "volumen": 10890514.790262002,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1188,7 +1188,7 @@
    "probabilidad": 0.1485,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10758525.470419997,
+   "volumen": 10758525.470420001,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1202,7 +1202,7 @@
    "probabilidad": 0.0125,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10684082.839222994,
+   "volumen": 10684082.839222983,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1230,7 +1230,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10586846.407374,
+   "volumen": 10586851.359373994,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1244,7 +1244,7 @@
    "probabilidad": 0.135,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10585459.39,
+   "volumen": 10585471.39,
    "cierre": "2028-11-07T15:00:00Z"
   },
   {
@@ -1258,7 +1258,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10506905.930272,
+   "volumen": 10506905.930272004,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1272,7 +1272,7 @@
    "probabilidad": 0.055,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10230781.653787002,
+   "volumen": 10230892.273787014,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1286,7 +1286,7 @@
    "probabilidad": 0.0165,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 9756718.707645996,
+   "volumen": 9756740.712712001,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1300,7 +1300,7 @@
    "probabilidad": 0.135,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 9709290.72,
+   "volumen": 9709322.18,
    "cierre": "2028-11-07T15:00:00Z"
   },
   {
@@ -1314,7 +1314,7 @@
    "probabilidad": 0.0195,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 9641059.584874002,
+   "volumen": 9641081.674768008,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1342,7 +1342,7 @@
    "probabilidad": 0.0045,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 9376712.665114997,
+   "volumen": 9376712.665114995,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1370,7 +1370,7 @@
    "probabilidad": 0.625,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 9133598.99,
+   "volumen": 9134058.15,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -1398,7 +1398,7 @@
    "probabilidad": 0.0025,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 8888328.170381,
+   "volumen": 8888328.170381004,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1412,7 +1412,7 @@
    "probabilidad": 0.905,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 8839455.852813004,
+   "volumen": 8839455.852812998,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -1440,7 +1440,7 @@
    "probabilidad": 0.0035,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 8724880.266654005,
+   "volumen": 8724880.266654013,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1496,7 +1496,7 @@
    "probabilidad": 0.0055,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 8294965.549287002,
+   "volumen": 8294966.439287001,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1552,7 +1552,7 @@
    "probabilidad": 0.395,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 7576393.12,
+   "volumen": 7576637.83,
    "cierre": "2027-02-01T15:00:00Z"
   },
   {
@@ -1580,7 +1580,7 @@
    "probabilidad": 0.095,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 6998944.056124998,
+   "volumen": 6998944.056125,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -1594,7 +1594,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 6933187.041703999,
+   "volumen": 6933187.041704,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -1622,7 +1622,7 @@
    "probabilidad": 0.085,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 6886097.29362,
+   "volumen": 6886097.293619997,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -1636,7 +1636,7 @@
    "probabilidad": 0.0035,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 6791328.237859999,
+   "volumen": 6791328.237860001,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1664,7 +1664,7 @@
    "probabilidad": 0.873,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 6698168.6368010035,
+   "volumen": 6698168.636801,
    "cierre": "2026-12-31T17:00:00Z"
   },
   {
@@ -1692,7 +1692,7 @@
    "probabilidad": 0.355,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 6537806.548331001,
+   "volumen": 6537856.548330999,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -1734,7 +1734,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 6394085.825355002,
+   "volumen": 6394085.825355,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -1748,7 +1748,7 @@
    "probabilidad": 0.0505,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 6359288.25,
+   "volumen": 6359299.25,
    "cierre": "2028-11-07T15:00:00Z"
   },
   {
@@ -1776,7 +1776,7 @@
    "probabilidad": 0.605,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 6207716.25,
+   "volumen": 6207717.25,
    "cierre": "2027-02-01T15:00:00Z"
   },
   {
@@ -1790,7 +1790,7 @@
    "probabilidad": 0.0075,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 6162734.884872,
+   "volumen": 6162739.914872001,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -1902,7 +1902,7 @@
    "probabilidad": 0.0005,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 5655710.651313999,
+   "volumen": 5655710.651313998,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -1972,7 +1972,7 @@
    "probabilidad": 0.615,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 5233934.547243999,
+   "volumen": 5233957.778016002,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -2056,7 +2056,7 @@
    "probabilidad": 0.115,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 5132220.80944,
+   "volumen": 5132220.809439998,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -2098,7 +2098,7 @@
    "probabilidad": 0.0005,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 4943141.985842999,
+   "volumen": 4943141.985843,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -2182,7 +2182,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 4653172.917627001,
+   "volumen": 4653172.917627,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -2238,7 +2238,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 4470155.794946999,
+   "volumen": 4470155.794947,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -2252,7 +2252,7 @@
    "probabilidad": 0.1275,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 4384552.709024998,
+   "volumen": 4384708.959024999,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -2277,10 +2277,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.43,
+   "probabilidad": 0.425,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 4278004.96,
+   "volumen": 4278027.16,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -2322,7 +2322,7 @@
    "probabilidad": 0.0005,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 4192673.545064998,
+   "volumen": 4192673.5450649997,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -2392,7 +2392,7 @@
    "probabilidad": 0.0005,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 4071674.7542619994,
+   "volumen": 4071674.754261999,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -2420,7 +2420,7 @@
    "probabilidad": 0.295,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 3844246.15,
+   "volumen": 3844255.68,
    "cierre": "2027-02-01T15:00:00Z"
   },
   {
@@ -2434,7 +2434,7 @@
    "probabilidad": 0.023,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 3834896.67,
+   "volumen": 3834947.55,
    "cierre": "2026-11-03T15:00:00Z"
   },
   {
@@ -2504,7 +2504,7 @@
    "probabilidad": 0.625,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 3627327.3091360014,
+   "volumen": 3627514.477914998,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -2518,7 +2518,7 @@
    "probabilidad": 0.105,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 3609317.3452139976,
+   "volumen": 3609317.345214,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -2546,7 +2546,7 @@
    "probabilidad": 0.335,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 3562817.47,
+   "volumen": 3563342.2,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -2588,7 +2588,7 @@
    "probabilidad": 0.4085,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 3472597.566721001,
+   "volumen": 3472602.5667210007,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -2599,7 +2599,7 @@
    "temas": [
     "China y Taiwán"
    ],
-   "probabilidad": 0.0385,
+   "probabilidad": 0.0375,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 3468696.811554999,
@@ -2630,7 +2630,7 @@
    "probabilidad": 0.105,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 3454299.341912001,
+   "volumen": 3454299.341912,
    "cierre": "2028-01-01T04:59:00Z"
   },
   {
@@ -2658,7 +2658,7 @@
    "probabilidad": 0.075,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 3438189.0876959967,
+   "volumen": 3438189.0876959977,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -2742,7 +2742,7 @@
    "probabilidad": 0.295,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 3325509.27467,
+   "volumen": 3325509.2746699997,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -2756,7 +2756,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 3293341.0693730004,
+   "volumen": 3293382.7893729988,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -2784,7 +2784,7 @@
    "probabilidad": 0.009,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 3227815.1699629994,
+   "volumen": 3227815.1699630003,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -2812,7 +2812,7 @@
    "probabilidad": 0.395,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 3185750.36,
+   "volumen": 3185772.36,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -2854,7 +2854,7 @@
    "probabilidad": 0.0225,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 3175916.243829,
+   "volumen": 3175916.2438290017,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -2882,7 +2882,7 @@
    "probabilidad": 0.033,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 3137537.891208,
+   "volumen": 3137537.891208001,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -2910,7 +2910,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 3088468.411166,
+   "volumen": 3088468.4111660006,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -2935,7 +2935,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.4705,
+   "probabilidad": 0.472,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 3060222.6382859997,
@@ -3008,7 +3008,7 @@
    "probabilidad": 0.085,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2848745.9547909983,
+   "volumen": 2848745.9547909987,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -3047,10 +3047,10 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.429,
+   "probabilidad": 0.425,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2794442.189765999,
+   "volumen": 2794442.189766001,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -3064,7 +3064,7 @@
    "probabilidad": 0.0185,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2774315.2658659993,
+   "volumen": 2774315.265866,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -3092,7 +3092,7 @@
    "probabilidad": 0.16,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2755860.1183060003,
+   "volumen": 2755860.1183060007,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -3148,7 +3148,7 @@
    "probabilidad": 0.375,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2658754.763875999,
+   "volumen": 2658759.7638759995,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -3190,7 +3190,7 @@
    "probabilidad": 0.0055,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2630613.3525010007,
+   "volumen": 2630613.3525010003,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -3204,7 +3204,7 @@
    "probabilidad": 0.001,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2616200.348175,
+   "volumen": 2616200.3481750004,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -3218,7 +3218,7 @@
    "probabilidad": 0.002,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2602098.7694519996,
+   "volumen": 2602098.769451999,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -3246,7 +3246,7 @@
    "probabilidad": 0.375,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2599510.592855001,
+   "volumen": 2599722.4612770006,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -3288,7 +3288,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2539416.1874100007,
+   "volumen": 2539416.187410001,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -3331,7 +3331,7 @@
    "probabilidad": 0.0085,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2490876.1429560003,
+   "volumen": 2490876.1429560008,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -3345,7 +3345,7 @@
    "probabilidad": 0.675,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2487289.98,
+   "volumen": 2487603.9,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -3387,7 +3387,7 @@
    "probabilidad": 0.055,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2404853.621154,
+   "volumen": 2404853.6211540005,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -3443,7 +3443,7 @@
    "probabilidad": 0.033,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2341133.732452,
+   "volumen": 2341133.7324520005,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -3471,7 +3471,7 @@
    "probabilidad": 0.0085,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2322736.757168,
+   "volumen": 2322736.7571679996,
    "cierre": "2026-12-31T17:00:00Z"
   },
   {
@@ -3513,7 +3513,7 @@
    "probabilidad": 0.245,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2295615.259489999,
+   "volumen": 2295615.259489998,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -3555,7 +3555,7 @@
    "probabilidad": 0.065,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2259242.8097630027,
+   "volumen": 2259242.8097630013,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -3569,7 +3569,7 @@
    "probabilidad": 0.575,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2226110.9,
+   "volumen": 2226412.38,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -3611,7 +3611,7 @@
    "probabilidad": 0.001,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2161939.317307,
+   "volumen": 2161939.3173069996,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -3625,7 +3625,7 @@
    "probabilidad": 0.0105,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2153448.137379001,
+   "volumen": 2153448.137379,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -3639,7 +3639,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2145125.6521660006,
+   "volumen": 2145125.6521659996,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -3667,7 +3667,7 @@
    "probabilidad": 0.225,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2094564.622443,
+   "volumen": 2094604.5789649992,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -3681,7 +3681,7 @@
    "probabilidad": 0.0005,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2092155.4207899994,
+   "volumen": 2092155.42079,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -3692,7 +3692,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.085,
+   "probabilidad": 0.08,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 2082508.5066040007,
@@ -3709,7 +3709,7 @@
    "probabilidad": 0.001,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2063288.6981320004,
+   "volumen": 2063288.6981319995,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -3723,7 +3723,7 @@
    "probabilidad": 0.0025,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2038325.1676599998,
+   "volumen": 2038325.1676599996,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -3737,7 +3737,7 @@
    "probabilidad": 0.125,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 2030107.5832999996,
+   "volumen": 2030107.5833,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -3807,7 +3807,7 @@
    "probabilidad": 0.105,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1902584.1370140004,
+   "volumen": 1902584.1370140007,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -3821,7 +3821,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1902441.8065569997,
+   "volumen": 1902441.8065570004,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -3835,7 +3835,7 @@
    "probabilidad": 0.375,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1902348.81,
+   "volumen": 1902386.37,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -3863,7 +3863,7 @@
    "probabilidad": 0.0435,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1891914.872322999,
+   "volumen": 1891914.8723229994,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -3877,7 +3877,7 @@
    "probabilidad": 0.001,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1890721.3138839996,
+   "volumen": 1890721.3138839998,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -3905,7 +3905,7 @@
    "probabilidad": 0.755,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1830111.7953089986,
+   "volumen": 1830111.795308999,
    "cierre": "2026-10-31T23:59:00Z"
   },
   {
@@ -3947,7 +3947,7 @@
    "probabilidad": 0.065,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1772780.9554859998,
+   "volumen": 1772780.9554860005,
    "cierre": "2027-01-04T04:59:00Z"
   },
   {
@@ -3989,7 +3989,7 @@
    "probabilidad": 0.001,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1699333.4988799992,
+   "volumen": 1699333.4988799987,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -4003,7 +4003,7 @@
    "probabilidad": 0.007,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1689967.200370001,
+   "volumen": 1689967.29037,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -4014,10 +4014,10 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.025,
+   "probabilidad": 0.022,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1643370.6299989999,
+   "volumen": 1643370.6299989996,
    "cierre": "2026-12-31T00:00:00Z"
   },
   {
@@ -4045,7 +4045,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1636397.994781,
+   "volumen": 1636397.9947810005,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -4087,7 +4087,7 @@
    "probabilidad": 0.145,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1629270.41,
+   "volumen": 1630528.86,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -4101,7 +4101,7 @@
    "probabilidad": 0.855,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1604189.255650999,
+   "volumen": 1604189.2556509993,
    "cierre": "2026-10-31T20:29:00Z"
   },
   {
@@ -4115,7 +4115,7 @@
    "probabilidad": 0.375,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1602737.377786,
+   "volumen": 1602762.5206440005,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -4126,7 +4126,7 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.006,
+   "probabilidad": 0.0065,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 1581534.1293949997,
@@ -4143,7 +4143,7 @@
    "probabilidad": 0.265,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1575288.86,
+   "volumen": 1575307.47,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -4213,7 +4213,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1497033.004071,
+   "volumen": 1497033.0040709993,
    "cierre": "2026-12-31T00:00:00Z"
   },
   {
@@ -4241,7 +4241,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1480405.9319999998,
+   "volumen": 1480405.932,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -4270,7 +4270,7 @@
    "probabilidad": 0.003,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1450481.285091,
+   "volumen": 1450481.2850909997,
    "cierre": "2026-12-31T17:00:00Z"
   },
   {
@@ -4326,7 +4326,7 @@
    "probabilidad": 0.735,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1416760.44,
+   "volumen": 1416761.44,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -4354,7 +4354,7 @@
    "probabilidad": 0.0025,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1411950.8009890001,
+   "volumen": 1411950.8009889997,
    "cierre": "2026-12-31T00:00:00Z"
   },
   {
@@ -4368,7 +4368,7 @@
    "probabilidad": 0.625,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1408992.5301050006,
+   "volumen": 1409021.5618549993,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -4410,7 +4410,7 @@
    "probabilidad": 0.037,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1377685.5089640003,
+   "volumen": 1377685.5089639998,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -4421,7 +4421,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.618,
+   "probabilidad": 0.6135,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 1370497.711518,
@@ -4480,7 +4480,7 @@
    "probabilidad": 0.625,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1322792.56,
+   "volumen": 1322793.56,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -4494,7 +4494,7 @@
    "probabilidad": 0.0265,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1320269.851693,
+   "volumen": 1320269.8516930004,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -4564,7 +4564,7 @@
    "probabilidad": 0.003,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1256850.83859,
+   "volumen": 1256850.8385899998,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -4579,7 +4579,7 @@
    "probabilidad": 0.017,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1253065.3818750011,
+   "volumen": 1253065.3818750018,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -4607,7 +4607,7 @@
    "probabilidad": 0.345,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1240513.319272,
+   "volumen": 1240513.3192719996,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -4719,7 +4719,7 @@
    "probabilidad": 0.0485,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1169431.600198,
+   "volumen": 1169431.6001980002,
    "cierre": "2026-12-31T17:00:00Z"
   },
   {
@@ -4733,7 +4733,7 @@
    "probabilidad": 0.255,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1164289.1270859996,
+   "volumen": 1164289.1270859998,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -4790,7 +4790,7 @@
    "probabilidad": 0.003,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1134897.8295619998,
+   "volumen": 1134897.829562,
    "cierre": "2026-12-31T17:00:00Z"
   },
   {
@@ -4832,7 +4832,7 @@
    "probabilidad": 0.735,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1099100.95,
+   "volumen": 1099101.95,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -4888,7 +4888,7 @@
    "probabilidad": 0.0205,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1040966.792974,
+   "volumen": 1040966.7929739999,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -4916,7 +4916,7 @@
    "probabilidad": 0.004,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1032698.6786069999,
+   "volumen": 1032698.6786069998,
    "cierre": "2026-12-31T17:00:00Z"
   },
   {
@@ -4930,7 +4930,7 @@
    "probabilidad": 0.15,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 1024100.0497140002,
+   "volumen": 1024100.0497140004,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -4972,7 +4972,7 @@
    "probabilidad": 0.575,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 983451.7536450003,
+   "volumen": 983451.753645,
    "cierre": "2026-12-31T20:29:00Z"
   },
   {
@@ -4986,7 +4986,7 @@
    "probabilidad": 0.415,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 962506.9606689997,
+   "volumen": 962506.9606690003,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -5014,7 +5014,7 @@
    "probabilidad": 0.001,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 955076.1876169998,
+   "volumen": 955076.187617,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -5056,7 +5056,7 @@
    "probabilidad": 0.003,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 926734.5875839996,
+   "volumen": 926734.5875839997,
    "cierre": "2026-12-31T17:00:00Z"
   },
   {
@@ -5112,7 +5112,7 @@
    "probabilidad": 0.0235,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 902050.4378590002,
+   "volumen": 903078.977859,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -5140,7 +5140,7 @@
    "probabilidad": 0.695,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 896794.7204700002,
+   "volumen": 896794.7204700003,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -5154,7 +5154,7 @@
    "probabilidad": 0.0005,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 891262.9947650003,
+   "volumen": 891262.9947650001,
    "cierre": "2026-12-31T00:00:00Z"
   },
   {
@@ -5182,7 +5182,7 @@
    "probabilidad": 0.092,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 885559.14,
+   "volumen": 886095.0,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -5196,7 +5196,7 @@
    "probabilidad": 0.275,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 883896.45,
+   "volumen": 883897.45,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -5224,7 +5224,7 @@
    "probabilidad": 0.9425,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 869435.2283670002,
+   "volumen": 872657.2336149998,
    "cierre": "2026-10-13T03:59:00Z"
   },
   {
@@ -5238,7 +5238,7 @@
    "probabilidad": 0.0215,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 862787.9056529999,
+   "volumen": 862787.9056529996,
    "cierre": "2026-10-31T21:59:00Z"
   },
   {
@@ -5280,7 +5280,7 @@
    "probabilidad": 0.0065,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 851318.78357,
+   "volumen": 851318.7835700002,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -5294,7 +5294,7 @@
    "probabilidad": 0.0035,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 837686.2440460001,
+   "volumen": 837686.244046,
    "cierre": "2026-12-31T17:00:00Z"
   },
   {
@@ -5322,7 +5322,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 820108.689,
+   "volumen": 820108.6889999999,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -5336,7 +5336,7 @@
    "probabilidad": 0.905,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 804350.6282159998,
+   "volumen": 805449.5293150002,
    "cierre": "2026-10-16T03:59:00Z"
   },
   {
@@ -5350,7 +5350,7 @@
    "probabilidad": 0.0005,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 802648.528833,
+   "volumen": 802648.5288330001,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -5364,7 +5364,7 @@
    "probabilidad": 0.065,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 798910.9494040004,
+   "volumen": 798910.949404,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -5378,7 +5378,7 @@
    "probabilidad": 0.06,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 797721.8442410001,
+   "volumen": 797721.8442409998,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -5417,10 +5417,10 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.0025,
+   "probabilidad": 0.003,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 785094.4197239999,
+   "volumen": 785094.4197240003,
    "cierre": "2026-12-31T17:00:00Z"
   },
   {
@@ -5448,7 +5448,7 @@
    "probabilidad": 0.04,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 765173.7115979997,
+   "volumen": 765173.7115979998,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -5459,10 +5459,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.037,
+   "probabilidad": 0.0335,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 764629.0370680003,
+   "volumen": 764629.0370680004,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -5504,7 +5504,7 @@
    "probabilidad": 0.18,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 740791.11,
+   "volumen": 740792.3,
    "cierre": "2029-01-20T15:00:00Z"
   },
   {
@@ -5518,7 +5518,7 @@
    "probabilidad": 0.735,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 735145.0436489998,
+   "volumen": 735145.0436489999,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -5574,7 +5574,7 @@
    "probabilidad": 0.0255,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 697980.4790750002,
+   "volumen": 697980.4790749997,
    "cierre": "2026-12-31T17:00:00Z"
   },
   {
@@ -5588,7 +5588,7 @@
    "probabilidad": 0.0005,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 697809.486833,
+   "volumen": 697809.4868330001,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -5616,7 +5616,7 @@
    "probabilidad": 0.615,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 682176.5625220002,
+   "volumen": 682176.5625220003,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -5644,7 +5644,7 @@
    "probabilidad": 0.275,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 679346.78,
+   "volumen": 679347.78,
    "cierre": "2027-02-01T15:00:00Z"
   },
   {
@@ -5672,7 +5672,7 @@
    "probabilidad": 0.645,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 652882.77,
+   "volumen": 653295.37,
    "cierre": "2029-01-20T15:00:00Z"
   },
   {
@@ -5686,7 +5686,7 @@
    "probabilidad": 0.065,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 642047.0638820004,
+   "volumen": 642047.063882,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -5697,7 +5697,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.0285,
+   "probabilidad": 0.03,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 641341.1250820002,
@@ -5742,7 +5742,7 @@
    "probabilidad": 0.9875,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 631098.849118,
+   "volumen": 631098.8491180002,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -5770,7 +5770,7 @@
    "probabilidad": 0.315,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 627685.0529589994,
+   "volumen": 627685.0529589999,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -5868,7 +5868,7 @@
    "probabilidad": 0.1105,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 601783.3045799999,
+   "volumen": 601783.3045800001,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -5882,7 +5882,7 @@
    "probabilidad": 0.06,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 600119.9019150002,
+   "volumen": 600119.901915,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -5994,7 +5994,7 @@
    "probabilidad": 0.055,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 563960.1803870001,
+   "volumen": 563960.180387,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -6019,7 +6019,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.1405,
+   "probabilidad": 0.146,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 549877.1721190002,
@@ -6064,7 +6064,7 @@
    "probabilidad": 0.545,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 538660.6295220001,
+   "volumen": 538660.6295219999,
    "cierre": "2028-01-01T04:59:00Z"
   },
   {
@@ -6103,7 +6103,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.011,
+   "probabilidad": 0.0105,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 531179.3806169999,
@@ -6131,10 +6131,10 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.016,
+   "probabilidad": 0.0155,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 526482.118906,
+   "volumen": 528855.1756190001,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -6159,7 +6159,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.56,
+   "probabilidad": 0.565,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 523142.06,
@@ -6190,7 +6190,7 @@
    "probabilidad": 0.615,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 513129.1476560001,
+   "volumen": 513129.14765600004,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -6246,7 +6246,7 @@
    "probabilidad": 0.0095,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 502599.77567200013,
+   "volumen": 502599.77567199996,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -6292,6 +6292,20 @@
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
+   "clave": "kalshi:SENATEGA-26-D",
+   "plataforma": "kalshi",
+   "titulo": "Georgia Senate winner?: Jon Ossoff",
+   "url": "https://kalshi.com/markets/senatega",
+   "temas": [
+    "Estados Unidos"
+   ],
+   "probabilidad": 0.954,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 488095.32,
+   "cierre": "2027-11-03T15:00:00Z"
+  },
+  {
    "clave": "polymarket:2364961",
    "plataforma": "polymarket",
    "titulo": "Where will Trump and Putin meet next in 2026?: No meeting by December 31",
@@ -6303,22 +6317,8 @@
    "probabilidad": 0.195,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 487584.46322300006,
+   "volumen": 487584.4632230001,
    "cierre": "2027-01-01T04:59:00Z"
-  },
-  {
-   "clave": "kalshi:SENATEGA-26-D",
-   "plataforma": "kalshi",
-   "titulo": "Georgia Senate winner?: Jon Ossoff",
-   "url": "https://kalshi.com/markets/senatega",
-   "temas": [
-    "Estados Unidos"
-   ],
-   "probabilidad": 0.954,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 487517.79,
-   "cierre": "2027-11-03T15:00:00Z"
   },
   {
    "clave": "kalshi:KXMETXCOMBO-26NOV-PAX-COL",
@@ -6373,7 +6373,7 @@
    "probabilidad": 0.075,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 472733.38546799996,
+   "volumen": 472733.3854679999,
    "cierre": "2027-07-01T03:59:00Z"
   },
   {
@@ -6401,7 +6401,7 @@
    "probabilidad": 0.435,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 469364.2462510001,
+   "volumen": 469368.1762510002,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -6412,7 +6412,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.012,
+   "probabilidad": 0.013,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 463233.22031500016,
@@ -6485,7 +6485,7 @@
    "probabilidad": 0.385,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 446638.46769700025,
+   "volumen": 446638.46769699996,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -6496,7 +6496,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.03,
+   "probabilidad": 0.0295,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 442902.73,
@@ -6513,7 +6513,7 @@
    "probabilidad": 0.001,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 442629.1319700001,
+   "volumen": 442629.13197000005,
    "cierre": "2026-12-31T17:00:00Z"
   },
   {
@@ -6569,7 +6569,7 @@
    "probabilidad": 0.955,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 433912.5934440001,
+   "volumen": 433912.593444,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -6653,7 +6653,7 @@
    "probabilidad": 0.155,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 421365.93756200006,
+   "volumen": 421365.93756199995,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -6682,7 +6682,7 @@
    "probabilidad": 0.195,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 418372.6241759999,
+   "volumen": 418372.624176,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -6707,10 +6707,10 @@
    "temas": [
     "China y Taiwán"
    ],
-   "probabilidad": 0.0345,
+   "probabilidad": 0.034,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 415418.704109,
+   "volumen": 415418.70410900004,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -6724,7 +6724,7 @@
    "probabilidad": 0.0075,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 414532.091761,
+   "volumen": 414532.09176099993,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -6735,10 +6735,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.185,
+   "probabilidad": 0.19,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 413473.72,
+   "volumen": 413498.25,
    "cierre": "2027-01-01T14:59:00Z"
   },
   {
@@ -6752,7 +6752,7 @@
    "probabilidad": 0.405,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 409343.054698,
+   "volumen": 409343.05469800014,
    "cierre": "2026-11-30T23:59:00Z"
   },
   {
@@ -6763,7 +6763,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0275,
+   "probabilidad": 0.028,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 408730.78,
@@ -6780,7 +6780,7 @@
    "probabilidad": 0.235,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 404412.04241500015,
+   "volumen": 404412.0424150001,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -6794,7 +6794,7 @@
    "probabilidad": 0.046,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 403938.477595,
+   "volumen": 403938.47759500006,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -6836,7 +6836,7 @@
    "probabilidad": 0.0205,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 397725.47295000014,
+   "volumen": 397725.4729499999,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -6851,7 +6851,7 @@
    "probabilidad": 0.055,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 394056.5565689999,
+   "volumen": 394056.556569,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -6893,7 +6893,7 @@
    "probabilidad": 0.001,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 378272.1776129999,
+   "volumen": 378272.17761300004,
    "cierre": "2026-12-31T17:00:00Z"
   },
   {
@@ -6907,7 +6907,7 @@
    "probabilidad": 0.335,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 376619.59,
+   "volumen": 376647.7,
    "cierre": "2027-10-27T14:00:00Z"
   },
   {
@@ -6950,7 +6950,7 @@
    "probabilidad": 0.14,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 372887.167812,
+   "volumen": 372887.16781200015,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -7008,7 +7008,7 @@
    "probabilidad": 0.225,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 363144.993011,
+   "volumen": 363144.9930109999,
    "cierre": "2027-07-01T03:59:00Z"
   },
   {
@@ -7036,7 +7036,7 @@
    "probabilidad": 0.575,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 361718.64085499983,
+   "volumen": 361718.6408549999,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -7064,7 +7064,7 @@
    "probabilidad": 0.265,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 357987.01893100014,
+   "volumen": 357987.0189310001,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -7092,7 +7092,7 @@
    "probabilidad": 0.375,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 344523.49540799996,
+   "volumen": 344523.4954079999,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -7120,7 +7120,7 @@
    "probabilidad": 0.085,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 339973.2724770001,
+   "volumen": 339973.2724769999,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -7232,7 +7232,7 @@
    "probabilidad": 0.9995,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 328403.466627,
+   "volumen": 329127.06662699993,
    "cierre": "2026-10-10T03:59:00Z"
   },
   {
@@ -7316,7 +7316,7 @@
    "probabilidad": 0.845,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 319538.5962820001,
+   "volumen": 319538.5962819999,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -7344,7 +7344,7 @@
    "probabilidad": 0.515,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 314861.1697100001,
+   "volumen": 314861.16970999993,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -7383,10 +7383,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.145,
+   "probabilidad": 0.13,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 308010.6430919999,
+   "volumen": 308010.64309200004,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -7400,7 +7400,7 @@
    "probabilidad": 0.335,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 307597.624666,
+   "volumen": 307597.62466599996,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -7428,7 +7428,7 @@
    "probabilidad": 0.18,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 307020.938432,
+   "volumen": 307020.93843199994,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -7526,7 +7526,7 @@
    "probabilidad": 0.045,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 295365.95336600003,
+   "volumen": 295365.9533660001,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -7554,7 +7554,7 @@
    "probabilidad": 0.16,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 290448.883186,
+   "volumen": 290448.88318599993,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -7666,7 +7666,7 @@
    "probabilidad": 0.385,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 276516.27899699996,
+   "volumen": 276516.278997,
    "cierre": "2026-11-03T17:00:00Z"
   },
   {
@@ -7680,7 +7680,7 @@
    "probabilidad": 0.0005,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 275571.35771000007,
+   "volumen": 275571.35770999995,
    "cierre": "2026-12-31T17:00:00Z"
   },
   {
@@ -7723,7 +7723,7 @@
    "probabilidad": 0.75,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 269258.579262,
+   "volumen": 269342.079257,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -7737,7 +7737,7 @@
    "probabilidad": 0.056,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 267338.36305299995,
+   "volumen": 267338.36305300007,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -7765,7 +7765,7 @@
    "probabilidad": 0.25,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 266436.026101,
+   "volumen": 266436.02610100014,
    "cierre": "2026-10-31T23:59:00Z"
   },
   {
@@ -7835,7 +7835,7 @@
    "probabilidad": 0.001,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 259828.37827999995,
+   "volumen": 259828.37828000003,
    "cierre": "2026-12-31T17:00:00Z"
   },
   {
@@ -7947,7 +7947,7 @@
    "probabilidad": 0.0025,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 246235.58338099997,
+   "volumen": 246235.583381,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -7961,7 +7961,7 @@
    "probabilidad": 0.0065,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 243406.80323299998,
+   "volumen": 243406.80323299996,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -7989,7 +7989,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 241278.531728,
+   "volumen": 241278.53172800003,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -8115,7 +8115,7 @@
    "probabilidad": 0.0235,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 234208.55622600007,
+   "volumen": 234208.556226,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -8129,7 +8129,7 @@
    "probabilidad": 0.4,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 233802.85,
+   "volumen": 234033.61,
    "cierre": "2028-01-03T15:00:00Z"
   },
   {
@@ -8143,7 +8143,7 @@
    "probabilidad": 0.003,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 233768.227281,
+   "volumen": 233768.22728100006,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -8199,7 +8199,7 @@
    "probabilidad": 0.125,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 231059.32579900004,
+   "volumen": 231059.32579899993,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -8241,7 +8241,7 @@
    "probabilidad": 0.0035,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 229475.44967200002,
+   "volumen": 229475.449672,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -8266,7 +8266,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.43,
+   "probabilidad": 0.435,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 225728.24,
@@ -8297,7 +8297,7 @@
    "probabilidad": 0.0305,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 223221.11272800004,
+   "volumen": 223221.112728,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -8339,7 +8339,7 @@
    "probabilidad": 0.135,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 220804.033959,
+   "volumen": 220804.03395900002,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -8521,7 +8521,7 @@
    "probabilidad": 0.065,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 208869.632488,
+   "volumen": 208869.63248800006,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -8605,7 +8605,7 @@
    "probabilidad": 0.565,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 199618.43377599996,
+   "volumen": 199618.43377600002,
    "cierre": "2027-10-25T03:59:00Z"
   },
   {
@@ -8619,7 +8619,7 @@
    "probabilidad": 0.085,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 197271.749432,
+   "volumen": 197271.74943199998,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -8648,7 +8648,7 @@
    "probabilidad": 0.8,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 196778.43584600004,
+   "volumen": 196778.43584599998,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -8676,7 +8676,7 @@
    "probabilidad": 0.0215,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 195911.590217,
+   "volumen": 195911.59021700002,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -8704,7 +8704,7 @@
    "probabilidad": 0.19,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 194729.8315759999,
+   "volumen": 194729.83157599997,
    "cierre": "2027-01-02T04:59:00Z"
   },
   {
@@ -8774,7 +8774,7 @@
    "probabilidad": 0.485,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 189755.11184499995,
+   "volumen": 189755.111845,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -8914,7 +8914,7 @@
    "probabilidad": 0.115,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 186200.006979,
+   "volumen": 186200.00697899997,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -8928,7 +8928,7 @@
    "probabilidad": 0.095,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 186010.75294699997,
+   "volumen": 186010.75294700003,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -8967,7 +8967,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0375,
+   "probabilidad": 0.037,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 181904.30796700006,
@@ -9012,7 +9012,7 @@
    "probabilidad": 0.335,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 180005.846374,
+   "volumen": 180005.84637400002,
    "cierre": "2027-04-01T03:59:00Z"
   },
   {
@@ -9040,7 +9040,7 @@
    "probabilidad": 0.075,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 179242.47306200006,
+   "volumen": 179242.47306200003,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -9068,7 +9068,7 @@
    "probabilidad": 0.225,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 177088.96782900003,
+   "volumen": 177088.967829,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -9082,7 +9082,7 @@
    "probabilidad": 0.15,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 176827.19216499996,
+   "volumen": 176827.19216499993,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -9096,7 +9096,7 @@
    "probabilidad": 0.195,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 176576.42,
+   "volumen": 176582.15,
    "cierre": "2027-11-03T13:59:00Z"
   },
   {
@@ -9208,7 +9208,7 @@
    "probabilidad": 0.0245,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 167483.0245419999,
+   "volumen": 167483.02454199997,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -9293,7 +9293,7 @@
    "probabilidad": 0.275,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 164787.46,
+   "volumen": 164788.46,
    "cierre": "2027-11-03T13:59:00Z"
   },
   {
@@ -9349,7 +9349,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 163710.6268529999,
+   "volumen": 163710.62685300002,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -9377,7 +9377,7 @@
    "probabilidad": 0.5,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 162825.82562399996,
+   "volumen": 162825.825624,
    "cierre": "2027-07-01T03:59:00Z"
   },
   {
@@ -9391,7 +9391,7 @@
    "probabilidad": 0.295,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 162446.32720199993,
+   "volumen": 162446.327202,
    "cierre": "2028-01-01T04:59:00Z"
   },
   {
@@ -9433,7 +9433,7 @@
    "probabilidad": 0.11,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 161124.34414400006,
+   "volumen": 161124.344144,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -9459,7 +9459,7 @@
     "Guerra Rusia–Ucrania",
     "Estados Unidos"
    ],
-   "probabilidad": 0.79,
+   "probabilidad": 0.785,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 160037.60212400003,
@@ -9504,7 +9504,7 @@
    "probabilidad": 0.285,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 159199.44953500002,
+   "volumen": 159199.449535,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -9673,7 +9673,7 @@
    "probabilidad": 0.055,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 153464.936378,
+   "volumen": 153464.93637799998,
    "cierre": "2026-12-01T04:59:00Z"
   },
   {
@@ -9684,10 +9684,10 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.06,
+   "probabilidad": 0.065,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 153312.91368899995,
+   "volumen": 153312.91368899998,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -9757,7 +9757,7 @@
    "probabilidad": 0.0405,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 152233.858022,
+   "volumen": 152233.85802199994,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -9810,7 +9810,7 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.0445,
+   "probabilidad": 0.0435,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 149648.39,
@@ -9824,7 +9824,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.017,
+   "probabilidad": 0.018,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 148528.54009700002,
@@ -9841,7 +9841,7 @@
    "probabilidad": 0.075,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 148500.95672200003,
+   "volumen": 148500.956722,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -9869,7 +9869,7 @@
    "probabilidad": 0.066,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 147717.72163600003,
+   "volumen": 147717.721636,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -9926,7 +9926,7 @@
    "probabilidad": 0.235,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 145780.129616,
+   "volumen": 145792.12961599996,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -9940,7 +9940,7 @@
    "probabilidad": 0.007,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 145698.42645,
+   "volumen": 145698.42644999997,
    "cierre": "2026-11-03T17:00:00Z"
   },
   {
@@ -9955,7 +9955,7 @@
    "probabilidad": 0.001,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 145449.40237800003,
+   "volumen": 145449.40237799997,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -9994,10 +9994,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.038,
+   "probabilidad": 0.037,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 144744.84676599997,
+   "volumen": 144744.846766,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -10029,6 +10029,20 @@
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
+   "clave": "kalshi:KXHOUSEPOPVOTEMARGIN-27NOV03-B7",
+   "plataforma": "kalshi",
+   "titulo": "2026 Midterms: House popular vote margin of victory? (Generic ballot): Democrats, 6 to 8%",
+   "url": "https://kalshi.com/markets/kxhousepopvotemargin",
+   "temas": [
+    "Estados Unidos"
+   ],
+   "probabilidad": 0.185,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 143787.45,
+   "cierre": "2027-11-03T13:59:00Z"
+  },
+  {
    "clave": "kalshi:SENATEID-26-TACH",
    "plataforma": "kalshi",
    "titulo": "Idaho Senate winner?: Todd Achilles",
@@ -10041,20 +10055,6 @@
    "cambio_7d": null,
    "volumen": 143641.41,
    "cierre": "2027-11-03T15:00:00Z"
-  },
-  {
-   "clave": "kalshi:KXHOUSEPOPVOTEMARGIN-27NOV03-B7",
-   "plataforma": "kalshi",
-   "titulo": "2026 Midterms: House popular vote margin of victory? (Generic ballot): Democrats, 6 to 8%",
-   "url": "https://kalshi.com/markets/kxhousepopvotemargin",
-   "temas": [
-    "Estados Unidos"
-   ],
-   "probabilidad": 0.185,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 143287.45,
-   "cierre": "2027-11-03T13:59:00Z"
   },
   {
    "clave": "polymarket:2373817",
@@ -10081,7 +10081,7 @@
    "probabilidad": 0.015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 142711.27924199996,
+   "volumen": 142711.27924200002,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -10137,7 +10137,7 @@
    "probabilidad": 0.1425,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 142192.73900899998,
+   "volumen": 142192.739009,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -10165,7 +10165,7 @@
    "probabilidad": 0.955,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 141752.791614,
+   "volumen": 141752.79161399996,
    "cierre": "2026-10-16T03:59:00Z"
   },
   {
@@ -10193,7 +10193,7 @@
    "probabilidad": 0.075,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 140459.02917300002,
+   "volumen": 140459.029173,
    "cierre": "2026-12-01T04:59:00Z"
   },
   {
@@ -10260,10 +10260,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.625,
+   "probabilidad": 0.615,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 138119.14,
+   "volumen": 138149.71,
    "cierre": "2028-01-03T15:00:00Z"
   },
   {
@@ -10333,7 +10333,7 @@
    "probabilidad": 0.115,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 136061.465524,
+   "volumen": 136061.46552399997,
    "cierre": "2026-11-03T17:00:00Z"
   },
   {
@@ -10403,7 +10403,7 @@
    "probabilidad": 0.077,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 133341.889944,
+   "volumen": 133341.88994400002,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -10456,7 +10456,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.0735,
+   "probabilidad": 0.0715,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 132409.82,
@@ -10515,7 +10515,7 @@
    "probabilidad": 0.21,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 130530.34163299999,
+   "volumen": 130530.341633,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -10572,7 +10572,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 129525.86986800002,
+   "volumen": 129525.869868,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -10583,7 +10583,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.053,
+   "probabilidad": 0.0505,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 129235.25206,
@@ -10604,20 +10604,6 @@
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
-   "clave": "polymarket:3553887",
-   "plataforma": "polymarket",
-   "titulo": "Who will attend a round of US-Iran peace talks by December 31?: Mohammad Bagher Ghalibaf",
-   "url": "https://polymarket.com/event/who-will-attend-a-round-of-us-iran-peace-talks-by-december-31-20260812153824803",
-   "temas": [
-    "Medio Oriente"
-   ],
-   "probabilidad": 0.22,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 127524.30151100003,
-   "cierre": "2026-12-31T23:59:00Z"
-  },
-  {
    "clave": "kalshi:KXHOUSEPOPVOTEMARGIN-27NOV03-B5",
    "plataforma": "kalshi",
    "titulo": "2026 Midterms: House popular vote margin of victory? (Generic ballot): Democrats, 4 to 6%",
@@ -10628,8 +10614,22 @@
    "probabilidad": 0.0985,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 126875.02,
+   "volumen": 127875.02,
    "cierre": "2027-11-03T13:59:00Z"
+  },
+  {
+   "clave": "polymarket:3553887",
+   "plataforma": "polymarket",
+   "titulo": "Who will attend a round of US-Iran peace talks by December 31?: Mohammad Bagher Ghalibaf",
+   "url": "https://polymarket.com/event/who-will-attend-a-round-of-us-iran-peace-talks-by-december-31-20260812153824803",
+   "temas": [
+    "Medio Oriente"
+   ],
+   "probabilidad": 0.22,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 127524.30151100001,
+   "cierre": "2026-12-31T23:59:00Z"
   },
   {
    "clave": "manifold:Bn76fB9rYXMkHsbCs9kZ",
@@ -10684,7 +10684,7 @@
    "probabilidad": 0.05,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 125610.679092,
+   "volumen": 125610.67909199999,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -10727,7 +10727,7 @@
    "probabilidad": 0.135,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 124562.11795200003,
+   "volumen": 124562.11795200006,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -10766,7 +10766,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0315,
+   "probabilidad": 0.0325,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 123993.28418899995,
@@ -10825,7 +10825,7 @@
    "probabilidad": 0.0025,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 122838.820817,
+   "volumen": 122838.82081700001,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -10881,7 +10881,7 @@
    "probabilidad": 0.0475,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 121993.60554999998,
+   "volumen": 121993.60555000001,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -10937,7 +10937,7 @@
    "probabilidad": 0.0355,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 120835.78971799994,
+   "volumen": 120835.78971800004,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -10976,10 +10976,10 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.073,
+   "probabilidad": 0.0725,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 120085.35583900005,
+   "volumen": 120085.35583899997,
    "cierre": "2028-01-01T04:59:00Z"
   },
   {
@@ -11004,10 +11004,10 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.07,
+   "probabilidad": 0.085,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 119552.82847800002,
+   "volumen": 119557.82847800005,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -11060,7 +11060,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.36,
+   "probabilidad": 0.355,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 119161.89,
@@ -11088,10 +11088,10 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.0265,
+   "probabilidad": 0.027,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 118160.13607900002,
+   "volumen": 118160.136079,
    "cierre": "2026-10-15T23:59:00Z"
   },
   {
@@ -11187,10 +11187,10 @@
     "Elecciones en América Latina",
     "Estados Unidos"
    ],
-   "probabilidad": 0.055,
+   "probabilidad": 0.065,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 115472.95916800002,
+   "volumen": 115472.95916799997,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -11218,7 +11218,7 @@
    "probabilidad": 0.27,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 114412.515328,
+   "volumen": 114412.51532800002,
    "cierre": "2027-01-04T17:00:00Z"
   },
   {
@@ -11246,7 +11246,7 @@
    "probabilidad": 0.01,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 113369.92041999998,
+   "volumen": 113369.92042000002,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -11426,10 +11426,10 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.57,
+   "probabilidad": 0.5695,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 107588.21422599998,
+   "volumen": 107588.21422600003,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -11457,7 +11457,7 @@
    "probabilidad": 0.775,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 106889.066332,
+   "volumen": 106889.06633200002,
    "cierre": "2029-01-20T17:00:00Z"
   },
   {
@@ -11468,10 +11468,10 @@
    "temas": [
     "China y Taiwán"
    ],
-   "probabilidad": 0.082,
+   "probabilidad": 0.0825,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 106775.16792200001,
+   "volumen": 106775.16792199986,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -11556,7 +11556,7 @@
    "probabilidad": 0.028,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 105787.26661699997,
+   "volumen": 105787.266617,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -11665,7 +11665,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9335,
+   "probabilidad": 0.933,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 104688.68,
@@ -11767,7 +11767,7 @@
    "probabilidad": 0.06,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 101947.92444599998,
+   "volumen": 101947.92444599996,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -11851,7 +11851,7 @@
    "probabilidad": 0.245,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 99187.24839500002,
+   "volumen": 99187.24839499999,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -11862,7 +11862,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.317,
+   "probabilidad": 0.312,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 98734.74356300001,
@@ -11949,7 +11949,7 @@
    "probabilidad": 0.022,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 97716.005592,
+   "volumen": 97716.00559200002,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -11991,7 +11991,7 @@
    "probabilidad": 0.0945,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 96651.71,
+   "volumen": 96655.71,
    "cierre": "2027-01-01T14:59:00Z"
   },
   {
@@ -12005,7 +12005,7 @@
    "probabilidad": 0.04,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 96568.848513,
+   "volumen": 96568.84851299998,
    "cierre": "2026-10-16T03:59:00Z"
   },
   {
@@ -12088,7 +12088,7 @@
    "temas": [
     "Europa"
    ],
-   "probabilidad": 0.9265,
+   "probabilidad": 0.9325,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 95848.87902600001,
@@ -12189,7 +12189,7 @@
    "probabilidad": 0.485,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 94207.512601,
+   "volumen": 94207.51260100002,
    "cierre": "2026-10-26T03:59:00Z"
   },
   {
@@ -12245,7 +12245,7 @@
    "probabilidad": 0.0475,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 93247.54002699998,
+   "volumen": 93247.540027,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -12263,6 +12263,20 @@
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
+   "clave": "kalshi:KXDSENATESEATSH-27-B53",
+   "plataforma": "kalshi",
+   "titulo": "How many Senate seats will Democrats hold after the Midterms? (Higher strikes): Below 53",
+   "url": "https://kalshi.com/markets/kxdsenateseatsh",
+   "temas": [
+    "Estados Unidos"
+   ],
+   "probabilidad": 0.64,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 92379.03,
+   "cierre": "2027-02-01T15:00:00Z"
+  },
+  {
    "clave": "polymarket:2110576",
    "plataforma": "polymarket",
    "titulo": "Israel Election: Likud # of seats?: <20",
@@ -12270,10 +12284,10 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.147,
+   "probabilidad": 0.1465,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 92295.793611,
+   "volumen": 92295.79361099999,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -12287,7 +12301,7 @@
    "probabilidad": 0.046,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 92277.02604,
+   "volumen": 92277.02603999998,
    "cierre": "2026-11-03T17:00:00Z"
   },
   {
@@ -12305,20 +12319,6 @@
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
-   "clave": "kalshi:KXDSENATESEATSH-27-B53",
-   "plataforma": "kalshi",
-   "titulo": "How many Senate seats will Democrats hold after the Midterms? (Higher strikes): Below 53",
-   "url": "https://kalshi.com/markets/kxdsenateseatsh",
-   "temas": [
-    "Estados Unidos"
-   ],
-   "probabilidad": 0.64,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 92228.03,
-   "cierre": "2027-02-01T15:00:00Z"
-  },
-  {
    "clave": "polymarket:630819",
    "plataforma": "polymarket",
    "titulo": "Minnesota Senate Election Winner: Michele Tafoya (R)",
@@ -12329,7 +12329,7 @@
    "probabilidad": 0.135,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 91731.11906799997,
+   "volumen": 91731.11906799999,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -12414,7 +12414,7 @@
    "probabilidad": 0.13,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 90940.896757,
+   "volumen": 90940.89675699998,
    "cierre": "2026-12-31T22:59:00Z"
   },
   {
@@ -12439,7 +12439,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.065,
+   "probabilidad": 0.06,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 90630.35380700002,
@@ -12456,7 +12456,7 @@
    "probabilidad": 0.145,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 90405.73588099999,
+   "volumen": 90405.735881,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -12526,7 +12526,7 @@
    "probabilidad": 0.445,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 89150.97447599997,
+   "volumen": 89150.97447599999,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -12554,7 +12554,7 @@
    "probabilidad": 0.9385,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 88852.563068,
+   "volumen": 88852.56306799997,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -12596,7 +12596,7 @@
    "probabilidad": 0.325,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 88389.04419099996,
+   "volumen": 88409.044191,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -12624,7 +12624,7 @@
    "probabilidad": 0.915,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 87886.86110800004,
+   "volumen": 87886.86110800001,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -12667,7 +12667,7 @@
    "probabilidad": 0.455,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 87015.00432100001,
+   "volumen": 87015.00432099997,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -12751,7 +12751,7 @@
    "probabilidad": 0.25,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 86353.99845200001,
+   "volumen": 86353.998452,
    "cierre": "2026-10-26T03:59:00Z"
   },
   {
@@ -12865,7 +12865,7 @@
    "probabilidad": 0.875,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 84752.49254199999,
+   "volumen": 84752.492542,
    "cierre": "2026-11-29T04:59:00Z"
   },
   {
@@ -12879,7 +12879,7 @@
    "probabilidad": 0.265,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 84265.47,
+   "volumen": 84669.47,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -12890,7 +12890,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.41,
+   "probabilidad": 0.415,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 84224.36,
@@ -13047,7 +13047,7 @@
    "probabilidad": 0.095,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 81900.65902199999,
+   "volumen": 81900.659022,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -13101,10 +13101,10 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.0125,
+   "probabilidad": 0.012,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 81504.89602499997,
+   "volumen": 81504.89602499998,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -13129,7 +13129,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.085,
+   "probabilidad": 0.086,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 81312.49,
@@ -13157,10 +13157,10 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.039,
+   "probabilidad": 0.0385,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 80550.474044,
+   "volumen": 80550.47404399999,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -13189,7 +13189,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 80499.748843,
+   "volumen": 80499.74884300001,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -13259,7 +13259,7 @@
    "probabilidad": 0.057,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 79610.52690099999,
+   "volumen": 79610.526901,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -13386,7 +13386,7 @@
    "probabilidad": 0.002,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 77249.33736800002,
+   "volumen": 77249.337368,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -13541,7 +13541,7 @@
    "probabilidad": 0.725,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 75382.958805,
+   "volumen": 75382.95880500002,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -13612,7 +13612,7 @@
    "probabilidad": 0.0015,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 74272.82827299999,
+   "volumen": 74272.82827299998,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -13626,7 +13626,7 @@
    "probabilidad": 0.001,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 73790.12742299998,
+   "volumen": 73790.12742300001,
    "cierre": "2026-11-29T04:59:00Z"
   },
   {
@@ -13640,7 +13640,7 @@
    "probabilidad": 0.19,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 73252.56,
+   "volumen": 73368.41,
    "cierre": "2027-03-01T15:00:00Z"
   },
   {
@@ -13725,7 +13725,7 @@
    "probabilidad": 0.105,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 71734.61612000004,
+   "volumen": 71734.61612,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -13736,7 +13736,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0745,
+   "probabilidad": 0.075,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 71706.34,
@@ -13750,7 +13750,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.095,
+   "probabilidad": 0.1,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 71629.47517500001,
@@ -13809,7 +13809,7 @@
    "probabilidad": 0.0095,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 71335.83515,
+   "volumen": 71335.83515000001,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -13891,7 +13891,7 @@
     "Guerra Rusia–Ucrania",
     "Estados Unidos"
    ],
-   "probabilidad": 0.0025,
+   "probabilidad": 0.003,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 70192.061541,
@@ -13908,7 +13908,7 @@
    "probabilidad": 0.265,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 69709.12936199999,
+   "volumen": 69709.129362,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -13961,10 +13961,10 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.255,
+   "probabilidad": 0.26,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 69163.79546900002,
+   "volumen": 69163.79546899999,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -14020,7 +14020,7 @@
    "probabilidad": 0.0345,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 68724.65338699997,
+   "volumen": 68724.653387,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -14272,7 +14272,7 @@
    "probabilidad": 0.065,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 65791.58357299997,
+   "volumen": 65791.58357300001,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -14329,7 +14329,7 @@
    "probabilidad": 0.16,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 65331.81432500001,
+   "volumen": 65331.81432500002,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -14441,7 +14441,7 @@
    "probabilidad": 0.0075,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 64553.28775900001,
+   "volumen": 64553.287759,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -14452,7 +14452,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0945,
+   "probabilidad": 0.095,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 64220.88,
@@ -14469,7 +14469,7 @@
    "probabilidad": 0.009,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 64078.219749,
+   "volumen": 64078.219748999996,
    "cierre": "2026-05-11T03:59:00Z"
   },
   {
@@ -14497,7 +14497,7 @@
    "probabilidad": 0.665,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 64041.206253,
+   "volumen": 64041.206253000004,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -14553,7 +14553,7 @@
    "probabilidad": 0.235,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 63565.722414,
+   "volumen": 63565.72241400001,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -14595,7 +14595,7 @@
    "probabilidad": 0.715,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 63279.304059999995,
+   "volumen": 63279.30406000001,
    "cierre": "2026-11-16T04:59:00Z"
   },
   {
@@ -14623,7 +14623,7 @@
    "probabilidad": 0.655,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 63224.744986,
+   "volumen": 63224.74498600005,
    "cierre": "2026-10-09T03:59:00Z"
   },
   {
@@ -14634,7 +14634,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.415,
+   "probabilidad": 0.375,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 63176.7,
@@ -14651,7 +14651,7 @@
    "probabilidad": 0.225,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 63106.81562299999,
+   "volumen": 63106.815623,
    "cierre": "2027-02-01T04:59:00Z"
   },
   {
@@ -14662,11 +14662,25 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.895,
+   "probabilidad": 0.897,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 63079.45,
    "cierre": "2027-11-03T15:00:00Z"
+  },
+  {
+   "clave": "polymarket:5190747",
+   "plataforma": "polymarket",
+   "titulo": "US-Iran ceasefire continues through...?: November 15",
+   "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt",
+   "temas": [
+    "Medio Oriente"
+   ],
+   "probabilidad": 0.565,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 63065.953632,
+   "cierre": "2026-11-16T04:59:00Z"
   },
   {
    "clave": "polymarket:3553894",
@@ -14683,20 +14697,6 @@
    "cierre": "2026-12-31T23:59:00Z"
   },
   {
-   "clave": "polymarket:5190747",
-   "plataforma": "polymarket",
-   "titulo": "US-Iran ceasefire continues through...?: November 15",
-   "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt",
-   "temas": [
-    "Medio Oriente"
-   ],
-   "probabilidad": 0.565,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 63022.09398400001,
-   "cierre": "2026-11-16T04:59:00Z"
-  },
-  {
    "clave": "polymarket:814613",
    "plataforma": "polymarket",
    "titulo": "2026 Taiwanese Local Elections: Party Winner: Democratic Progressive Party (DPP)",
@@ -14708,7 +14708,7 @@
    "probabilidad": 0.1275,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 62845.20198999998,
+   "volumen": 62845.201989999994,
    "cierre": "2026-11-29T04:59:00Z"
   },
   {
@@ -14764,7 +14764,7 @@
    "probabilidad": 0.155,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 62476.44852599999,
+   "volumen": 62476.448526,
    "cierre": "2026-12-31T23:59:00Z"
   },
   {
@@ -14778,7 +14778,7 @@
    "probabilidad": 0.991,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 62450.44423699998,
+   "volumen": 62450.444236999996,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -14792,7 +14792,7 @@
    "probabilidad": 0.042,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 62435.69225800002,
+   "volumen": 62435.692258,
    "cierre": "2027-12-31T00:00:00Z"
   },
   {
@@ -14862,7 +14862,7 @@
    "probabilidad": 0.9595,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 61690.204683,
+   "volumen": 61690.204682999996,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -14976,7 +14976,7 @@
    "probabilidad": 0.17,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 61221.596185999995,
+   "volumen": 61221.59618600002,
    "cierre": "2026-11-03T17:00:00Z"
   },
   {
@@ -15074,7 +15074,7 @@
    "probabilidad": 0.095,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 59474.020284000006,
+   "volumen": 59474.02028399999,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -15141,7 +15141,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9615,
+   "probabilidad": 0.961,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 59111.197037,
@@ -15240,7 +15240,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.175,
+   "probabilidad": 0.18,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 58323.762502,
@@ -15271,7 +15271,7 @@
    "probabilidad": 0.73,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 58174.921110999996,
+   "volumen": 58174.92111100001,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -15313,7 +15313,7 @@
    "probabilidad": 0.195,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 58066.46411099999,
+   "volumen": 58066.464111,
    "cierre": "2026-12-31T23:59:00Z"
   },
   {
@@ -15324,7 +15324,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.425,
+   "probabilidad": 0.415,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 57994.91,
@@ -15383,7 +15383,7 @@
    "probabilidad": 0.275,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 57856.08719800001,
+   "volumen": 57856.087198,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -15394,7 +15394,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.973,
+   "probabilidad": 0.975,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 57788.34,
@@ -15523,7 +15523,7 @@
    "probabilidad": 0.014,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 56757.469349000006,
+   "volumen": 56757.46934899999,
    "cierre": "2027-10-25T03:59:00Z"
   },
   {
@@ -15537,7 +15537,7 @@
    "probabilidad": 0.805,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 56550.88074499999,
+   "volumen": 56550.880745,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -15636,7 +15636,7 @@
    "probabilidad": 0.13,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 56167.956958999996,
+   "volumen": 56167.95695899999,
    "cierre": "2026-11-03T17:00:00Z"
   },
   {
@@ -15650,7 +15650,7 @@
    "probabilidad": 0.165,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 55998.33400200001,
+   "volumen": 55998.334002,
    "cierre": "2026-12-31T16:59:00Z"
   },
   {
@@ -15760,7 +15760,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.48,
+   "probabilidad": 0.505,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 55084.39259399999,
@@ -15902,10 +15902,10 @@
     "Medio Oriente",
     "Estados Unidos"
    ],
-   "probabilidad": 0.0485,
+   "probabilidad": 0.048,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 54126.672953,
+   "volumen": 54126.672952999994,
    "cierre": "2026-12-31T23:59:00Z"
   },
   {
@@ -16085,7 +16085,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9665,
+   "probabilidad": 0.964,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 53043.310684000004,
@@ -16113,10 +16113,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.275,
+   "probabilidad": 0.27,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 52836.309077,
+   "volumen": 52836.309077000005,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -16142,10 +16142,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.225,
+   "probabilidad": 0.22,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 52760.87166,
+   "volumen": 52760.871660000004,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -16315,7 +16315,7 @@
    "probabilidad": 0.0045,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 50740.185873999995,
+   "volumen": 50740.18587400001,
    "cierre": "2026-10-12T03:59:00Z"
   },
   {
@@ -16326,7 +16326,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.02,
+   "probabilidad": 0.0205,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 50667.13,
@@ -16382,7 +16382,7 @@
    "temas": [
     "China y Taiwán"
    ],
-   "probabilidad": 0.087,
+   "probabilidad": 0.086,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 50104.42100900001,
@@ -16403,6 +16403,20 @@
    "cierre": "2027-01-03T04:59:00Z"
   },
   {
+   "clave": "kalshi:KXHOUSERACE-NY21-26-R",
+   "plataforma": "kalshi",
+   "titulo": "NY-21 House winner?: Anthony Constantino",
+   "url": "https://kalshi.com/markets/kxhouserace",
+   "temas": [
+    "Estados Unidos"
+   ],
+   "probabilidad": 0.735,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 49493.99,
+   "cierre": "2027-11-03T15:00:00Z"
+  },
+  {
    "clave": "kalshi:KXCLOSESTSENATE-27JAN03-IA",
    "plataforma": "kalshi",
    "titulo": "Closest Senate race in 2026?: Iowa",
@@ -16415,20 +16429,6 @@
    "cambio_7d": null,
    "volumen": 49466.79,
    "cierre": "2027-01-03T04:59:00Z"
-  },
-  {
-   "clave": "kalshi:KXHOUSERACE-NY21-26-R",
-   "plataforma": "kalshi",
-   "titulo": "NY-21 House winner?: Anthony Constantino",
-   "url": "https://kalshi.com/markets/kxhouserace",
-   "temas": [
-    "Estados Unidos"
-   ],
-   "probabilidad": 0.735,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 49434.38,
-   "cierre": "2027-11-03T15:00:00Z"
   },
   {
    "clave": "polymarket:1284073",
@@ -16581,7 +16581,7 @@
    "probabilidad": 0.565,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 48386.394238000015,
+   "volumen": 48386.394237999986,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -16595,7 +16595,7 @@
    "probabilidad": 0.0365,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 48302.036421,
+   "volumen": 48302.036421000004,
    "cierre": "2026-10-26T03:59:00Z"
   },
   {
@@ -16691,7 +16691,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.094,
+   "probabilidad": 0.0935,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 47583.88,
@@ -16750,7 +16750,7 @@
    "probabilidad": 0.185,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 47438.852991,
+   "volumen": 47438.85299099999,
    "cierre": "2026-11-30T04:59:00Z"
   },
   {
@@ -16782,6 +16782,20 @@
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
+   "clave": "polymarket:5237624",
+   "plataforma": "polymarket",
+   "titulo": "Will Ukraine target Moscow on...?: October 10",
+   "url": "https://polymarket.com/event/will-ukraine-target-moscow-on-october-2026",
+   "temas": [
+    "Guerra Rusia–Ucrania"
+   ],
+   "probabilidad": 0.945,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 46969.815004000004,
+   "cierre": "2026-10-11T03:59:00Z"
+  },
+  {
    "clave": "polymarket:630831",
    "plataforma": "polymarket",
    "titulo": "Montana Senate Election Winner: Alani Bankhead (D)",
@@ -16803,10 +16817,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.745,
+   "probabilidad": 0.755,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 46804.753679999994,
+   "volumen": 46804.75368,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -16838,20 +16852,6 @@
    "cierre": "2028-11-07T15:00:00Z"
   },
   {
-   "clave": "polymarket:5237624",
-   "plataforma": "polymarket",
-   "titulo": "Will Ukraine target Moscow on...?: October 10",
-   "url": "https://polymarket.com/event/will-ukraine-target-moscow-on-october-2026",
-   "temas": [
-    "Guerra Rusia–Ucrania"
-   ],
-   "probabilidad": 0.38,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 46174.639289000006,
-   "cierre": "2026-10-11T03:59:00Z"
-  },
-  {
    "clave": "polymarket:2332981",
    "plataforma": "polymarket",
    "titulo": "Who will be the next to leave the Trump Cabinet?: None before 2027",
@@ -16859,7 +16859,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.4625,
+   "probabilidad": 0.5415,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 46152.687483999995,
@@ -16887,7 +16887,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0665,
+   "probabilidad": 0.0655,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 46004.98,
@@ -16957,7 +16957,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0745,
+   "probabilidad": 0.079,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 45654.68,
@@ -16985,7 +16985,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9715,
+   "probabilidad": 0.9695,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 45551.17190699999,
@@ -17030,7 +17030,7 @@
    "probabilidad": 0.285,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 45325.84515300001,
+   "volumen": 45325.845152999995,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -17184,7 +17184,7 @@
    "probabilidad": 0.1,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 44497.64243500001,
+   "volumen": 44497.642435,
    "cierre": "2026-12-01T04:59:00Z"
   },
   {
@@ -17282,7 +17282,7 @@
    "probabilidad": 0.003,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 44237.26923300003,
+   "volumen": 44237.269233000006,
    "cierre": "2026-10-12T03:59:00Z"
   },
   {
@@ -17338,7 +17338,7 @@
    "probabilidad": 0.915,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 43995.70314899999,
+   "volumen": 43995.703148999986,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -17366,7 +17366,7 @@
    "probabilidad": 0.695,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 43956.180070999995,
+   "volumen": 43956.18007099999,
    "cierre": "2028-01-01T04:59:00Z"
   },
   {
@@ -17422,7 +17422,7 @@
    "probabilidad": 0.615,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 43624.59045400001,
+   "volumen": 43624.59045399999,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -17503,7 +17503,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.938,
+   "probabilidad": 0.9365,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 43142.49422200001,
@@ -17630,7 +17630,7 @@
     "Elecciones en América Latina",
     "Estados Unidos"
    ],
-   "probabilidad": 0.27,
+   "probabilidad": 0.24,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 42856.001941999995,
@@ -17718,7 +17718,7 @@
    "probabilidad": 0.205,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 42786.71629200001,
+   "volumen": 42786.716292000005,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -17788,7 +17788,7 @@
    "probabilidad": 0.075,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 42491.579712000006,
+   "volumen": 42491.57971200001,
    "cierre": "2027-01-02T04:59:00Z"
   },
   {
@@ -17802,7 +17802,7 @@
    "probabilidad": 0.655,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 42459.56047599999,
+   "volumen": 42459.56047600001,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -17844,7 +17844,7 @@
    "probabilidad": 0.0035,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 42334.29699200001,
+   "volumen": 42334.296991999996,
    "cierre": "2027-10-25T03:59:00Z"
   },
   {
@@ -17911,7 +17911,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0215,
+   "probabilidad": 0.021,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 42187.228446,
@@ -18009,10 +18009,10 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.1175,
+   "probabilidad": 0.117,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 41666.847098000006,
+   "volumen": 41666.847098,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -18107,7 +18107,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.6195,
+   "probabilidad": 0.6275,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 41297.178275,
@@ -18177,7 +18177,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.255,
+   "probabilidad": 0.25,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 41015.766745,
@@ -18205,7 +18205,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.011,
+   "probabilidad": 0.0105,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 40941.81170999999,
@@ -18278,7 +18278,7 @@
    "probabilidad": 0.045,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 40756.93118599999,
+   "volumen": 40756.931185999994,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -18362,7 +18362,7 @@
    "probabilidad": 0.13,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 40550.78896700001,
+   "volumen": 40550.788967000015,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -18443,10 +18443,10 @@
    "temas": [
     "Europa"
    ],
-   "probabilidad": 0.82,
+   "probabilidad": 0.825,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 40265.576234,
+   "volumen": 40265.57623399999,
    "cierre": "2026-11-30T04:59:00Z"
   },
   {
@@ -18471,7 +18471,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.03,
+   "probabilidad": 0.031,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 39957.995859999995,
@@ -18488,7 +18488,7 @@
    "probabilidad": 0.51,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 39948.37159599998,
+   "volumen": 39948.371596,
    "cierre": "2026-09-24T20:59:00Z"
   },
   {
@@ -18642,7 +18642,7 @@
    "probabilidad": 0.545,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 39390.903757,
+   "volumen": 39390.90375700001,
    "cierre": "2026-10-12T03:59:00Z"
   },
   {
@@ -18653,7 +18653,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.027,
+   "probabilidad": 0.0265,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 39377.83207700001,
@@ -18695,7 +18695,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.0255,
+   "probabilidad": 0.026,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 39253.154878,
@@ -18797,7 +18797,7 @@
    "probabilidad": 0.085,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 38946.44808599998,
+   "volumen": 38946.448086,
    "cierre": "2026-10-16T03:59:00Z"
   },
   {
@@ -18948,7 +18948,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0745,
+   "probabilidad": 0.074,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 38240.54,
@@ -19130,7 +19130,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0095,
+   "probabilidad": 0.009,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 37228.95862500001,
@@ -19147,7 +19147,7 @@
    "probabilidad": 0.998,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 37079.639046,
+   "volumen": 37079.639046000004,
    "cierre": "2026-10-09T23:59:00Z"
   },
   {
@@ -19203,7 +19203,7 @@
    "probabilidad": 0.0345,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 36986.460173,
+   "volumen": 36986.46017300001,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -19344,7 +19344,7 @@
    "probabilidad": 0.27,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 36525.150987,
+   "volumen": 36525.15098699999,
    "cierre": "2026-12-31T23:59:00Z"
   },
   {
@@ -19386,7 +19386,7 @@
    "probabilidad": 0.255,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 36304.698059,
+   "volumen": 36304.698058999995,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -19400,7 +19400,7 @@
    "probabilidad": 0.395,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 36202.645360999995,
+   "volumen": 36202.645361,
    "cierre": "2027-07-01T03:59:00Z"
   },
   {
@@ -19453,10 +19453,10 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.0355,
+   "probabilidad": 0.0365,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 36056.68764100001,
+   "volumen": 36056.687641,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -19512,7 +19512,7 @@
    "probabilidad": 0.16,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 35806.270942999996,
+   "volumen": 35806.270943,
    "cierre": "2026-12-31T23:59:00Z"
   },
   {
@@ -19565,7 +19565,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.026,
+   "probabilidad": 0.027,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 35633.17596299999,
@@ -19680,7 +19680,7 @@
    "probabilidad": 0.08,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 35453.308787999995,
+   "volumen": 35453.30878799999,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -19705,10 +19705,10 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.35,
+   "probabilidad": 0.345,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 35404.746473,
+   "volumen": 35404.74647300001,
    "cierre": "2026-12-31T23:59:00Z"
   },
   {
@@ -19818,7 +19818,7 @@
     "China y Taiwán",
     "Estados Unidos"
    ],
-   "probabilidad": 0.1155,
+   "probabilidad": 0.1005,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 35214.796944,
@@ -19909,6 +19909,20 @@
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
+   "clave": "kalshi:KXTRUMPADMINLEAVE-26DEC31-SWIT",
+   "plataforma": "kalshi",
+   "titulo": "Who will leave their role in the Trump administration in 2026?: Steve Witkoff",
+   "url": "https://kalshi.com/markets/kxtrumpadminleave",
+   "temas": [
+    "Estados Unidos"
+   ],
+   "probabilidad": 0.24,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 34930.33,
+   "cierre": "2027-01-01T14:59:00Z"
+  },
+  {
    "clave": "polymarket:1285159",
    "plataforma": "polymarket",
    "titulo": "WA-06 House Election Winner: Teresa Fox (R)",
@@ -19937,20 +19951,6 @@
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
-   "clave": "kalshi:KXTRUMPADMINLEAVE-26DEC31-SWIT",
-   "plataforma": "kalshi",
-   "titulo": "Who will leave their role in the Trump administration in 2026?: Steve Witkoff",
-   "url": "https://kalshi.com/markets/kxtrumpadminleave",
-   "temas": [
-    "Estados Unidos"
-   ],
-   "probabilidad": 0.22,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 34872.42,
-   "cierre": "2027-01-01T14:59:00Z"
-  },
-  {
    "clave": "polymarket:2125867",
    "plataforma": "polymarket",
    "titulo": "Which states will use new congressional maps in the midterms?: Indiana",
@@ -19975,7 +19975,7 @@
    "probabilidad": 0.9495,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 34637.352111,
+   "volumen": 34637.35211100001,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -20017,7 +20017,7 @@
    "probabilidad": 0.1815,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 34574.188579999995,
+   "volumen": 34574.18858,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -20056,7 +20056,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0635,
+   "probabilidad": 0.0625,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 34477.568406,
@@ -20070,7 +20070,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.96,
+   "probabilidad": 0.9595,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 34431.01336600001,
@@ -20115,7 +20115,7 @@
    "probabilidad": 0.055,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 34342.731267,
+   "volumen": 34342.731266999996,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -20238,10 +20238,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9695,
+   "probabilidad": 0.969,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 34066.293728,
+   "volumen": 34066.29372799999,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -20255,7 +20255,7 @@
    "probabilidad": 0.25,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 34009.34181500001,
+   "volumen": 34009.34181499999,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -20326,7 +20326,7 @@
    "probabilidad": 0.9415,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 33839.17901100001,
+   "volumen": 33839.179011,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -20340,7 +20340,7 @@
    "probabilidad": 0.13,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 33814.24288800001,
+   "volumen": 33814.242888,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -20354,7 +20354,7 @@
    "probabilidad": 0.185,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 33793.96519,
+   "volumen": 33793.96519000001,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -20396,7 +20396,7 @@
    "probabilidad": 0.939,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 33742.515171000014,
+   "volumen": 33742.515171,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -20421,7 +20421,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9645,
+   "probabilidad": 0.9655,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 33659.913914000004,
@@ -20477,10 +20477,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.957,
+   "probabilidad": 0.9565,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 33543.429588,
+   "volumen": 33543.42958799999,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -20578,7 +20578,7 @@
    "probabilidad": 0.003,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 33171.96112,
+   "volumen": 33171.96111999999,
    "cierre": "2026-10-11T03:59:00Z"
   },
   {
@@ -20589,7 +20589,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.145,
+   "probabilidad": 0.14,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 33079.342754000005,
@@ -20634,7 +20634,7 @@
    "probabilidad": 0.22,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 32908.14090600001,
+   "volumen": 32908.14090599999,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -20676,7 +20676,7 @@
    "probabilidad": 0.0365,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 32863.374305000005,
+   "volumen": 32863.374305,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -20690,7 +20690,7 @@
    "probabilidad": 0.0155,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 32860.114981000006,
+   "volumen": 32860.114981,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -20718,7 +20718,7 @@
    "probabilidad": 0.385,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 32822.98471399999,
+   "volumen": 32822.984714,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -20789,7 +20789,7 @@
    "probabilidad": 0.715,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 32723.852624999996,
+   "volumen": 32723.852625000007,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -20845,7 +20845,7 @@
    "probabilidad": 0.006,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 32644.642917,
+   "volumen": 32644.642917000005,
    "cierre": "2026-10-12T03:59:00Z"
   },
   {
@@ -20901,7 +20901,7 @@
    "probabilidad": 0.9545,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 32434.62838099999,
+   "volumen": 32434.628380999995,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -20912,7 +20912,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0235,
+   "probabilidad": 0.023,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 32410.412753999997,
@@ -21013,7 +21013,7 @@
    "probabilidad": 0.05,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 32161.064919999993,
+   "volumen": 32161.064919999997,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -21066,10 +21066,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.004,
+   "probabilidad": 0.0035,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 32073.175898999998,
+   "volumen": 32073.175899,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -21122,7 +21122,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0215,
+   "probabilidad": 0.0235,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 31928.22586100001,
@@ -21167,7 +21167,7 @@
    "probabilidad": 0.155,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 31847.964437000002,
+   "volumen": 31847.964437,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -21389,10 +21389,10 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.352,
+   "probabilidad": 0.3515,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 31400.323856000006,
+   "volumen": 31400.323855999995,
    "cierre": "2027-01-13T04:59:00Z"
   },
   {
@@ -21417,7 +21417,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.979,
+   "probabilidad": 0.9795,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 31306.67,
@@ -21476,7 +21476,7 @@
    "probabilidad": 0.0625,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 31245.741638000003,
+   "volumen": 31245.741638,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -21641,7 +21641,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.18,
+   "probabilidad": 0.175,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 31051.27,
@@ -21655,11 +21655,25 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0225,
+   "probabilidad": 0.0245,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 31048.2,
    "cierre": "2029-11-07T15:00:00Z"
+  },
+  {
+   "clave": "polymarket:1284888",
+   "plataforma": "polymarket",
+   "titulo": "TX-12 House Election Winner: Angela Rodriguez Prilliman (D)",
+   "url": "https://polymarket.com/event/tx-12-house-election-winner",
+   "temas": [
+    "Estados Unidos"
+   ],
+   "probabilidad": 0.055,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 30938.29295899999,
+   "cierre": "2026-11-04T04:59:00Z"
   },
   {
    "clave": "kalshi:KXGOVTCUTS-26-750",
@@ -21782,7 +21796,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9855,
+   "probabilidad": 0.986,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 30633.925748999998,
@@ -21799,7 +21813,7 @@
    "probabilidad": 0.045,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 30525.110742,
+   "volumen": 30525.110742000004,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -21842,20 +21856,6 @@
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 30471.905064,
-   "cierre": "2026-11-04T04:59:00Z"
-  },
-  {
-   "clave": "polymarket:1284888",
-   "plataforma": "polymarket",
-   "titulo": "TX-12 House Election Winner: Angela Rodriguez Prilliman (D)",
-   "url": "https://polymarket.com/event/tx-12-house-election-winner",
-   "temas": [
-    "Estados Unidos"
-   ],
-   "probabilidad": 0.055,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 30438.29295899999,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -21937,7 +21937,7 @@
    "temas": [
     "Europa"
    ],
-   "probabilidad": 0.0095,
+   "probabilidad": 0.0105,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 30333.047243999998,
@@ -21965,7 +21965,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.017,
+   "probabilidad": 0.0165,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 30261.194235000003,
@@ -21982,7 +21982,7 @@
    "probabilidad": 0.951,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 30252.427934999996,
+   "volumen": 30252.427935,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -22024,7 +22024,7 @@
    "probabilidad": 0.785,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 30211.370461,
+   "volumen": 30211.370461000006,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -22063,7 +22063,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.04,
+   "probabilidad": 0.038,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 30076.933086,
@@ -22080,7 +22080,7 @@
    "probabilidad": 0.335,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 30066.868094999998,
+   "volumen": 30066.868095,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -22147,7 +22147,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0185,
+   "probabilidad": 0.0175,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 29855.31,
@@ -22164,7 +22164,7 @@
    "probabilidad": 0.895,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 29851.557402000006,
+   "volumen": 29851.557402,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -22192,7 +22192,7 @@
    "probabilidad": 0.415,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 29790.502941,
+   "volumen": 29790.502940999995,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -22234,7 +22234,7 @@
    "probabilidad": 0.01,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 29687.99691,
+   "volumen": 29687.996909999998,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -22302,10 +22302,10 @@
    "temas": [
     "Europa"
    ],
-   "probabilidad": 0.045,
+   "probabilidad": 0.05,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 29556.530907000008,
+   "volumen": 29556.530907,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -22389,7 +22389,7 @@
    "probabilidad": 0.0125,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 29431.916933999993,
+   "volumen": 29431.916934000004,
    "cierre": "2026-10-16T03:59:00Z"
   },
   {
@@ -22414,10 +22414,10 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.018,
+   "probabilidad": 0.0175,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 29384.856433999998,
+   "volumen": 29384.856434,
    "cierre": "2027-12-31T00:00:00Z"
   },
   {
@@ -22431,7 +22431,7 @@
    "probabilidad": 0.105,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 29354.479420999993,
+   "volumen": 29354.479421,
    "cierre": "2026-10-26T03:59:00Z"
   },
   {
@@ -22459,7 +22459,7 @@
    "probabilidad": 0.355,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 29279.364135000007,
+   "volumen": 29279.364135000003,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -22599,7 +22599,7 @@
    "probabilidad": 0.195,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 28862.459574000008,
+   "volumen": 28862.459574000004,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -22694,7 +22694,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.028,
+   "probabilidad": 0.0285,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 28781.336259,
@@ -22711,7 +22711,7 @@
    "probabilidad": 0.255,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 28776.882663999997,
+   "volumen": 28776.882664,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -22795,7 +22795,7 @@
    "probabilidad": 0.961,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 28563.519915000004,
+   "volumen": 28563.519914999997,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -22893,7 +22893,7 @@
    "probabilidad": 0.885,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 28373.231639999995,
+   "volumen": 28373.23164,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -22921,7 +22921,7 @@
    "probabilidad": 0.045,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 28300.89464,
+   "volumen": 28300.894640000002,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -22932,7 +22932,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.61,
+   "probabilidad": 0.655,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 28273.160390999998,
@@ -22960,10 +22960,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0365,
+   "probabilidad": 0.038,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 28252.676859999996,
+   "volumen": 28252.67686,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -22974,7 +22974,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0225,
+   "probabilidad": 0.022,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 28240.565733,
@@ -23019,7 +23019,7 @@
    "probabilidad": 0.045,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 28202.056298000003,
+   "volumen": 28202.056297999996,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -23044,10 +23044,10 @@
    "temas": [
     "Europa"
    ],
-   "probabilidad": 0.095,
+   "probabilidad": 0.1,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 28149.253773999993,
+   "volumen": 28149.253774,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -23128,7 +23128,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.038,
+   "probabilidad": 0.039,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 27886.246949,
@@ -23187,7 +23187,7 @@
    "probabilidad": 0.956,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 27844.476469,
+   "volumen": 27844.476468999994,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -23229,7 +23229,7 @@
    "probabilidad": 0.9465,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 27707.421603000003,
+   "volumen": 27707.421603000006,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -23243,7 +23243,7 @@
    "probabilidad": 0.26,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 27706.187485000002,
+   "volumen": 27706.187485000006,
    "cierre": "2027-03-01T04:59:00Z"
   },
   {
@@ -23296,7 +23296,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.983,
+   "probabilidad": 0.9835,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 27610.823658999998,
@@ -23355,7 +23355,7 @@
    "probabilidad": 0.0385,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 27589.430516,
+   "volumen": 27589.430515999997,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -23408,7 +23408,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.927,
+   "probabilidad": 0.9265,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 27450.15,
@@ -23492,10 +23492,10 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.315,
+   "probabilidad": 0.305,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 27354.784405,
+   "volumen": 27354.784405000002,
    "cierre": "2026-12-31T23:59:00Z"
   },
   {
@@ -23509,7 +23509,7 @@
    "probabilidad": 0.95,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 27335.741351000004,
+   "volumen": 27335.741351,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -23548,7 +23548,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9645,
+   "probabilidad": 0.965,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 27268.127478000002,
@@ -23632,7 +23632,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.1095,
+   "probabilidad": 0.1195,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 27018.344820999995,
@@ -23706,7 +23706,7 @@
    "probabilidad": 0.06,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 26877.634087000002,
+   "volumen": 26877.634087000006,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -23787,10 +23787,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.06,
+   "probabilidad": 0.061,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 26832.245238000003,
+   "volumen": 26832.245238,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -23846,7 +23846,7 @@
    "probabilidad": 0.825,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 26797.357170000007,
+   "volumen": 26797.357170000003,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -23916,7 +23916,7 @@
    "probabilidad": 0.885,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 26702.600933000005,
+   "volumen": 26702.60093300001,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -23997,7 +23997,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.655,
+   "probabilidad": 0.66,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 26629.04,
@@ -24056,7 +24056,7 @@
    "probabilidad": 0.485,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 26530.218018999996,
+   "volumen": 26530.218018999993,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -24067,7 +24067,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.135,
+   "probabilidad": 0.13,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 26522.671303000003,
@@ -24095,7 +24095,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0335,
+   "probabilidad": 0.033,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 26492.272393000003,
@@ -24123,7 +24123,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9655,
+   "probabilidad": 0.967,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 26454.731153999997,
@@ -24264,7 +24264,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.43,
+   "probabilidad": 0.425,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 26219.49,
@@ -24309,7 +24309,7 @@
    "probabilidad": 0.044,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 26190.871788000004,
+   "volumen": 26190.871788,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -24323,7 +24323,7 @@
    "probabilidad": 0.1,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 26150.673107,
+   "volumen": 26150.673107000002,
    "cierre": "2027-01-02T04:59:00Z"
   },
   {
@@ -24376,7 +24376,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0835,
+   "probabilidad": 0.0845,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 25975.315554,
@@ -24517,7 +24517,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.014,
+   "probabilidad": 0.013,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 25864.03,
@@ -24534,7 +24534,7 @@
    "probabilidad": 0.05,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 25862.586253,
+   "volumen": 25862.586252999998,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -24548,7 +24548,7 @@
    "probabilidad": 0.935,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 25812.655950999997,
+   "volumen": 25812.655951,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -24590,7 +24590,7 @@
    "probabilidad": 0.038,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 25799.028379,
+   "volumen": 25799.028379000003,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -24828,7 +24828,7 @@
    "probabilidad": 0.535,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 25432.651252999996,
+   "volumen": 25432.651253,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -24954,7 +24954,7 @@
    "probabilidad": 0.0155,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 25272.889977000006,
+   "volumen": 25272.889977000003,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -25035,7 +25035,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.073,
+   "probabilidad": 0.0725,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 25170.061648,
@@ -25063,7 +25063,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0215,
+   "probabilidad": 0.019,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 25148.108418,
@@ -25105,7 +25105,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0145,
+   "probabilidad": 0.016,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 25050.566155,
@@ -25119,7 +25119,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0385,
+   "probabilidad": 0.038,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 25048.384947000002,
@@ -25189,7 +25189,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.013,
+   "probabilidad": 0.0135,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 24958.238373,
@@ -25346,7 +25346,7 @@
    "probabilidad": 0.055,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 24763.627263000002,
+   "volumen": 24763.627263,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -25357,7 +25357,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.027,
+   "probabilidad": 0.0265,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 24757.278896000003,
@@ -25388,7 +25388,7 @@
    "probabilidad": 0.045,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 24698.378238,
+   "volumen": 24698.378237999994,
    "cierre": "2026-12-31T23:59:00Z"
   },
   {
@@ -25399,10 +25399,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.67,
+   "probabilidad": 0.675,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 24698.353118999992,
+   "volumen": 24698.353118999996,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -25413,7 +25413,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.28,
+   "probabilidad": 0.275,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 24657.56,
@@ -25472,7 +25472,7 @@
    "probabilidad": 0.95,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 24578.613924999994,
+   "volumen": 24578.613925,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -25528,7 +25528,7 @@
    "probabilidad": 0.0595,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 24500.077664999997,
+   "volumen": 24500.077665,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -25539,10 +25539,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9565,
+   "probabilidad": 0.9625,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 24466.227167,
+   "volumen": 24466.227166999997,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -25570,7 +25570,7 @@
    "probabilidad": 0.345,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 24457.849333000002,
+   "volumen": 24457.849333,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -25598,7 +25598,7 @@
    "probabilidad": 0.205,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 24436.574892999997,
+   "volumen": 24436.574893,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -25612,7 +25612,7 @@
    "probabilidad": 0.0255,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 24432.278278000005,
+   "volumen": 24432.278278,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -25651,7 +25651,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0435,
+   "probabilidad": 0.0495,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 24416.72,
@@ -25721,7 +25721,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9405,
+   "probabilidad": 0.94,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 24357.71839999999,
@@ -25752,7 +25752,7 @@
    "probabilidad": 0.05,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 24330.32559,
+   "volumen": 24330.325589999997,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -25833,7 +25833,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.11,
+   "probabilidad": 0.115,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 24128.171230000004,
@@ -25861,7 +25861,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0515,
+   "probabilidad": 0.052,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 24090.047184000003,
@@ -25931,7 +25931,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.044,
+   "probabilidad": 0.0435,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 23991.056166,
@@ -26004,7 +26004,7 @@
    "probabilidad": 0.124,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 23840.466153999998,
+   "volumen": 23840.466154000005,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -26074,7 +26074,7 @@
    "probabilidad": 0.735,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 23703.853933000002,
+   "volumen": 23703.853933,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -26085,7 +26085,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.97,
+   "probabilidad": 0.9705,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 23702.895770999992,
@@ -26099,10 +26099,10 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.046,
+   "probabilidad": 0.0465,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 23700.348804999998,
+   "volumen": 23700.348804999994,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -26284,7 +26284,7 @@
    "probabilidad": 0.115,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 23550.077734,
+   "volumen": 23550.077734000006,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -26309,7 +26309,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9295,
+   "probabilidad": 0.929,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 23466.28,
@@ -26365,7 +26365,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0355,
+   "probabilidad": 0.036,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 23345.840373000003,
@@ -26380,10 +26380,10 @@
     "Elecciones en América Latina",
     "Estados Unidos"
    ],
-   "probabilidad": 0.46,
+   "probabilidad": 0.47,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 23338.328992999996,
+   "volumen": 23338.328993,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -26425,7 +26425,7 @@
    "probabilidad": 0.045,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 23259.249073000003,
+   "volumen": 23259.249073,
    "cierre": "2026-09-23T20:59:00Z"
   },
   {
@@ -26467,7 +26467,7 @@
    "probabilidad": 0.0205,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 23183.123001,
+   "volumen": 23183.123001000007,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -26509,7 +26509,7 @@
    "probabilidad": 0.042,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 23104.040325000005,
+   "volumen": 23104.040325,
    "cierre": "2026-10-31T23:59:00Z"
   },
   {
@@ -26650,7 +26650,7 @@
    "probabilidad": 0.355,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 22952.591375999993,
+   "volumen": 22952.591375999997,
    "cierre": "2026-12-01T04:59:00Z"
   },
   {
@@ -26731,7 +26731,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.022,
+   "probabilidad": 0.0215,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 22874.740939000003,
@@ -26818,7 +26818,7 @@
    "probabilidad": 0.0505,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 22814.820315999998,
+   "volumen": 22814.820316,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -26829,7 +26829,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0055,
+   "probabilidad": 0.0045,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 22797.437488,
@@ -26860,7 +26860,7 @@
    "probabilidad": 0.25,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 22778.994774999996,
+   "volumen": 22778.994775000003,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -26944,7 +26944,7 @@
    "probabilidad": 0.9515,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 22688.472016000003,
+   "volumen": 22688.472015999996,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -26983,7 +26983,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9565,
+   "probabilidad": 0.9715,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 22631.147177000003,
@@ -27168,7 +27168,7 @@
    "probabilidad": 0.735,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 22484.356173999997,
+   "volumen": 22484.356173999993,
    "cierre": "2027-07-01T03:59:00Z"
   },
   {
@@ -27179,7 +27179,7 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.003,
+   "probabilidad": 0.004,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 22460.388677999996,
@@ -27210,7 +27210,7 @@
    "probabilidad": 0.045,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 22410.894349999995,
+   "volumen": 22410.89435,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -27238,7 +27238,7 @@
    "probabilidad": 0.045,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 22356.82328,
+   "volumen": 22356.823280000004,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -27337,7 +27337,7 @@
    "probabilidad": 0.785,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 22269.577368000006,
+   "volumen": 22269.577368000002,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -27351,7 +27351,7 @@
    "probabilidad": 0.944,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 22257.485713000005,
+   "volumen": 22257.48571300001,
    "cierre": "2027-07-01T03:59:00Z"
   },
   {
@@ -27558,7 +27558,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9575,
+   "probabilidad": 0.9495,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 21961.712839,
@@ -27586,7 +27586,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9715,
+   "probabilidad": 0.9745,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 21924.214986000003,
@@ -27603,7 +27603,7 @@
    "probabilidad": 0.84,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 21879.649247999994,
+   "volumen": 21879.64924799999,
    "cierre": "2028-01-01T04:59:00Z"
   },
   {
@@ -27675,7 +27675,7 @@
    "probabilidad": 0.815,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 21839.770447999992,
+   "volumen": 21839.770447999996,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -27703,7 +27703,7 @@
    "probabilidad": 0.95,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 21790.151426,
+   "volumen": 21790.151425999997,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -27801,7 +27801,7 @@
    "probabilidad": 0.87,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 21690.362091000006,
+   "volumen": 21690.362091000003,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -27812,7 +27812,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9655,
+   "probabilidad": 0.9645,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 21688.84893499999,
@@ -27826,7 +27826,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.0325,
+   "probabilidad": 0.032,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 21687.981370000005,
@@ -27843,7 +27843,7 @@
    "probabilidad": 0.605,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 21687.639156000005,
+   "volumen": 21687.639155999994,
    "cierre": "2027-01-02T04:59:00Z"
   },
   {
@@ -27885,7 +27885,7 @@
    "probabilidad": 0.0265,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 21673.916658,
+   "volumen": 21673.916658000002,
    "cierre": "2026-10-28T03:59:00Z"
   },
   {
@@ -27896,7 +27896,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.031,
+   "probabilidad": 0.034,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 21671.605647999997,
@@ -28081,7 +28081,7 @@
    "probabilidad": 0.07,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 21492.442314999997,
+   "volumen": 21492.442315,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -28120,7 +28120,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.957,
+   "probabilidad": 0.958,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 21457.495382,
@@ -28151,7 +28151,7 @@
    "probabilidad": 0.305,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 21452.710946,
+   "volumen": 21452.710946000007,
    "cierre": "2027-07-01T03:59:00Z"
   },
   {
@@ -28431,7 +28431,7 @@
    "probabilidad": 0.92,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 21102.640283999994,
+   "volumen": 21102.640283999997,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -28653,7 +28653,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0465,
+   "probabilidad": 0.045,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 20870.26,
@@ -28709,7 +28709,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9565,
+   "probabilidad": 0.9555,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 20811.85068,
@@ -28768,7 +28768,7 @@
    "probabilidad": 0.9465,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 20770.619889999998,
+   "volumen": 20770.61989,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -28824,7 +28824,7 @@
    "probabilidad": 0.963,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 20725.984762999997,
+   "volumen": 20725.984763,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -28933,7 +28933,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0255,
+   "probabilidad": 0.0265,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 20475.382755000002,
@@ -29046,10 +29046,10 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.1025,
+   "probabilidad": 0.101,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 20343.983173999994,
+   "volumen": 20343.983174000008,
    "cierre": "2027-01-13T04:59:00Z"
   },
   {
@@ -29116,7 +29116,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9725,
+   "probabilidad": 0.972,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 20273.956462,
@@ -29130,7 +29130,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.1515,
+   "probabilidad": 0.169,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 20266.63147699999,
@@ -29270,7 +29270,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0325,
+   "probabilidad": 0.0415,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 20041.754599999997,
@@ -29284,7 +29284,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.954,
+   "probabilidad": 0.9575,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 20038.506284000003,
@@ -29326,7 +29326,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9725,
+   "probabilidad": 0.973,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19978.592769,
@@ -29382,7 +29382,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.067,
+   "probabilidad": 0.0675,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19954.084938999997,
@@ -29536,10 +29536,10 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.335,
+   "probabilidad": 0.345,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 19804.256524000008,
+   "volumen": 19804.256524000004,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -29550,7 +29550,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9725,
+   "probabilidad": 0.9735,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19799.353632,
@@ -29567,7 +29567,7 @@
    "probabilidad": 0.065,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 19799.188749999998,
+   "volumen": 19799.18875,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -29592,7 +29592,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9575,
+   "probabilidad": 0.957,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19783.216171,
@@ -29623,7 +29623,7 @@
    "probabilidad": 0.085,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 19774.068205,
+   "volumen": 19774.068204999996,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -29791,7 +29791,7 @@
    "probabilidad": 0.845,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 19594.049814,
+   "volumen": 19594.049814000005,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -29802,7 +29802,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.575,
+   "probabilidad": 0.58,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19582.91,
@@ -29833,7 +29833,7 @@
    "probabilidad": 0.405,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 19557.234422999994,
+   "volumen": 19557.234422999998,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -29886,7 +29886,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.027,
+   "probabilidad": 0.0255,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19476.687156,
@@ -29928,7 +29928,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9675,
+   "probabilidad": 0.9685,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19395.021758000003,
@@ -29984,7 +29984,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.025,
+   "probabilidad": 0.024,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19349.71067,
@@ -30015,7 +30015,7 @@
    "probabilidad": 0.123,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 19329.422312000002,
+   "volumen": 19329.422312,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -30082,7 +30082,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0295,
+   "probabilidad": 0.031,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19297.67909,
@@ -30152,7 +30152,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.0335,
+   "probabilidad": 0.035,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19216.420596999997,
@@ -30180,7 +30180,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9245,
+   "probabilidad": 0.924,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19183.88,
@@ -30209,7 +30209,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.956,
+   "probabilidad": 0.95,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19166.940706999998,
@@ -30226,7 +30226,7 @@
    "probabilidad": 0.57,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 19166.031650999998,
+   "volumen": 19166.031651,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -30251,7 +30251,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.205,
+   "probabilidad": 0.185,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19146.104148000002,
@@ -30307,7 +30307,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0175,
+   "probabilidad": 0.017,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 19055.489786,
@@ -30377,7 +30377,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.6425,
+   "probabilidad": 0.6435,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 18937.165253,
@@ -30391,7 +30391,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0025,
+   "probabilidad": 0.002,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 18931.920921999998,
@@ -30422,7 +30422,7 @@
    "probabilidad": 0.865,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 18918.55901,
+   "volumen": 18918.559010000004,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -30604,7 +30604,7 @@
    "probabilidad": 0.037,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 18755.689466,
+   "volumen": 18755.689465999996,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -30615,7 +30615,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.016,
+   "probabilidad": 0.015,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 18701.741577000004,
@@ -30699,7 +30699,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.952,
+   "probabilidad": 0.9515,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 18594.555683000002,
@@ -30770,7 +30770,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0245,
+   "probabilidad": 0.0255,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 18552.963008,
@@ -30952,7 +30952,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.959,
+   "probabilidad": 0.957,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 18403.0,
@@ -30994,7 +30994,7 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.0295,
+   "probabilidad": 0.03,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 18386.421907000004,
@@ -31011,7 +31011,7 @@
    "probabilidad": 0.0025,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 18365.746818999996,
+   "volumen": 18365.746819000007,
    "cierre": "2026-10-26T03:59:00Z"
   },
   {
@@ -31149,7 +31149,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.96,
+   "probabilidad": 0.962,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 18211.230674,
@@ -31233,7 +31233,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.1005,
+   "probabilidad": 0.103,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 18114.662043999997,
@@ -31348,7 +31348,7 @@
    "probabilidad": 0.31,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 18028.799106999995,
+   "volumen": 18028.799107000003,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -31670,7 +31670,7 @@
    "probabilidad": 0.08,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 17757.730915999997,
+   "volumen": 17757.730916,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -31737,7 +31737,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0245,
+   "probabilidad": 0.024,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17666.729127,
@@ -31751,7 +31751,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.032,
+   "probabilidad": 0.0315,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17652.882773,
@@ -31779,7 +31779,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.96,
+   "probabilidad": 0.9625,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17612.713456,
@@ -31793,7 +31793,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.968,
+   "probabilidad": 0.9685,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17593.350157999997,
@@ -31807,7 +31807,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.97,
+   "probabilidad": 0.9665,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17586.091801000002,
@@ -31864,7 +31864,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0295,
+   "probabilidad": 0.0305,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17501.668811000003,
@@ -31990,10 +31990,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0505,
+   "probabilidad": 0.052,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 17397.976882000006,
+   "volumen": 17397.976881999995,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -32018,7 +32018,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0125,
+   "probabilidad": 0.0135,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17381.03624,
@@ -32060,7 +32060,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.039,
+   "probabilidad": 0.04,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17360.162091,
@@ -32077,7 +32077,7 @@
    "probabilidad": 0.19,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 17341.820992999998,
+   "volumen": 17341.820993,
    "cierre": "2027-07-01T03:59:00Z"
   },
   {
@@ -32088,7 +32088,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9695,
+   "probabilidad": 0.9605,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17313.477416,
@@ -32130,7 +32130,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9595,
+   "probabilidad": 0.96,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17290.254883,
@@ -32172,10 +32172,10 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.365,
+   "probabilidad": 0.3,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 17276.093732,
+   "volumen": 17279.293732000002,
    "cierre": "2026-10-16T03:59:00Z"
   },
   {
@@ -32193,6 +32193,20 @@
    "cierre": "2026-12-31T23:59:00Z"
   },
   {
+   "clave": "kalshi:KXMIDTERMMOV-GASEND-P10",
+   "plataforma": "kalshi",
+   "titulo": "Georgia Senate margin of victory: Ossoff, 10+ pts",
+   "url": "https://kalshi.com/markets/kxmidtermmov",
+   "temas": [
+    "Estados Unidos"
+   ],
+   "probabilidad": 0.465,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 17227.39,
+   "cierre": "2027-11-03T15:00:00Z"
+  },
+  {
    "clave": "kalshi:KXMIDTERMMOV-MESENR-P5",
    "plataforma": "kalshi",
    "titulo": "Maine Senate margin of victory: Collins, 5+ pts",
@@ -32204,20 +32218,6 @@
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17226.65,
-   "cierre": "2027-11-03T15:00:00Z"
-  },
-  {
-   "clave": "kalshi:KXMIDTERMMOV-GASEND-P10",
-   "plataforma": "kalshi",
-   "titulo": "Georgia Senate margin of victory: Ossoff, 10+ pts",
-   "url": "https://kalshi.com/markets/kxmidtermmov",
-   "temas": [
-    "Estados Unidos"
-   ],
-   "probabilidad": 0.475,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 17226.39,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -32270,7 +32270,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.968,
+   "probabilidad": 0.9675,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17182.009302000002,
@@ -32439,7 +32439,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.17,
+   "probabilidad": 0.175,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17093.45,
@@ -32456,7 +32456,7 @@
    "probabilidad": 0.918,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 17092.413354,
+   "volumen": 17093.293354,
    "cierre": null
   },
   {
@@ -32495,7 +32495,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.96,
+   "probabilidad": 0.959,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 17082.14741,
@@ -32649,7 +32649,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0245,
+   "probabilidad": 0.025,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 16986.51628,
@@ -32705,7 +32705,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.962,
+   "probabilidad": 0.961,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 16966.818838,
@@ -32719,7 +32719,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9555,
+   "probabilidad": 0.956,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 16965.585622,
@@ -32778,7 +32778,7 @@
    "probabilidad": 0.055,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 16936.752871,
+   "volumen": 16936.752870999997,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -32818,7 +32818,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.065,
+   "probabilidad": 0.06,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 16887.061600000005,
@@ -32916,7 +32916,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.037,
+   "probabilidad": 0.0375,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 16793.441641999998,
@@ -33140,7 +33140,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.29,
+   "probabilidad": 0.285,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 16621.174768,
@@ -33227,7 +33227,7 @@
    "probabilidad": 0.43,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 16529.365689000002,
+   "volumen": 16529.365689,
    "cierre": "2026-12-31T23:59:00Z"
   },
   {
@@ -33280,10 +33280,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.685,
+   "probabilidad": 0.69,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 16477.28,
+   "volumen": 16478.79,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -33406,7 +33406,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.025,
+   "probabilidad": 0.0245,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 16427.733855,
@@ -33535,7 +33535,7 @@
    "probabilidad": 0.066,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 16379.593304999999,
+   "volumen": 16379.593305,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -33549,7 +33549,7 @@
    "probabilidad": 0.83,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 16376.302791,
+   "volumen": 16376.302791000002,
    "cierre": "2026-10-31T23:59:00Z"
   },
   {
@@ -33633,7 +33633,7 @@
    "probabilidad": 0.8,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 16311.882386,
+   "volumen": 16311.882386000001,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -33913,7 +33913,7 @@
    "probabilidad": 0.42,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 16151.698353999996,
+   "volumen": 16151.698354,
    "cierre": "2026-12-31T23:59:00Z"
   },
   {
@@ -33955,7 +33955,7 @@
    "probabilidad": 0.445,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 16098.444911000002,
+   "volumen": 16098.444911,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -33980,7 +33980,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.042,
+   "probabilidad": 0.0435,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 16084.021028000001,
@@ -34067,7 +34067,7 @@
    "probabilidad": 0.0335,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15986.631418,
+   "volumen": 15986.631418000003,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -34218,7 +34218,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.951,
+   "probabilidad": 0.9505,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 15887.513512000001,
@@ -34232,7 +34232,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.969,
+   "probabilidad": 0.9695,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 15870.895441000002,
@@ -34260,7 +34260,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.969,
+   "probabilidad": 0.966,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 15830.653499999999,
@@ -34319,7 +34319,7 @@
    "probabilidad": 0.865,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15793.151263999998,
+   "volumen": 15793.151264000002,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -34362,7 +34362,7 @@
    "probabilidad": 0.82,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15753.661808,
+   "volumen": 15753.661807999999,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -34376,7 +34376,7 @@
    "probabilidad": 0.965,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15752.524045999999,
+   "volumen": 15752.524046,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -34404,7 +34404,7 @@
    "probabilidad": 0.0005,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15713.776007000002,
+   "volumen": 15713.776006999999,
    "cierre": "2027-01-13T04:59:00Z"
   },
   {
@@ -34418,7 +34418,7 @@
    "probabilidad": 0.0025,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15694.919,
+   "volumen": 15694.918999999998,
    "cierre": "2026-10-26T03:59:00Z"
   },
   {
@@ -34513,7 +34513,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.977,
+   "probabilidad": 0.9855,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 15628.622429,
@@ -34527,10 +34527,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.33,
+   "probabilidad": 0.37,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15615.841590000002,
+   "volumen": 15615.84159,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -34544,7 +34544,7 @@
    "probabilidad": 0.002,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15613.836331999999,
+   "volumen": 15613.836331999997,
    "cierre": "2026-10-26T03:59:00Z"
   },
   {
@@ -34583,10 +34583,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.071,
+   "probabilidad": 0.077,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15599.709172999997,
+   "volumen": 15599.709172999996,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -34614,7 +34614,7 @@
    "probabilidad": 0.59,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15592.009695999997,
+   "volumen": 15592.009696,
    "cierre": "2027-07-01T03:59:00Z"
   },
   {
@@ -34639,7 +34639,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.355,
+   "probabilidad": 0.345,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 15574.672779000002,
@@ -34681,7 +34681,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.042,
+   "probabilidad": 0.043,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 15550.172184,
@@ -34754,7 +34754,7 @@
    "probabilidad": 0.045,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15523.835331,
+   "volumen": 15523.835330999998,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -34821,7 +34821,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0265,
+   "probabilidad": 0.027,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 15458.434785,
@@ -34849,10 +34849,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0325,
+   "probabilidad": 0.032,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15440.230642999999,
+   "volumen": 15440.230643000003,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -34919,10 +34919,10 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.0425,
+   "probabilidad": 0.043,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15395.177554999995,
+   "volumen": 15395.177555,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -34978,7 +34978,7 @@
    "probabilidad": 0.335,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15355.057451,
+   "volumen": 15355.057450999997,
    "cierre": "2026-12-31T20:59:00Z"
   },
   {
@@ -35087,7 +35087,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9165,
+   "probabilidad": 0.919,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 15282.28,
@@ -35157,7 +35157,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.0725,
+   "probabilidad": 0.072,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 15211.499411,
@@ -35174,7 +35174,7 @@
    "probabilidad": 0.615,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15200.215547999998,
+   "volumen": 15200.215548,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -35185,10 +35185,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.305,
+   "probabilidad": 0.3,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15187.14,
+   "volumen": 15188.14,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -35244,7 +35244,7 @@
    "probabilidad": 0.655,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15145.826381999997,
+   "volumen": 15145.826382,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -35255,7 +35255,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.961,
+   "probabilidad": 0.9605,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 15137.098746,
@@ -35367,7 +35367,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.035,
+   "probabilidad": 0.031,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 15089.561306,
@@ -35454,7 +35454,7 @@
    "probabilidad": 0.47,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 15051.908842,
+   "volumen": 15051.908841999999,
    "cierre": "2026-12-31T22:59:00Z"
   },
   {
@@ -35500,6 +35500,20 @@
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
+   "clave": "kalshi:KXTXSENGOVCOMBO-26NOV-DEMDEM",
+   "plataforma": "kalshi",
+   "titulo": "Texas Governor-Senate combo: Gina Hinojosa and James Talarico win",
+   "url": "https://kalshi.com/markets/kxtxsengovcombo",
+   "temas": [
+    "Estados Unidos"
+   ],
+   "probabilidad": 0.235,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 15023.79,
+   "cierre": "2027-11-03T14:00:00Z"
+  },
+  {
    "clave": "kalshi:KXMDSD2-26-PCOR",
    "plataforma": "kalshi",
    "titulo": "Maryland State Senate District 2 winner?: Paul Corderman",
@@ -35535,7 +35549,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0325,
+   "probabilidad": 0.0335,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 15007.676120999999,
@@ -35622,7 +35636,7 @@
    "probabilidad": 0.475,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 14934.549935000003,
+   "volumen": 14934.549935,
    "cierre": "2027-06-01T03:59:00Z"
   },
   {
@@ -35650,7 +35664,7 @@
    "probabilidad": 0.975,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 14918.12973,
+   "volumen": 14918.129729999999,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -35661,7 +35675,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.039,
+   "probabilidad": 0.038,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14915.455881999998,
@@ -35808,20 +35822,6 @@
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
-   "clave": "kalshi:KXTXSENGOVCOMBO-26NOV-DEMDEM",
-   "plataforma": "kalshi",
-   "titulo": "Texas Governor-Senate combo: Gina Hinojosa and James Talarico win",
-   "url": "https://kalshi.com/markets/kxtxsengovcombo",
-   "temas": [
-    "Estados Unidos"
-   ],
-   "probabilidad": 0.215,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 14766.76,
-   "cierre": "2027-11-03T14:00:00Z"
-  },
-  {
    "clave": "polymarket:1284744",
    "plataforma": "polymarket",
    "titulo": "TN-02 House Election Winner: Michaela Barnett (D)",
@@ -35846,7 +35846,7 @@
    "probabilidad": 0.145,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 14749.683734999999,
+   "volumen": 14749.683735,
    "cierre": "2027-07-01T03:59:00Z"
   },
   {
@@ -35885,7 +35885,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0175,
+   "probabilidad": 0.021,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14710.604013000004,
@@ -35916,7 +35916,7 @@
    "probabilidad": 0.0025,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 14708.818500000001,
+   "volumen": 14708.818500000003,
    "cierre": "2027-10-24T00:00:00Z"
   },
   {
@@ -35955,7 +35955,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.928,
+   "probabilidad": 0.9255,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14687.62,
@@ -35997,7 +35997,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.345,
+   "probabilidad": 0.355,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14628.383227,
@@ -36039,7 +36039,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.974,
+   "probabilidad": 0.975,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14597.879152,
@@ -36056,7 +36056,7 @@
    "probabilidad": 0.9665,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 14579.985201000001,
+   "volumen": 14579.985201000003,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -36305,7 +36305,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.962,
+   "probabilidad": 0.963,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14444.893091999997,
@@ -36347,7 +36347,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.959,
+   "probabilidad": 0.9565,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14412.447825000001,
@@ -36392,7 +36392,7 @@
    "probabilidad": 0.175,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 14373.865395999997,
+   "volumen": 14373.865396,
    "cierre": "2027-07-01T03:59:00Z"
   },
   {
@@ -36501,7 +36501,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0745,
+   "probabilidad": 0.0785,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14330.29,
@@ -36529,7 +36529,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9755,
+   "probabilidad": 0.976,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14324.003195,
@@ -36585,7 +36585,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9655,
+   "probabilidad": 0.965,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14263.826134,
@@ -36599,7 +36599,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.955,
+   "probabilidad": 0.954,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14260.81267,
@@ -36627,7 +36627,7 @@
    "temas": [
     "Europa"
    ],
-   "probabilidad": 0.11,
+   "probabilidad": 0.105,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14243.352754000001,
@@ -36701,7 +36701,7 @@
    "probabilidad": 0.175,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 14181.276848999998,
+   "volumen": 14181.276848999996,
    "cierre": "2026-11-01T03:59:00Z"
   },
   {
@@ -36768,7 +36768,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9695,
+   "probabilidad": 0.97,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14127.873192,
@@ -36813,7 +36813,7 @@
    "probabilidad": 0.105,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 14108.520781999996,
+   "volumen": 14108.520782,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -36855,7 +36855,7 @@
    "probabilidad": 0.225,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 14086.71815,
+   "volumen": 14086.718150000002,
    "cierre": "2028-01-01T04:59:00Z"
   },
   {
@@ -36881,7 +36881,7 @@
     "Elecciones en América Latina",
     "Estados Unidos"
    ],
-   "probabilidad": 0.215,
+   "probabilidad": 0.21,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14071.95,
@@ -36923,7 +36923,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9615,
+   "probabilidad": 0.9565,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 14064.278167,
@@ -36982,8 +36982,22 @@
    "probabilidad": 0.565,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 14017.781895000002,
+   "volumen": 14017.781895,
    "cierre": "2027-07-01T03:59:00Z"
+  },
+  {
+   "clave": "kalshi:KXMIDTERMMOV-FLSENR-P4",
+   "plataforma": "kalshi",
+   "titulo": "Florida Senate margin of victory: Moody, 4+ pts",
+   "url": "https://kalshi.com/markets/kxmidtermmov",
+   "temas": [
+    "Estados Unidos"
+   ],
+   "probabilidad": 0.805,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 14008.03,
+   "cierre": "2027-11-03T15:00:00Z"
   },
   {
    "clave": "polymarket:631003",
@@ -37014,20 +37028,6 @@
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
-   "clave": "kalshi:KXMIDTERMMOV-FLSENR-P4",
-   "plataforma": "kalshi",
-   "titulo": "Florida Senate margin of victory: Moody, 4+ pts",
-   "url": "https://kalshi.com/markets/kxmidtermmov",
-   "temas": [
-    "Estados Unidos"
-   ],
-   "probabilidad": 0.8,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 13980.03,
-   "cierre": "2027-11-03T15:00:00Z"
-  },
-  {
    "clave": "polymarket:942325",
    "plataforma": "polymarket",
    "titulo": "CO-08 House Election Winner: Manny Rutinel (D)",
@@ -37038,7 +37038,7 @@
    "probabilidad": 0.845,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 13979.952141,
+   "volumen": 13979.952140999998,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -37119,7 +37119,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.635,
+   "probabilidad": 0.63,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13932.23,
@@ -37175,7 +37175,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.018,
+   "probabilidad": 0.0175,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13906.375039,
@@ -37249,7 +37249,7 @@
    "probabilidad": 0.74,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 13877.118492000001,
+   "volumen": 13877.118492,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -37274,7 +37274,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9725,
+   "probabilidad": 0.9735,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13822.938352999998,
@@ -37485,7 +37485,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0215,
+   "probabilidad": 0.0195,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13704.22,
@@ -37499,7 +37499,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.125,
+   "probabilidad": 0.12,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13702.77,
@@ -37544,7 +37544,7 @@
    "probabilidad": 0.9915,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 13689.841011999995,
+   "volumen": 13689.841011999999,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -37653,7 +37653,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9555,
+   "probabilidad": 0.9565,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13530.618927999996,
@@ -37784,7 +37784,7 @@
    "probabilidad": 0.265,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 13388.138836999997,
+   "volumen": 13388.138837,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -37837,10 +37837,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0885,
+   "probabilidad": 0.0895,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 13357.797099999998,
+   "volumen": 13357.7971,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -37893,10 +37893,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9415,
+   "probabilidad": 0.9365,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 13321.48,
+   "volumen": 13322.48,
    "cierre": "2027-11-03T15:00:00Z"
   },
   {
@@ -37921,7 +37921,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.645,
+   "probabilidad": 0.64,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13291.478245000002,
@@ -37935,7 +37935,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.966,
+   "probabilidad": 0.9665,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13276.491357,
@@ -37949,7 +37949,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0265,
+   "probabilidad": 0.0255,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13260.507809,
@@ -37977,7 +37977,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9665,
+   "probabilidad": 0.9675,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13257.286591,
@@ -37991,7 +37991,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.05,
+   "probabilidad": 0.045,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13253.989226,
@@ -38006,10 +38006,10 @@
     "Guerra Rusia–Ucrania",
     "Estados Unidos"
    ],
-   "probabilidad": 0.075,
+   "probabilidad": 0.0735,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 13253.714501,
+   "volumen": 13253.714500999997,
    "cierre": "2026-12-31T23:59:00Z"
   },
   {
@@ -38020,7 +38020,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.032,
+   "probabilidad": 0.031,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13246.775389999999,
@@ -38037,7 +38037,7 @@
    "probabilidad": 0.315,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 13229.914672999996,
+   "volumen": 13229.914673,
    "cierre": "2026-10-15T23:59:00Z"
   },
   {
@@ -38104,7 +38104,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9595,
+   "probabilidad": 0.959,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13177.051769,
@@ -38149,7 +38149,7 @@
    "probabilidad": 0.275,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 13143.116337000001,
+   "volumen": 13143.116337,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -38174,10 +38174,10 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.0355,
+   "probabilidad": 0.035,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 13125.225764000003,
+   "volumen": 13125.225763999999,
    "cierre": "2027-01-13T04:59:00Z"
   },
   {
@@ -38188,7 +38188,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.018,
+   "probabilidad": 0.0175,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 13107.341222999998,
@@ -38279,6 +38279,20 @@
    "cierre": "2026-11-11T13:29:00Z"
   },
   {
+   "clave": "kalshi:KXMIDTERMMOV-FLSENR-P6",
+   "plataforma": "kalshi",
+   "titulo": "Florida Senate margin of victory: Moody, 6+ pts",
+   "url": "https://kalshi.com/markets/kxmidtermmov",
+   "temas": [
+    "Estados Unidos"
+   ],
+   "probabilidad": 0.61,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 13054.62,
+   "cierre": "2027-11-03T15:00:00Z"
+  },
+  {
    "clave": "polymarket:1284656",
    "plataforma": "polymarket",
    "titulo": "RI-01 House Election Winner: Gabe Amo (D)",
@@ -38337,20 +38351,6 @@
    "cierre": "2026-11-04T02:00:00Z"
   },
   {
-   "clave": "kalshi:KXMIDTERMMOV-FLSENR-P6",
-   "plataforma": "kalshi",
-   "titulo": "Florida Senate margin of victory: Moody, 6+ pts",
-   "url": "https://kalshi.com/markets/kxmidtermmov",
-   "temas": [
-    "Estados Unidos"
-   ],
-   "probabilidad": 0.605,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 13019.62,
-   "cierre": "2027-11-03T15:00:00Z"
-  },
-  {
    "clave": "polymarket:2325448",
    "plataforma": "polymarket",
    "titulo": "Mexico Legislative Election: 2nd Place?: PVEM",
@@ -38400,7 +38400,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.111,
+   "probabilidad": 0.115,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12991.31,
@@ -38512,7 +38512,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.074,
+   "probabilidad": 0.073,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12946.7,
@@ -38613,7 +38613,7 @@
    "probabilidad": 0.055,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 12892.314063000002,
+   "volumen": 12892.314063,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -38627,7 +38627,7 @@
    "probabilidad": 0.43,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 12858.231639000001,
+   "volumen": 12858.231639,
    "cierre": "2026-12-31T23:59:00Z"
   },
   {
@@ -38638,7 +38638,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9725,
+   "probabilidad": 0.9775,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12847.008756000001,
@@ -38711,7 +38711,7 @@
    "probabilidad": 0.045,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 12813.196751999998,
+   "volumen": 12813.196752,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -38806,7 +38806,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9585,
+   "probabilidad": 0.9615,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12724.283155000003,
@@ -38820,7 +38820,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.043,
+   "probabilidad": 0.0445,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12724.11109,
@@ -38879,7 +38879,7 @@
    "probabilidad": 0.655,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 12686.509632000003,
+   "volumen": 12686.509632000005,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -38947,7 +38947,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.042,
+   "probabilidad": 0.039,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12653.89,
@@ -38978,7 +38978,7 @@
    "probabilidad": 0.43,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 12635.21,
+   "volumen": 12635.26,
    "cierre": "2027-11-03T14:00:00Z"
   },
   {
@@ -39255,7 +39255,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9745,
+   "probabilidad": 0.972,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12467.070217000004,
@@ -39269,7 +39269,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9275,
+   "probabilidad": 0.925,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12462.84,
@@ -39370,7 +39370,7 @@
    "probabilidad": 0.32,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 12390.299869,
+   "volumen": 12390.299868999999,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -39493,7 +39493,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.29,
+   "probabilidad": 0.27,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12324.56,
@@ -39549,7 +39549,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.973,
+   "probabilidad": 0.965,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12298.156582,
@@ -39577,7 +39577,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.028,
+   "probabilidad": 0.0265,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12277.240176,
@@ -39650,7 +39650,7 @@
    "probabilidad": 0.0455,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 12243.767893000002,
+   "volumen": 12243.767893,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -39692,7 +39692,7 @@
    "probabilidad": 0.0605,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 12201.224737,
+   "volumen": 12201.224736999999,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -39731,7 +39731,7 @@
    "temas": [
     "Guerra Rusia–Ucrania"
    ],
-   "probabilidad": 0.315,
+   "probabilidad": 0.475,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12180.508779,
@@ -39860,8 +39860,22 @@
    "probabilidad": 0.24,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 12104.326189000001,
+   "volumen": 12104.326189000003,
    "cierre": "2026-11-04T04:59:00Z"
+  },
+  {
+   "clave": "kalshi:KXTRUMPMEETING-27JAN01-NMBS",
+   "plataforma": "kalshi",
+   "titulo": "Who will Donald Trump meet in 2026?: Mohammed bin Salman",
+   "url": "https://kalshi.com/markets/kxtrumpmeeting",
+   "temas": [
+    "Estados Unidos"
+   ],
+   "probabilidad": 0.655,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 12098.35,
+   "cierre": "2027-01-01T14:59:00Z"
   },
   {
    "clave": "polymarket:1285111",
@@ -39871,7 +39885,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.027,
+   "probabilidad": 0.0265,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12096.804564999999,
@@ -39913,7 +39927,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.35,
+   "probabilidad": 0.37,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 12066.823872,
@@ -39948,20 +39962,6 @@
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
-   "clave": "kalshi:KXTRUMPMEETING-27JAN01-NMBS",
-   "plataforma": "kalshi",
-   "titulo": "Who will Donald Trump meet in 2026?: Mohammed bin Salman",
-   "url": "https://kalshi.com/markets/kxtrumpmeeting",
-   "temas": [
-    "Estados Unidos"
-   ],
-   "probabilidad": 0.665,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 12049.35,
-   "cierre": "2027-01-01T14:59:00Z"
-  },
-  {
    "clave": "kalshi:KXBLUESTRSEN-27JAN03-NM",
    "plataforma": "kalshi",
    "titulo": "Bluest state to elect a Republican senator in 2026?: New Mexico",
@@ -39984,10 +39984,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.097,
+   "probabilidad": 0.087,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 12043.232393999993,
+   "volumen": 12043.232393999999,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -39998,10 +39998,10 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.375,
+   "probabilidad": 0.37,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 12041.92,
+   "volumen": 12042.97,
    "cierre": "2027-11-03T14:00:00Z"
   },
   {
@@ -40208,7 +40208,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9585,
+   "probabilidad": 0.9525,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 11862.696021,
@@ -40222,7 +40222,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.2345,
+   "probabilidad": 0.2255,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 11845.271122000002,
@@ -40295,7 +40295,7 @@
    "probabilidad": 0.295,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 11791.258888999999,
+   "volumen": 11791.258888999997,
    "cierre": "2028-11-08T04:59:00Z"
   },
   {
@@ -40348,7 +40348,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9525,
+   "probabilidad": 0.952,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 11774.316380999999,
@@ -40558,7 +40558,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.979,
+   "probabilidad": 0.98,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 11607.171087,
@@ -40600,7 +40600,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9625,
+   "probabilidad": 0.9645,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 11565.705401,
@@ -40628,7 +40628,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0405,
+   "probabilidad": 0.04,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 11561.187221999999,
@@ -40729,7 +40729,7 @@
    "probabilidad": 0.75,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 11515.601601999999,
+   "volumen": 11515.601602000002,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -40824,7 +40824,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0355,
+   "probabilidad": 0.036,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 11475.46156,
@@ -40908,7 +40908,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.2545,
+   "probabilidad": 0.2505,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 11435.849144,
@@ -40936,7 +40936,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0195,
+   "probabilidad": 0.021,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 11426.720856999997,
@@ -41107,7 +41107,7 @@
    "probabilidad": 0.745,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 11260.896998,
+   "volumen": 11260.896997999998,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -41118,10 +41118,10 @@
    "temas": [
     "Elecciones en América Latina"
    ],
-   "probabilidad": 0.005,
+   "probabilidad": 0.0055,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 11259.77898,
+   "volumen": 11259.778980000001,
    "cierre": "2027-01-13T04:59:00Z"
   },
   {
@@ -41272,7 +41272,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0265,
+   "probabilidad": 0.027,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 11159.792104,
@@ -41429,7 +41429,7 @@
    "probabilidad": 0.085,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 11093.755243,
+   "volumen": 11093.755242999998,
    "cierre": "2027-07-01T03:59:00Z"
   },
   {
@@ -41499,7 +41499,7 @@
    "probabilidad": 0.958,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 11047.741956,
+   "volumen": 11047.741955999998,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -41637,7 +41637,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9535,
+   "probabilidad": 0.958,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10930.53,
@@ -41651,7 +41651,7 @@
    "temas": [
     "Medio Oriente"
    ],
-   "probabilidad": 0.535,
+   "probabilidad": 0.49,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10920.462048000001,
@@ -41665,11 +41665,25 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0975,
+   "probabilidad": 0.119,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10909.670194,
+   "volumen": 10909.670194000002,
    "cierre": "2027-01-01T04:59:00Z"
+  },
+  {
+   "clave": "kalshi:KXMIDTERMMOV-FLSENR-P8",
+   "plataforma": "kalshi",
+   "titulo": "Florida Senate margin of victory: Moody, 8+ pts",
+   "url": "https://kalshi.com/markets/kxmidtermmov",
+   "temas": [
+    "Estados Unidos"
+   ],
+   "probabilidad": 0.475,
+   "cambio_24h": null,
+   "cambio_7d": null,
+   "volumen": 10900.57,
+   "cierre": "2027-11-03T15:00:00Z"
   },
   {
    "clave": "polymarket:1284362",
@@ -41710,22 +41724,8 @@
    "probabilidad": 0.14,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10868.990994000002,
+   "volumen": 10868.990993999998,
    "cierre": "2026-11-04T04:59:00Z"
-  },
-  {
-   "clave": "kalshi:KXMIDTERMMOV-FLSENR-P8",
-   "plataforma": "kalshi",
-   "titulo": "Florida Senate margin of victory: Moody, 8+ pts",
-   "url": "https://kalshi.com/markets/kxmidtermmov",
-   "temas": [
-    "Estados Unidos"
-   ],
-   "probabilidad": 0.475,
-   "cambio_24h": null,
-   "cambio_7d": null,
-   "volumen": 10865.57,
-   "cierre": "2027-11-03T15:00:00Z"
   },
   {
    "clave": "kalshi:KXREDISTRICTING-26-NEBR",
@@ -41808,7 +41808,7 @@
    "probabilidad": 0.225,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10844.540850000001,
+   "volumen": 10844.54085,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -42215,7 +42215,7 @@
    "probabilidad": 0.365,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10619.175919999998,
+   "volumen": 10619.17592,
    "cierre": "2028-01-01T04:59:00Z"
   },
   {
@@ -42254,7 +42254,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0165,
+   "probabilidad": 0.0155,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10600.614409999998,
@@ -42313,7 +42313,7 @@
    "probabilidad": 0.155,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10591.379158000003,
+   "volumen": 10591.379158,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -42367,7 +42367,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9645,
+   "probabilidad": 0.9625,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10565.669701,
@@ -42440,7 +42440,7 @@
    "probabilidad": 0.375,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10529.377917999998,
+   "volumen": 10529.377918000002,
    "cierre": "2027-03-01T04:59:00Z"
   },
   {
@@ -42454,7 +42454,7 @@
    "probabilidad": 0.125,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10520.273165999997,
+   "volumen": 10520.273165999999,
    "cierre": "2027-03-01T04:59:00Z"
   },
   {
@@ -42482,7 +42482,7 @@
    "probabilidad": 0.675,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10494.112197999999,
+   "volumen": 10494.112198,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -42619,7 +42619,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0385,
+   "probabilidad": 0.0405,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10446.943903,
@@ -42647,7 +42647,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9685,
+   "probabilidad": 0.969,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10436.61,
@@ -42829,7 +42829,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.0695,
+   "probabilidad": 0.069,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10328.098053,
@@ -42857,7 +42857,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.055,
+   "probabilidad": 0.045,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10322.0,
@@ -43040,7 +43040,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.1315,
+   "probabilidad": 0.1165,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10228.289642000002,
@@ -43071,7 +43071,7 @@
    "probabilidad": 0.954,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10221.304936999999,
+   "volumen": 10221.304937,
    "cierre": "2026-11-04T04:59:00Z"
   },
   {
@@ -43127,7 +43127,7 @@
    "probabilidad": 0.045,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10202.390696999999,
+   "volumen": 10202.390697,
    "cierre": "2027-01-01T04:59:00Z"
   },
   {
@@ -43279,7 +43279,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.9625,
+   "probabilidad": 0.957,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10053.508328,
@@ -43338,7 +43338,7 @@
    "probabilidad": 0.0435,
    "cambio_24h": null,
    "cambio_7d": null,
-   "volumen": 10016.098403,
+   "volumen": 10016.098402999998,
    "cierre": "2027-04-19T03:59:00Z"
   },
   {
@@ -43391,7 +43391,7 @@
    "temas": [
     "Estados Unidos"
    ],
-   "probabilidad": 0.012,
+   "probabilidad": 0.0115,
    "cambio_24h": null,
    "cambio_7d": null,
    "volumen": 10012.79,
