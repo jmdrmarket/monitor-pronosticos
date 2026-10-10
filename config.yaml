@@ -29,6 +29,7 @@ temas:
 
   - nombre: "Elecciones en América Latina"
     palabras: ["Brazil*", "Lula", "Bolsonaro", "Colombia*", "Peru*", "Chile*", "Argentin*", "Milei", "Mexic*", "Sheinbaum", "Venezuela*", "Maduro", "Ecuador*", "Bolivia*"]
+    excluir: ["New Mexico", "Jordan Chiles"]   # estado de EE. UU. y gimnasta: coincidencias de palabra
 
   - nombre: "Estados Unidos"
     palabras: ["Trump", "Senate", "House", "midterm*", "Supreme Court", "impeach*", "Congress", "Democrat*", "Republican*"]
@@ -36,7 +37,7 @@ temas:
 
   - nombre: "Europa"
     palabras: ["France", "French", "Macron", "German*", "Merz", "United Kingdom", "Starmer", "European Union", "NATO", "Hungar*", "Orban", "Poland", "Spain", "Italy", "Meloni"]
-    excluir: ["Bo French"]   # candidato texano: "French" es su apellido, no Francia
+    excluir: ["Bo French", "French Hill"]   # políticos de EE. UU.: "French" es su apellido, no Francia
 
 # Palabras que excluyen un mercado de TODOS los temas (filtra deportes).
 excluir_siempre:
