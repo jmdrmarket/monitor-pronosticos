@@ -422,6 +422,33 @@ def guardar_snapshots(path: Path, filas):
             w.writerow([a_iso(r["ts"]), r["clave"], f"{r['prob']:.4f}", f"{r['volumen']:.0f}"])
 
 
+def mes_de(ts: datetime) -> str:
+    return ts.astimezone(timezone.utc).strftime("%Y-%m")
+
+
+def migrar_historial(dir_datos: Path):
+    """Reparte el historial viejo (un solo snapshots.csv) en un archivo por mes."""
+    viejo = dir_datos / "snapshots.csv"
+    if not viejo.exists():
+        return
+    por_mes = {}
+    for f in cargar_snapshots(viejo):
+        por_mes.setdefault(mes_de(f["ts"]), []).append(f)
+    for mes, filas in por_mes.items():
+        destino = dir_datos / "snapshots" / f"{mes}.csv"
+        guardar_snapshots(destino, cargar_snapshots(destino) + filas)
+    viejo.unlink()
+
+
+def cargar_desde(dir_snap: Path, desde: datetime):
+    """Carga los meses que cubren el período que va de 'desde' hasta hoy."""
+    filas = []
+    for p in sorted(dir_snap.glob("*.csv")):
+        if p.stem >= mes_de(desde):
+            filas += [f for f in cargar_snapshots(p) if f["ts"] >= desde]
+    return filas
+
+
 def cargar_json(path: Path, defecto):
     return json.loads(path.read_text(encoding="utf-8")) if path.exists() else defecto
 
@@ -511,21 +538,29 @@ def ejecutar(cfg, dir_datos: Path, dir_salida: Path, registros=None, errores=Non
         actuales[c["clave"]] = c
         consolidadas.append(c)
 
-    # Historial
-    filas = cargar_snapshots(dir_datos / "snapshots.csv")
+    # Historial: un archivo por mes en data/snapshots/. Solo se reescribe el mes
+    # en curso, y para publicar se leen únicamente los días que hacen falta.
+    migrar_historial(dir_datos)
+    dir_snap = dir_datos / "snapshots"
+    archivo_mes = dir_snap / f"{mes_de(ts)}.csv"
+    del_mes = cargar_snapshots(archivo_mes)
     meta = cargar_json(dir_datos / "mercados.json", {})
     for clave, r in actuales.items():
-        filas.append({"ts": ts, "clave": clave, "prob": round(r["prob"], 4),
-                      "volumen": r.get("volumen") or 0})
+        del_mes.append({"ts": ts, "clave": clave, "prob": round(r["prob"], 4),
+                        "volumen": r.get("volumen") or 0})
         meta[clave] = {"plataforma": r["plataforma"], "titulo": r["titulo"], "url": r["url"],
                        "temas": r["temas"], "cierre": r.get("cierre"),
                        "primera_vez": meta.get(clave, {}).get("primera_vez", a_iso(ts)),
                        "ultima_vez": a_iso(ts)}
     corte = ts - timedelta(days=cfg.get("retencion_dias", 365))
-    filas = [f for f in filas if f["ts"] >= corte]
     meta = {k: v for k, v in meta.items() if (de_iso(v.get("ultima_vez")) or ts) >= corte}
-    guardar_snapshots(dir_datos / "snapshots.csv", filas)
+    guardar_snapshots(archivo_mes, del_mes)
     guardar_json(dir_datos / "mercados.json", meta)
+    for p in dir_snap.glob("*.csv"):        # meses enteros fuera de la retención
+        if p.stem < mes_de(corte):
+            p.unlink()
+    dias = max(cfg.get("dias_grafico", 30), 8)   # 8: alcanza para el cambio de 7 días
+    filas = cargar_desde(dir_snap, ts - timedelta(days=dias))
 
     if generar:
         generar_salidas(cfg, actuales, consolidadas, filas, ts, errores, dir_datos, dir_salida, demo)

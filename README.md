@@ -4,7 +4,7 @@ Sigue las probabilidades de los mercados de predicción sobre elecciones y confl
 
 1. Descarga los mercados de política y asuntos internacionales de **Polymarket**, **Kalshi**, **Manifold** y, si lo configurás, **Metaculus**.
 2. Se queda con los que coinciden con tus temas (`config.yaml`) y tienen volumen suficiente. Los deportes quedan afuera.
-3. Guarda el historial en `data/snapshots.csv`.
+3. Guarda el historial en `data/snapshots/`, un archivo por mes (por ejemplo `2026-10.csv`).
 4. Publica una página web (`docs/index.html`) con:
    - los mayores movimientos de las últimas 24 horas y 7 días;
    - cada tema con su probabilidad actual, el cambio y un minigráfico de 30 días;
