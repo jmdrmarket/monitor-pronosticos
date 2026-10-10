@@ -1115,7 +1115,7 @@ def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo, fotos):
         secciones.append(f"""<section id="consolidadas"><h2>Preguntas consolidadas</h2>
 <p class="nota">El mismo evento medido en varias plataformas. La probabilidad es un promedio ponderado por volumen; Manifold (dinero ficticio) pesa menos.</p>{filas}</section>""")
 
-    max_t = cfg.get("max_por_tema", 15)
+    max_t = cfg.get("max_por_tema", 24)
     for t in nombres_temas:
         del_tema = [r for r in actuales.values() if t in r["temas"]]
         if not del_tema:
@@ -1126,7 +1126,7 @@ def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo, fotos):
         lo, hi = cfg.get("rango_visible", [0.02, 0.98])
         visibles = [r for r in del_tema if r["plataforma"] == "consolidado" or lo <= r["prob"] <= hi]
         ocultos = len(del_tema) - len(visibles)
-        grupos, total_preguntas = agrupar(visibles, max_t)
+        grupos, total_preguntas = agrupar(visibles, max_t, max_preguntas=cfg.get("max_preguntas_por_tema", 8))
         filas = "".join(html_fila(r, info[r["clave"]], tz, cfg, misma=j > 0)
                         for g in grupos for j, r in enumerate(g))
         partes_nota = []
