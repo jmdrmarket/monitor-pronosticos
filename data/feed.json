@@ -1,5 +1,152 @@
 [
  {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "polymarket:665266",
+  "url": "https://polymarket.com/event/which-countries-will-donald-trump-visit-in-2026",
+  "titulo": "Which countries will Donald Trump visit in 2026?: South Korea: 6% a 12% (+5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "polymarket:678748",
+  "url": "https://polymarket.com/event/how-many-different-countries-will-israel-strike-in-2026",
+  "titulo": "¿Cuántos países distintos atacará Israel en 2026?: 5: 11% a 17% (+6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "polymarket:2054234",
+  "url": "https://polymarket.com/event/2027-french-presidential-election-who-will-be-on-the-ballot",
+  "titulo": "Presidencial francesa 2027: ¿quiénes serán candidatos?: Raphaël Glucksmann: 60% a 84% (+24 pp en 24 h)",
+  "desc": "Polymarket. Tema: Europa."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "polymarket:2915093",
+  "url": "https://polymarket.com/event/socialist-party-of-france-presidential-nominee-20260710182042067",
+  "titulo": "Candidato presidencial del Partido Socialista francés: Raphaël Glucksmann: 84% a 100% (+16 pp en 24 h)",
+  "desc": "Polymarket. Tema: Europa."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "polymarket:3516003",
+  "url": "https://polymarket.com/event/maine-senate-and-governor-combo-20260810214548823",
+  "titulo": "Maine Senate and Governor Combo: Dems sweep: 62% a 56% (−6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "polymarket:5375147",
+  "url": "https://polymarket.com/event/iran-oman-hormuz-management-agreement-byptptpt-20260804222725871",
+  "titulo": "¿Acuerdo entre Irán y Omán para administrar Ormuz antes del 30 de noviembre?: 28% a 35% (+6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "polymarket:3741671",
+  "url": "https://polymarket.com/event/russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260819",
+  "titulo": "Russia x Ukraine any diplomatic meeting by...?: October 31: 46% a 35% (−11 pp en 24 h)",
+  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "polymarket:4639166",
+  "url": "https://polymarket.com/event/saudi-arabia-military-action-against-yemen-on-20260916",
+  "titulo": "Saudi Arabia military action against Yemen on...?: September 23: 50% a 57% (+7 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "polymarket:4639171",
+  "url": "https://polymarket.com/event/saudi-arabia-military-action-against-yemen-on-20260916",
+  "titulo": "Saudi Arabia military action against Yemen on...?: September 28: 46% a 52% (+6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "polymarket:5151692",
+  "url": "https://polymarket.com/event/next-israeli-minister-of-foreign-affairs",
+  "titulo": "Next Israeli Minister of Foreign Affairs?: Gadi Eizenkot: 12% a 18% (+6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "polymarket:5237631",
+  "url": "https://polymarket.com/event/will-ukraine-target-moscow-on-october-2026",
+  "titulo": "Will Ukraine target Moscow on...?: October 17: 44% a 52% (+7 pp en 24 h)",
+  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "polymarket:5419289",
+  "url": "https://polymarket.com/event/who-will-putin-meet-bilaterally-in-turkmenistan",
+  "titulo": "Who will Putin meet bilaterally in Turkmenistan?: Alexander Lukashenko: 30% a 2% (−28 pp en 24 h)",
+  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "kalshi:KX2028RRUN-28-GYOU",
+  "url": "https://kalshi.com/markets/kx2028rrun",
+  "titulo": "Who will run for the 2028 Republican presidential nomination?: Glenn Youngkin: 48% a 40% (−8 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "kalshi:KX2028RRUN-28-JMCE",
+  "url": "https://kalshi.com/markets/kx2028rrun",
+  "titulo": "Who will run for the 2028 Republican presidential nomination?: John McEntee: 73% a 33% (−40 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "kalshi:KX2028RRUN-28-GBOV",
+  "url": "https://kalshi.com/markets/kx2028rrun",
+  "titulo": "Who will run for the 2028 Republican presidential nomination?: Gregory Bovino: 26% a 20% (−6 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "kalshi:KXMIDTERMMOV-TXSENR-P1",
+  "url": "https://kalshi.com/markets/kxmidtermmov",
+  "titulo": "Texas Senate margin of victory: Ken Paxton, 1+ pts: 34% a 41% (+7 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "kalshi:KXMIDTERMMOV-TXSENR-P5",
+  "url": "https://kalshi.com/markets/kxmidtermmov",
+  "titulo": "Texas Senate margin of victory: Ken Paxton, 5+ pts: 14% a 24% (+10 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "kalshi:KXBRPRES2MOV-26OCT25-FBOL-P1",
+  "url": "https://kalshi.com/markets/kxbrpres2mov",
+  "titulo": "Brazil presidential runoff: margin of victory: Flávio Bolsonaro, 0-3%: 32% a 23% (−10 pp en 24 h)",
+  "desc": "Kalshi. Tema: Elecciones en América Latina."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "kalshi:KXHOUSEWINSTATE-PAD-E11",
+  "url": "https://kalshi.com/markets/kxhousewinstate",
+  "titulo": "How many House seats will Democrats win in Pennsylvania?: 11: 54% a 40% (−14 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "manifold:9ChtPnQ598",
+  "url": "https://manifold.markets/Vernas/will-darline-graham-run-for-and-win",
+  "titulo": "Will Darline Graham run for and win Lindsey Graham's senate seat in the 2026 Senate Election?: 75% a 84% (+9 pp en 24 h)",
+  "desc": "Manifold. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-11T21:37:20Z",
+  "clave": "manifold:QC80ENZPh5",
+  "url": "https://manifold.markets/Jack1/will-democrat-angie-nixon-win-miami",
+  "titulo": "Will Democrat Angie Nixon win Miami Dade County in the Florida Senate Election?: 39% a 49% (+10 pp en 24 h)",
+  "desc": "Manifold. Tema: Estados Unidos."
+ },
+ {
   "ts": "2026-10-11T12:17:52Z",
   "clave": "polymarket:678747",
   "url": "https://polymarket.com/event/how-many-different-countries-will-israel-strike-in-2026",
