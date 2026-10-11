@@ -1,81 +1,59 @@
 {
- "fecha": "2026-10-10T01:28:00-03:00",
- "numeros_de": "2026-10-10T04:04:00Z",
+ "fecha": "2026-10-10T22:39:00-03:00",
+ "numeros_de": "2026-10-10T22:40:35Z",
  "temas": {
   "Medio Oriente": {
    "texto": [
-    "Los mercados descuentan que el régimen iraní sigue en pie: la caída antes de 2027 cotiza 4% y Mojtaba Jamenei como líder a fin de año, 87%. Una invasión estadounidense de Irán antes de 2027 está en 16%. Esa pregunta exige tropas en tierra, así que no mide el riesgo de bombardeos. El fin del bloqueo estadounidense casi no tiene chances para octubre (16% antes del 31/10) y llega a una moneda al aire para fin de año (47% antes del 31/12).",
-    "El precio refleja la semana. El jueves 8/10 Trump prometió no atacar a Irán antes de las legislativas del 3/11. El viernes 9/10 la UKMTO informó un buque alcanzado frente a la costa de los Emiratos, y la Guardia Revolucionaria se atribuyó haber alcanzado un buque gasero al sur del estrecho; no está claro que sean el mismo. Además amenazó con perseguir buques \"en toda la región\". La lectura es que bajó el riesgo de guerra abierta antes del 3/11 y subió el de la navegación, que ninguna de estas preguntas mide bien. La fecha que viene es la elección israelí del 27/10: Eizenkot (42%) aparece apenas por delante de Netanyahu (36%) como próximo primer ministro."
+    "Los mercados siguen dando por firme al régimen iraní: su caída antes de 2027 cotiza 4% y Mojtaba Jamenei como líder a fin de año, 88%. Una invasión estadounidense de Irán antes de 2027 está en 16%, una pregunta que exige tropas en tierra y no mide bombardeos. El fin del bloqueo estadounidense bajó desde el viernes: 13% antes del 31/10 (estaba en 16%) y 42% antes de fin de año (estaba en 47%). Un acuerdo nuclear definitivo antes del 31/12 cotiza 14%.",
+    "El hecho del sábado 10/10 no tiene mercado propio en la lista. La aviación civil saudí informó 12 muertos y 309 heridos por el misil que cayó en el aeropuerto de Riad, entre ellos un estadounidense, y la coalición informó otro proyectil cerca del aeropuerto de Dammam (Al Jazeera, CBS, CNN y Dawn, 10/10). Ese mismo día Trump dijo que Estados Unidos \"puede\" sumarse a los ataques saudíes contra los hutíes y que va a decidir rápido (CBS, 10/10). Es Yemen, no Irán, y por eso no mueve las preguntas sobre Irán. La próxima fecha es la elección israelí del 27/10: Gadi Eizenkot (42%) sigue por delante de Benjamin Netanyahu (34%) como próximo primer ministro."
    ],
    "fuentes": [
-    {
-     "nombre": "UKMTO vía TASS y The New Arab, 9/10"
-    },
-    {
-     "nombre": "Guardia Revolucionaria vía Tasnim, The New Arab y Türkiye Today, 9/10"
-    }
+    {"nombre": "Aviación civil saudí vía Al Jazeera, CBS y CNN, 10/10"},
+    {"nombre": "Coalición vía Dawn y TRT, 10/10"},
+    {"nombre": "CBS, declaraciones de Trump, 10/10"}
    ]
   },
   "Estados Unidos": {
    "texto": [
-    "A poco más de tres semanas de las legislativas del 3/11, los mercados dan a los demócratas como ganadores de la Cámara de Representantes con 90%, y las dos plataformas que la cotizan coinciden. Que los republicanos retengan las dos cámaras está en 11%. En la elección al Senado por Texas, el demócrata James Talarico (62%) supera a Ken Paxton (38%) en Kalshi.",
-    "Para 2028 el contraste es de liderazgo. Del lado republicano J. D. Vance concentra casi la mitad de la probabilidad (48%) y Marco Rubio sigue con 15%. Del lado demócrata nadie supera el 20%: Ocasio-Cortez, Newsom y Ossoff están entre 14% y 18%, y Kamala Harris en 7%. Que la lista de la página empiece con candidatos en 0%, como Oprah Winfrey, no es una señal: esas apuestas de muchos nombres acumulan volumen aunque cada nombre valga casi nada."
+    "A tres semanas de las legislativas del 3/11, los demócratas siguen como favoritos para ganar la Cámara de Representantes: 90% en Kalshi. Que los republicanos retengan las dos cámaras está en 10%. En el Senado por Texas, Ken Paxton cotiza 38% en Kalshi, así que su rival demócrata conserva la ventaja. Que Trump deje la presidencia antes de 2027 está en 4%.",
+    "Para 2028, J. D. Vance reúne casi la mitad de la probabilidad republicana (48%) y Marco Rubio sigue en 15%. Del lado demócrata nadie llega al 20%: Alexandria Ocasio-Cortez 18%, Gavin Newsom 15% en Polymarket y 14% en Kalshi, Jon Ossoff 15%, Kamala Harris 6%. Los números casi no cambiaron desde el viernes: la semana en Estados Unidos estuvo dominada por la política exterior y no por la campaña."
    ],
    "fuentes": []
   },
   "China y Taiwán": {
    "texto": [
-    "El riesgo de guerra que cotizan los mercados es bajo y sube con el plazo. Una invasión china de Taiwán está en 2% para fin de 2026, 8% para mediados de 2027 y 10% para fin de 2027. Un choque militar antes de 2027 está en 4% y un bloqueo en 2026, en 3%. El 29% de Manifold para una invasión antes de 2030 es de dinero ficticio y con un plazo tres años más largo, así que no se compara con los demás.",
-    "La semana no trajo novedades de peso sobre Taiwán. Lo más probable de la lista es político y está cerca: el Kuomintang como gran ganador de las elecciones locales del 29/11, con 88%. Que Xi deje el poder antes de 2027 cotiza 3%."
+    "El riesgo de guerra que cotizan los mercados es bajo y crece con el plazo: una invasión china de Taiwán está en 2% para fin de 2026, 8% para mediados de 2027 y 10% para fin de 2027. Un choque militar antes de 2027 está en 5% y un bloqueo en 2026, en 3%. El 29% de Manifold para una invasión antes de 2030 es de dinero ficticio y con un plazo más largo, así que no se compara con los demás.",
+    "El sábado 10/10, en el discurso del Día Nacional, el presidente Lai Ching-te dijo que Taiwán \"ama la paz\" pero no va a renunciar a la libertad. No movió los precios. Lo más cercano en la lista es político: el Kuomintang como gran ganador de las elecciones locales del 29/11, con 86%, contra 14% del Partido Democrático Progresista."
    ],
    "fuentes": []
   },
   "Elecciones en América Latina": {
    "texto": [
-    "En Brasil, los mercados dan a Flávio Bolsonaro como ganador de la segunda vuelta del 25/10 con 88% a 89%, contra 12% de Lula, y las dos plataformas coinciden. La convicción es llamativa porque hasta el 9/10 no aparecía publicada ninguna encuesta de segunda vuelta de Datafolha ni de Quaest posterior al primer turno. El precio se apoya en algo distinto de las encuestas publicadas, y la primera que salga va a ponerlo a prueba.",
-    "En Venezuela, el 72% (Polymarket) y el 79% (Kalshi) de Maduro como líder a fin de año no miden quién gobierna. Miden quién tiene el cargo formal. Kalshi aclaró el 15/4 que Maduro, detenido en Estados Unidos, sigue reconocido como presidente constitucional por las instituciones venezolanas, con Delcy Rodríguez como presidenta interina. Que Maduro salga de la custodia antes de fin de año está en 4%. En la región también cotiza un ataque estadounidense contra Colombia antes de fin de año: 26%, contra 4% para México. Para la Argentina de 2027, Milei aparece como favorito a la reelección con 56%."
+    "En Brasil, Flávio Bolsonaro cotiza 88% para ganar la segunda vuelta del 25/10, contra 12% de Lula, y Polymarket y Kalshi coinciden. En Venezuela, Maduro como jefe de Estado a fin de año está en 71% en Polymarket y 80% en Kalshi, con Delcy Rodríguez en 24% y 22%. Un ataque estadounidense contra Colombia antes de fin de año cotiza 24%, contra 4% para México.",
+    "Las cifras de Venezuela no miden quién gobierna, sino quién tiene el cargo formal. Kalshi aclaró el 15/4 que Maduro, detenido en Estados Unidos, sigue reconocido como presidente constitucional por las instituciones venezolanas, con Delcy Rodríguez como presidenta interina. Que Maduro sea liberado antes de fin de año está en 4%. En Brasil, la prueba siguiente es la primera encuesta de segunda vuelta de un instituto grande, que hasta el 9/10 no se había publicado."
    ],
    "fuentes": [
-    {
-     "nombre": "Kalshi: reglas y aclaración del 15/4/2026",
-     "url": "https://kalshi.com/markets/kxvenezuelaleader"
-    },
-    {
-     "nombre": "Polymarket: reglas del mercado de Venezuela",
-     "url": "https://polymarket.com/event/venezuela-leader-end-of-2026"
-    },
-    {
-     "nombre": "Polymarket: elección en Brasil",
-     "url": "https://polymarket.com/event/brazil-presidential-election"
-    }
+    {"nombre": "Kalshi: reglas y aclaración del 15/4/2026", "url": "https://kalshi.com/markets/kxvenezuelaleader"},
+    {"nombre": "Polymarket: reglas del mercado de Venezuela", "url": "https://polymarket.com/event/venezuela-leader-end-of-2026"},
+    {"nombre": "Polymarket: elección en Brasil", "url": "https://polymarket.com/event/brazil-presidential-election"}
    ]
   },
   "Guerra Rusia–Ucrania": {
    "texto": [
-    "Mucha negociación y poca paz cotizada. Un alto el fuego acordado antes de fin de año está en 16%, pero si además tiene que durar al menos 10 días baja a 8%: son dos preguntas distintas, la primera paga con la firma. Antes del 31/10 está en 4%. Ninguna de las dos cuenta una tregua parcial, como la energética que se negocia ahora: las reglas exigen una pausa general del combate. Un acuerdo de paz firmado antes de 2027 cotiza 8%, y un encuentro entre Zelensky y Putin en ese plazo, 4%. En cambio, que Trump y Putin se reúnan antes de fin de año es lo más probable (80%).",
-    "El viernes 9/10 Trump habló con Putin y anunció que Rusia venderá diésel al mercado estadounidense. La OFAC emitió ese mismo día la licencia general 135, que habilita el diésel de origen ruso hasta el 7/4/2027, mientras una delegación ucraniana negociaba en Miami. Zelensky la llamó \"una decisión débil de socios fuertes\". Un choque militar entre la OTAN y Rusia antes de fin de año cotiza 22%, una cifra que se entiende por las reglas: alcanza con que un país de la OTAN derribe un dron ruso de reconocimiento. Las violaciones del espacio aéreo y los ciberataques no cuentan."
+    "La paz sigue cotizando poco. Un alto el fuego acordado antes de fin de año está en 15%, y 8% si además tiene que durar al menos 10 días: la primera pregunta paga con la firma. Antes del 31/10, 4%. Un acuerdo de paz firmado antes de 2027 cotiza 8%. Que Zelenski deje la presidencia antes de fin de 2026 está en 8%; según las reglas, alcanza con que se anuncie su renuncia o su remoción. Que Trump y Putin no se reúnan antes de fin de año, 20%.",
+    "El sábado 10/10 Trump dijo que \"es hora de que Ucrania tenga un nuevo presidente\" y acusó a Zelenski de atacar refinerías rusas (Reuters y AP, 10/10). El canciller ucraniano respondió que Zelenski tiene el apoyo de su pueblo. El mismo día el gobierno ruso levantó en parte la prohibición de exportar diésel, con 500.000 toneladas habilitadas (TASS, Bloomberg y Kyiv Independent, 10/10). Los precios casi no se movieron. Un choque militar entre la OTAN y Rusia antes de fin de año cotiza 22%, porque alcanza con que un país de la OTAN derribe un dron ruso. La próxima fecha es el paquete de sanciones europeo del lunes 12/10."
    ],
    "fuentes": [
-    {
-     "nombre": "CNBC, Axios, NBC y Kyiv Independent, 9/10"
-    },
-    {
-     "nombre": "Ship & Bunker, licencia general 135, 9/10"
-    },
-    {
-     "nombre": "Polymarket: reglas del alto el fuego",
-     "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-agreement-by"
-    },
-    {
-     "nombre": "Polymarket: reglas del choque OTAN-Rusia",
-     "url": "https://polymarket.com/event/nato-x-russia-military-clash-in-2025"
-    }
+    {"nombre": "Reuters y AP, 10/10"},
+    {"nombre": "TASS, Bloomberg y Kyiv Independent, levantamiento parcial del diésel, 10/10"},
+    {"nombre": "Polymarket: reglas de la salida de Zelenski"},
+    {"nombre": "Polymarket: reglas del alto el fuego", "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-agreement-by"}
    ]
   },
   "Europa": {
    "texto": [
-    "Francia concentra la incertidumbre. Marine Le Pen es la favorita para la presidencial de 2027 pero sin mayoría de probabilidad: 41% en Polymarket y 46% en Kalshi, una diferencia de 5 puntos entre plataformas. La siguen Édouard Philippe (22%), David Lisnard (13%) y Jean-Luc Mélenchon (12%). En España el mercado se inclina con claridad por Alberto Núñez Feijóo como próximo presidente del Gobierno (82%), aunque la salida de Pedro Sánchez antes de fin de 2026 cotiza solo 20%. Ese 82% es, entonces, sobre todo una apuesta a la próxima elección, no a una caída inminente.",
-    "La seguridad del continente cotiza baja en lo extremo y no tan baja en lo acotado: una invasión rusa de un país de la OTAN o la invocación del artículo 5 antes de 2027 están en 6%, contra 22% de un choque militar OTAN-Rusia, que se resuelve con un incidente menor. La salida de Merz como canciller antes de fin de año está en 6%. Las fechas próximas son el paquete de sanciones de los cancilleres europeos del 12/10 y el Consejo Europeo del 15 y 16/10, que tendrá que responder a la licencia estadounidense para el diésel ruso."
+    "Francia concentra la incertidumbre: Marine Le Pen es favorita para la presidencial de 2027 con 40% en Polymarket, sin mayoría de probabilidad. La siguen Édouard Philippe (22%), David Lisnard (13%) y Jean-Luc Mélenchon (12%). En España, Alberto Núñez Feijóo cotiza 80% como próximo presidente del Gobierno, mientras que la salida de Pedro Sánchez antes de fin de 2026 está en 22%: el precio es sobre todo una apuesta a la próxima elección.",
+    "La seguridad del continente cotiza baja en lo extremo: una invasión rusa de un país de la OTAN o la invocación del artículo 5 antes de 2027 están en 6%, contra 22% de un choque militar OTAN-Rusia, que se resuelve con un incidente menor. La salida de Friedrich Merz antes de fin de año está en 6%. Las fechas próximas son el paquete de sanciones a Rusia que los cancilleres de la UE aprueban el lunes 12/10 y el Consejo Europeo del 15 y 16/10, con Zelenski en Bruselas, el primero después del pedido de Trump de un cambio de presidente en Ucrania."
    ],
    "fuentes": []
   }
