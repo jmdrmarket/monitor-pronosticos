@@ -1,5 +1,40 @@
 [
  {
+  "ts": "2026-10-12T01:40:33Z",
+  "clave": "polymarket:666596",
+  "url": "https://polymarket.com/event/who-will-trump-meet-with-in-2026",
+  "titulo": "Who will Trump meet with in 2026?: Mohammed bin Salman: 63% a 68% (+6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-12T01:40:33Z",
+  "clave": "polymarket:734885",
+  "url": "https://polymarket.com/event/which-states-will-donald-trump-visit-in-2026",
+  "titulo": "Which states will Donald Trump visit in 2026?: New Hampshire: 57% a 46% (−11 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-12T01:40:33Z",
+  "clave": "polymarket:5151671",
+  "url": "https://polymarket.com/event/next-israeli-minister-of-finance",
+  "titulo": "Next Israeli Minister of Finance?: No Next Minister by Feb 28: 33% a 40% (+8 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-12T01:40:33Z",
+  "clave": "kalshi:KXWHPRESSBANEND-26-26NOV01",
+  "url": "https://kalshi.com/markets/kxwhpressbanend",
+  "titulo": "When will the White House announce an end to its press ban?: Before Nov 1, 2026: 18% a 11% (−7 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-12T01:40:33Z",
+  "clave": "kalshi:KXBERNIEENDORSE-26NOV03-JTAL",
+  "url": "https://kalshi.com/markets/kxbernieendorse",
+  "titulo": "Who will Bernie Sanders endorse before the midterms?: James Talarico: 18% a 23% (+6 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
   "ts": "2026-10-11T21:37:20Z",
   "clave": "polymarket:665266",
   "url": "https://polymarket.com/event/which-countries-will-donald-trump-visit-in-2026",
