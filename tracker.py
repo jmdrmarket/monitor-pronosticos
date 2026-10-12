@@ -781,6 +781,7 @@ summary{cursor:pointer;color:var(--suave)}
 footer{margin-top:56px;padding-top:20px;border-top:1px solid var(--linea);font-size:.88rem;color:var(--suave)}
 footer p{max-width:75ch}
 .errores{color:var(--baja)}
+.vencida{color:var(--senal)}
 .tema,.tarjeta,.chip{--ac:var(--ac-claro)}
 @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]) .tema,:root:not([data-theme="light"]) .tarjeta,:root:not([data-theme="light"]) .chip{--ac:var(--ac-oscuro)} }
 :root[data-theme="dark"] .tema,:root[data-theme="dark"] .tarjeta,:root[data-theme="dark"] .chip{--ac:var(--ac-oscuro)}
@@ -846,6 +847,10 @@ span.avatar.chico.fi{width:28px;height:28px;line-height:28px}
 """
 
 
+FECHA_EN_TITULO = re.compile(r"\b(?:January|February|March|April|May|June|July|August|September|October|"
+                             r"November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)\.? \d{1,2}\b")
+
+
 def _pregunta(r):
     """Clave de la pregunta a la que pertenece una opción ("Pregunta: opción").
 
@@ -906,7 +911,11 @@ def html_fila(r, i, tz, cfg, misma=False):
     if r.get("banderas") and (r.get("foto") or len(r["banderas"]) > 1):
         meta.append(html_banderas(r["banderas"]))
     cierre = de_iso(r.get("cierre"))
-    if cierre:
+    if cierre and r.get("fecha_vencida"):
+        meta.append(f'<span class="vencida" title="Polymarket carga una fecha estimada; la apuesta sigue abierta '
+                    f'hasta que se resuelve según sus reglas">Fecha prevista: {fecha_es(cierre, tz=tz)}, ya pasó; '
+                    f'sigue abierto</span>')
+    elif cierre:
         meta.append(f"Cierra el {fecha_es(cierre, tz=tz)}")
     if r["plataforma"] != "consolidado":
         meta.append(f'<span class="clave" title="Identificador para config.yaml">{e(r["clave"])}</span>')
@@ -1099,7 +1108,7 @@ def html_analisis(analisis, tema, ts, tz):
             f'{f"<p class=fuentes>Fuentes: {fuentes}.</p>" if fuentes else ""}</div>')
 
 
-def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo, fotos):
+def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo, fotos, resolviendo=()):
     FOTOS_MOSTRADAS.clear()
     tz = tz_local(cfg)
     analisis = {} if demo else cargar_analisis(BASE / "analisis.json")
@@ -1136,6 +1145,10 @@ def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo, fotos):
         if ocultos:
             partes_nota.append(f"Se ocultan {ocultos} por debajo de {pct(lo)} o por encima de {pct(hi)}: "
                                f"candidatos sin chances o resultados casi definidos.")
+        esperando = sum(1 for r in resolviendo if t in r["temas"])
+        if esperando:
+            partes_nota.append(f"Quedan afuera {esperando} cuya fecha ya pasó y esperan el veredicto oficial: "
+                               f"su precio ya no anticipa nada.")
         nota = (f'<p class="nota">{" ".join(partes_nota)} La lista completa está en data.json.</p>'
                 if partes_nota else "")
         cierre = html_conclusiones(del_tema, info) + html_analisis(analisis, t, ts, tz)
@@ -1237,12 +1250,20 @@ def generar_salidas(cfg, actuales, consolidadas, filas, ts, errores, dir_datos, 
         if r["plataforma"] != "consolidado":
             r["banderas"] = decoracion.banderas(r["titulo"])
             r["foto"] = fotos.de(r["titulo"])
+        # Polymarket carga una fecha estimada y deja la apuesta abierta hasta resolverla.
+        # Si la pregunta nombra una fecha y esa fecha ya pasó, el hecho ya ocurrió o no:
+        # el precio solo refleja cómo se espera que se resuelva, y no es un pronóstico.
+        c = de_iso(r.get("cierre"))
+        r["fecha_vencida"] = bool(c and c < ts and r["plataforma"] != "consolidado")
+        r["en_resolucion"] = r["fecha_vencida"] and bool(FECHA_EN_TITULO.search(r["titulo"]))
+    resolviendo = [r for r in actuales.values() if r.get("en_resolucion")]
+    vivos = {k: r for k, r in actuales.items() if not r.get("en_resolucion")}
     if (BASE / "recursos").exists():
         shutil.copytree(BASE / "recursos", dir_salida / "recursos", dirs_exist_ok=True)
     info = preparar(actuales, filas, ts, cfg.get("dias_grafico", 30))
     (dir_salida / "index.html").write_text(
-        generar_html(cfg, actuales, consolidadas, info, ts, errores, demo, fotos), encoding="utf-8")
-    generar_feed(cfg, actuales, info, ts, dir_datos, dir_salida)
+        generar_html(cfg, vivos, consolidadas, info, ts, errores, demo, fotos, resolviendo), encoding="utf-8")
+    generar_feed(cfg, vivos, info, ts, dir_datos, dir_salida)
     guardar_json(dir_salida / "data.json", {
         "actualizado": a_iso(ts),
         "mercados": sorted([{
@@ -1251,7 +1272,8 @@ def generar_salidas(cfg, actuales, consolidadas, filas, ts, errores, dir_datos, 
             "temas": r["temas"], "probabilidad": round(r["prob"], 4),
             "cambio_24h": None if info[k]["d24"] is None else round(info[k]["d24"], 4),
             "cambio_7d": None if info[k]["d7"] is None else round(info[k]["d7"], 4),
-            "volumen": r.get("volumen"), "cierre": r.get("cierre")}
+            "volumen": r.get("volumen"), "cierre": r.get("cierre"),
+            "estado": "en_resolucion" if r.get("en_resolucion") else "fecha_vencida" if r.get("fecha_vencida") else None}
             for k, r in actuales.items()], key=lambda x: -(x["volumen"] or 0)),
     })
     (dir_salida / ".nojekyll").write_text("")
