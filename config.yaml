@@ -92,7 +92,8 @@ minimos:
 # ------------------------------------------------------------
 # PUBLICACIÓN
 # ------------------------------------------------------------
-max_por_tema: 24            # renglones por tema, aproximado: cada pregunta entra con todas sus opciones
+max_por_tema: 28            # renglones por tema, aproximado: cada pregunta entra con sus 3 opciones más
+                            # probables, y cada opción con todas las plataformas que la cotizan
 max_preguntas_por_tema: 8   # preguntas por tema, elegidas por el volumen de su opción más operada
 rango_visible: [0.02, 0.98]  # en las listas por tema se ocultan los mercados fuera de este rango
                             # (candidatos sin chances o resultados casi definidos); siguen en data.json

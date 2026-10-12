@@ -862,19 +862,30 @@ def _pregunta(r):
     return r.get("pregunta_es") or r["titulo"].rpartition(": ")[0]
 
 
-def _orden_opciones(g):
-    """Fechas en orden cronológico; el resto, de la más probable a la menos."""
-    fechas = []
+def _opcion(r):
+    """La opción traducida ("Marine Le Pen"), que es igual en Polymarket y en Kalshi."""
+    return (r.get("titulo_es") or r["titulo"]).rpartition(": ")[2]
+
+
+def _orden_opciones(g, max_opciones):
+    """Hasta max_opciones opciones distintas, con todas sus plataformas juntas.
+
+    Se cuentan opciones, no renglones: con Polymarket y Kalshi juntas cada candidato
+    ocupa dos, y contar renglones dejaba afuera al tercero (Lisnard, 12/10).
+    Fechas en orden cronológico; el resto, de la más probable a la menos."""
+    por_opcion = {}
     for r in g:
-        f = traduccion.fecha(r["titulo"].rpartition(": ")[2]) if ": " in r["titulo"] else None
-        if not f:
-            return sorted(g, key=lambda r: -r["prob"])
-        d = de_iso(r.get("cierre"))
-        fechas.append((d or ahora(), r))
-    return [r for _, r in sorted(fechas, key=lambda x: x[0])]
+        por_opcion.setdefault(_opcion(r), []).append(r)
+    son_fechas = all(": " in r["titulo"] and traduccion.fecha(r["titulo"].rpartition(": ")[2]) for r in g)
+    if son_fechas:
+        clave = lambda filas: min(de_iso(r.get("cierre")) or ahora() for r in filas)
+    else:
+        clave = lambda filas: -max(r["prob"] for r in filas)
+    opciones = sorted(por_opcion.values(), key=clave)[:max_opciones]
+    return [r for filas in opciones for r in sorted(filas, key=lambda r: -r["prob"])]
 
 
-def agrupar(visibles, max_filas, max_opciones=4, max_preguntas=8):
+def agrupar(visibles, max_filas, max_opciones=3, max_preguntas=8):
     """Elige preguntas, no opciones: las de más volumen total, con sus opciones juntas.
 
     Cada candidato de una elección es un mercado aparte, y el favorito puede tener
@@ -891,7 +902,7 @@ def agrupar(visibles, max_filas, max_opciones=4, max_preguntas=8):
     for g in orden:
         if filas >= max_filas or len(elegidos) >= max_preguntas:
             break
-        g = _orden_opciones(g)[:max_opciones]
+        g = _orden_opciones(g, max_opciones)
         elegidos.append(g)
         filas += len(g)
     return elegidos, len(grupos)
@@ -975,15 +986,22 @@ def estilo_tema(nombre):
     return f'style="--ac-claro:{claro};--ac-oscuro:{oscuro}"'
 
 
-def html_panorama(nombres_temas, actuales, info):
-    """Una tarjeta por tema con su pregunta abierta de más volumen."""
+def html_panorama(nombres_temas, grupos_por_tema, info):
+    """Una tarjeta por tema: la primera pregunta abierta de su lista, con su opción más probable.
+
+    Sale de la misma lista que la sección del tema, para que la tarjeta nunca muestre
+    algo que la sección no tiene (Lisnard, 12/10: el mercado de más volumen del tema
+    era el tercer candidato de su pregunta)."""
     tarjetas = []
     for t in nombres_temas:
-        abiertos = [r for r in actuales.values() if t in r["temas"] and r["plataforma"] != "consolidado"
-                    and 0.10 <= r["prob"] <= 0.90]
-        if not abiertos:
+        # La opción más probable de cada pregunta (en las de fechas, el primer renglón es el
+        # plazo más corto, casi siempre improbable); la primera pregunta con una abierta.
+        mejores = [max(g, key=lambda x: x["prob"]) for g in grupos_por_tema.get(t, [])
+                   if g[0]["plataforma"] != "consolidado"]
+        abiertas = [r for r in mejores if 0.10 <= r["prob"] <= 0.89]
+        if not abiertas:
             continue
-        r = max(abiertos, key=lambda x: x.get("volumen") or 0)
+        r = abiertas[0]
         d7 = info[r["clave"]]["d7"]
         cambio = (f'<span class="{clase_delta(d7)}">{pp(d7)} en 7 días</span>' if d7 is not None
                   else '<span class="igual">cambio de 7 días: en construcción</span>')
@@ -1124,7 +1142,8 @@ def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo, fotos, re
         secciones.append(f"""<section id="consolidadas"><h2>Preguntas consolidadas</h2>
 <p class="nota">El mismo evento medido en varias plataformas. La probabilidad es un promedio ponderado por volumen; Manifold (dinero ficticio) pesa menos.</p>{filas}</section>""")
 
-    max_t = cfg.get("max_por_tema", 24)
+    max_t = cfg.get("max_por_tema", 28)
+    grupos_por_tema = {}
     for t in nombres_temas:
         del_tema = [r for r in actuales.values() if t in r["temas"]]
         if not del_tema:
@@ -1136,6 +1155,7 @@ def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo, fotos, re
         visibles = [r for r in del_tema if r["plataforma"] == "consolidado" or lo <= r["prob"] <= hi]
         ocultos = len(del_tema) - len(visibles)
         grupos, total_preguntas = agrupar(visibles, max_t, max_preguntas=cfg.get("max_preguntas_por_tema", 8))
+        grupos_por_tema[t] = grupos
         filas = "".join(html_fila(r, info[r["clave"]], tz, cfg, misma=j > 0)
                         for g in grupos for j, r in enumerate(g))
         partes_nota = []
@@ -1195,7 +1215,7 @@ def generar_html(cfg, actuales, consolidadas, info, ts, errores, demo, fotos, re
   {aviso_demo}
 </header>
 <nav class="temas" aria-label="Temas">{nav}</nav>
-{html_panorama(nombres_temas, actuales, info)}
+{html_panorama(nombres_temas, grupos_por_tema, info)}
 <section id="movimientos"><h2>Lo que más se movió</h2>
 <p class="nota">Cambio en puntos porcentuales (pp). En cada mercado, la marca gris sobre la barra indica dónde estaba hace 7 días.</p>
 <div class="movimientos">
