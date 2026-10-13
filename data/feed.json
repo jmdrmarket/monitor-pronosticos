@@ -1,5 +1,19 @@
 [
  {
+  "ts": "2026-10-13T01:39:55Z",
+  "clave": "polymarket:2750302",
+  "url": "https://polymarket.com/event/next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+  "titulo": "Next leader out of power before 2027?: Netanyahu - Israel PM: 24% a 30% (+5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-13T01:39:55Z",
+  "clave": "polymarket:5167252",
+  "url": "https://polymarket.com/event/who-will-trump-meet-with-by-october-31",
+  "titulo": "Who will Trump meet with by October 31?: Javier Milei: 18% a 12% (−5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Elecciones en América Latina, Estados Unidos."
+ },
+ {
   "ts": "2026-10-13T00:16:58Z",
   "clave": "polymarket:665266",
   "url": "https://polymarket.com/event/which-countries-will-donald-trump-visit-in-2026",
@@ -1033,20 +1047,6 @@
   "clave": "kalshi:KXNEXTSPEAKER-31-HJEF",
   "url": "https://kalshi.com/markets/kxnextspeaker",
   "titulo": "Who will be the next new Speaker of the House?: Hakeem Jeffries: 87% a 82% (−6 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-11T12:17:52Z",
-  "clave": "kalshi:KXTRUMPENDORSE28-28MAR01-MRUB",
-  "url": "https://kalshi.com/markets/kxtrumpendorse28",
-  "titulo": "Who will Donald Trump endorse in the 2028 presidential election?: Marco Rubio: 24% a 30% (+5 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-11T12:17:52Z",
-  "clave": "kalshi:KX2028RRUN-28-RDES",
-  "url": "https://kalshi.com/markets/kx2028rrun",
-  "titulo": "Who will run for the 2028 Republican presidential nomination?: Ron DeSantis: 65% a 72% (+6 pp en 24 h)",
   "desc": "Kalshi. Tema: Estados Unidos."
  }
 ]
