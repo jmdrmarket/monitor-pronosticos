@@ -1,64 +1,66 @@
 {
- "fecha": "2026-10-11T22:40:00-03:00",
- "numeros_de": "2026-10-11T21:37:20Z",
+ "fecha": "2026-10-12T22:39:00-03:00",
+ "numeros_de": "2026-10-13T00:16:58Z",
  "temas": {
   "Medio Oriente": {
    "texto": [
-    "Las preguntas sobre Irán apenas cambiaron. El fin del bloqueo estadounidense sube un poco: 14% antes del 31/10 y 45% antes de fin de año (el sábado, 13% y 42%); antes del 15/10 está en 4%. Que el alto el fuego entre Estados Unidos e Irán siga vigente hasta el 31/10 cotiza 78%. Una invasión estadounidense de Irán antes de 2027 sigue en 16%, y la caída del régimen, en 6%. En Israel, Gadi Eizenkot sube a 46% como próximo primer ministro, contra 34% de Benjamin Netanyahu.",
-    "El domingo 11/10 Mohsen Rezaei, secretario del Consejo Supremo de Seguridad Nacional iraní, dijo que Washington aceptó algunas de las siete condiciones de Irán pero que su respuesta es insuficiente (Reuters, 11/10). La aviación civil saudí confirmó un ataque contra el aeropuerto de Dammam, y la agencia marítima británica UKMTO, un dron que alcanzó a un petrolero frente a Sohar, en Omán, sin atribuirlo. El Brent abrió la semana en 105,48 dólares, apenas 0,7% arriba (Reuters, 12/10). La pregunta sobre si los hutíes pierden la isla de Perim antes del 31/10 bajó de 45% a 34% en un día sin un hecho que lo explique; solo se resuelve si otra fuerza establece control real. La próxima fecha es la elección israelí del 27/10."
+    "Las preguntas sobre Irán casi no se movieron en el día. Que el alto el fuego entre Estados Unidos e Irán siga vigente hasta el 31/10 sube a 80% (el domingo, 78%). El fin del bloqueo estadounidense cotiza 14% antes del 31/10 y 44% antes de fin de año; antes del 15/10, 4%. Una invasión estadounidense de Irán antes de 2027 sube a 18%, y la caída del régimen sigue en 6%. En Israel, Gadi Eizenkot cotiza 47% como próximo primer ministro, contra 30% de Benjamin Netanyahu; que Netanyahu deje el cargo antes de fin de año, 40%.",
+    "El lunes 12/10 Riad volvió a ser blanco: la coalición informó la intercepción de un misil sobre la capital, y la aviación civil saudí había confirmado el domingo un muerto y 11 heridos en el aeropuerto, que queda cerrado al menos hasta el 17/10 (Al Jazeera y CBS, 12/10). Trump habló con Mohammed bin Salman y no anunció ninguna medida (Anadolu, 12/10). La agencia marítima británica UKMTO informó un buque alcanzado al salir de Ormuz, sin atribuirlo. El Brent cerró en 106,65 dólares, el más alto desde el 15/9 (Reuters, 12/10). Una acción militar paquistaní en Yemen antes del 31/10 bajó de 15% a 7%, sin operaciones nuevas. La próxima fecha es la elección israelí del 27/10."
    ],
    "fuentes": [
-    {"nombre": "Reuters vía US News, declaraciones de Rezaei, 11/10"},
-    {"nombre": "Aviación civil saudí vía Asharq Al-Awsat, Dammam, 11/10"},
-    {"nombre": "UKMTO vía Times of Israel y Arab News, Sohar, 11/10"},
-    {"nombre": "Reuters vía Investing.com, apertura del Brent, 12/10"},
-    {"nombre": "Polymarket: reglas de la isla de Perim"}
+    {"nombre": "Aviación civil saudí vía Al Jazeera, aeropuerto de Riad, 12/10"},
+    {"nombre": "CBS, cierre del aeropuerto hasta el 17/10, 12/10"},
+    {"nombre": "Anadolu y Fox News, llamada Trump–bin Salman, 12/10"},
+    {"nombre": "UKMTO vía Gulf News y MarineLink, 12/10"},
+    {"nombre": "Reuters, cierre del Brent, 12/10"}
    ]
   },
   "Estados Unidos": {
    "texto": [
-    "A tres semanas de las legislativas del 3/11, los números no se movieron desde el sábado. Los demócratas siguen favoritos para ganar la Cámara de Representantes, con 90% en Kalshi, y que los republicanos retengan las dos cámaras está en 10%. En el Senado por Texas, Ken Paxton cotiza 38%. Que Trump deje la presidencia antes de 2027, 4%.",
-    "Para 2028, J. D. Vance concentra 48% de la probabilidad republicana y Marco Rubio 15%. Del lado demócrata nadie pasa de 20%: Alexandria Ocasio-Cortez 18%, Gavin Newsom y Jon Ossoff 15%, Kamala Harris 6%. El fin de semana estuvo dominado por la política exterior: la tregua energética que Trump anunció el domingo en Ucrania y los ataques en el Golfo. La próxima fecha que puede mover las preguntas de campaña es el dato de inflación de septiembre, el miércoles 14/10."
+    "A tres semanas de las legislativas del 3/11, los números siguen quietos. Los demócratas cotizan 90% en Kalshi para ganar la Cámara de Representantes, y que los republicanos retengan las dos cámaras está en 10%. En el Senado por Texas, Ken Paxton baja a 36%. Que Trump deje la presidencia antes de 2027, 4%.",
+    "Para 2028, J. D. Vance concentra 48% de la probabilidad republicana y Marco Rubio 15%. Del lado demócrata nadie pasa de 20%: Alexandria Ocasio-Cortez 18%, Gavin Newsom 15%, Jon Ossoff 14%, Kamala Harris 6%. El lunes la agenda volvió a ser externa: los ataques sobre Riad y el pedido de un grupo bipartidario de senadores para revertir el acuerdo de compra de diésel ruso (AP, 12/10). La próxima fecha que puede mover las preguntas de campaña es el dato de inflación de septiembre, el miércoles 14/10, con el bono a 10 años en 5,24% al cierre del viernes 9/10."
    ],
-   "fuentes": []
+   "fuentes": [
+    {"nombre": "AP, pedido de senadores sobre el acuerdo del diésel, 12/10"},
+    {"nombre": "ETF Trends, bono a 10 años, 9/10"}
+   ]
   },
   "China y Taiwán": {
    "texto": [
-    "El riesgo de guerra sigue bajo y crece con el plazo: una invasión china de Taiwán cotiza 2% para fin de 2026, 8% para mediados de 2027 y 10% para fin de 2027. Un choque militar antes de 2027 está en 5% y un bloqueo en 2026, en 4%. El 29% de Manifold para una invasión antes de 2030 es de dinero ficticio y con plazo más largo, así que no se compara con los demás.",
-    "El único movimiento del día es político. El Kuomintang como gran ganador de las elecciones locales del 29/11 bajó de 86% a 82%, y el Partido Democrático Progresista subió de 14% a 18%. No se encontró una noticia del fin de semana que lo explique. Después del discurso del Día Nacional de Lai Ching-te, el sábado 10/10, no hubo hechos nuevos que muevan las preguntas militares."
+    "El riesgo de guerra sigue bajo y crece con el plazo: una invasión china de Taiwán cotiza 2% para fin de 2026, 8% para mediados de 2027 y 10% para fin de 2027. Un choque militar antes de 2027 está en 5% y un bloqueo en 2026, en 4%. Una alerta estadounidense de «no viajar» a Taiwán cotiza 4% antes de 2027 y 18% antes de 2028.",
+    "En las elecciones locales del 29/11, el Kuomintang como gran ganador se mantiene en 82% y el Partido Democrático Progresista baja a 17%. El lunes no trajo hechos nuevos en el estrecho, y ninguna pregunta se movió más de dos puntos. La próxima prueba son esas elecciones locales."
    ],
    "fuentes": []
   },
   "Elecciones en América Latina": {
    "texto": [
-    "En Brasil, Flávio Bolsonaro cotiza 87% en Polymarket y 88% en Kalshi para ganar la segunda vuelta del 25/10, contra 12% de Lula en las dos. En Venezuela, Maduro como jefe de Estado oficial a fin de año está en 72% en Polymarket y 80% en Kalshi, con Delcy Rodríguez en 24% y 22%. Un ataque estadounidense contra Colombia antes de fin de año cotiza 24%, contra 4% para México.",
-    "Las cifras de Venezuela miden el cargo formal, no quién gobierna: Kalshi aclaró el 15/4 que Maduro, detenido en Estados Unidos, sigue reconocido como presidente constitucional, con Delcy Rodríguez como presidenta interina. El fin de semana no trajo hechos nuevos en la región, y los precios casi no se movieron. La prueba siguiente en Brasil es la campaña de segunda vuelta, que termina el 25/10."
+    "En Brasil, Flávio Bolsonaro cotiza 87% en Polymarket para ganar la segunda vuelta del 25/10, contra 12% de Lula. En Venezuela, Maduro como jefe de Estado oficial a fin de año está en 71% en Polymarket y 78% en Kalshi, con Delcy Rodríguez en 24% y 22%. Un ataque estadounidense contra Colombia antes de fin de año cotiza 22%, contra 4% para México. Para la presidencial argentina de 2027, Javier Milei está en 55%.",
+    "Las cifras de Venezuela miden el cargo formal, no quién gobierna: Kalshi aclaró el 15/4 que Maduro, detenido en Estados Unidos, sigue reconocido como presidente constitucional. En Brasil no hubo debate el domingo: Record lo canceló por falta de confirmación de los candidatos, y Band lo pasó al 18/10 (Metrópoles, 10/10). La primera prueba es la encuesta nacional de segunda vuelta de Quaest, el miércoles 14/10; después vienen las entrevistas de Globo el 15 y 16/10 y su debate del 23/10."
    ],
    "fuentes": [
     {"nombre": "Kalshi: reglas y aclaración del 15/4/2026", "url": "https://kalshi.com/markets/kxvenezuelaleader"},
-    {"nombre": "Polymarket: elección en Brasil", "url": "https://polymarket.com/event/brazil-presidential-election"}
+    {"nombre": "Metrópoles y SBT News, calendario de debates y encuestas, 9-10/10"}
    ]
   },
   "Guerra Rusia–Ucrania": {
    "texto": [
-    "La paz sube poco desde niveles bajos. Un alto el fuego acordado antes de fin de año cotiza 18% (el sábado, 15%), y 12% si además tiene que durar al menos 10 días (antes, 8%): la primera pregunta paga con la firma. Antes del 31/10, 4% y 3%. Un acuerdo de paz firmado antes de 2027 sigue en 8%. Una reunión diplomática presencial entre Rusia y Ucrania antes del 31/10, aunque sea con mediadores, bajó de 45% a 35% en un día, sin una causa confirmada. Que Zelenski deje la presidencia este año baja a 6%.",
-    "El domingo 11/10 Trump anunció una \"tregua energética\" con efecto inmediato y dijo que las dos partes la aceptaron (AP, 11/10). Zelenski dijo que se enteró por el anuncio y que la acepta si Rusia la acepta. El Kremlin no la confirmó, y horas después Rusia atacó la central térmica 5 de Járkov (Kyiv Independent y The Hill, 11/10). Según el Financial Times, Washington advirtió a Kiev que puede suspender compras de armas e intercambio de inteligencia si siguen los ataques a refinerías rusas. Las próximas fechas: el paquete de sanciones europeo del lunes 12/10 y el Consejo Europeo del 15 y 16/10."
+    "La paz sigue lejos en los precios. Un alto el fuego acordado antes de fin de año cotiza 18%, y 12% si además tiene que durar al menos 10 días; antes del 31/10, 4% y 3%. Un acuerdo de paz firmado antes de 2027 sigue en 8%. El cambio del día es otro: un choque militar entre la OTAN y Rusia antes de fin de año subió de 20% a 26%, sin una noticia que lo explique. Esa pregunta se resuelve con un incidente menor, como el derribo de un dron. Que Zelenski deje la presidencia este año, 6%.",
+    "El lunes 12/10 el Kremlin no confirmó la tregua energética que Trump había anunciado: Peskov dijo que los contactos continúan (The Moscow Times, 12/10). Rusia rechazó el alto el fuego de 60 días que propuso Zelenski para hacer elecciones, y Zelenski dijo que Rusia atacó seis instalaciones energéticas ese día (Al Jazeera y CNBC, 12/10). Según CNN, Washington avisó que puede suspender el intercambio de inteligencia y las compras de armas europeas para Ucrania. La Unión Europea aprobó su paquete de sanciones número 22. La próxima fecha es el Consejo Europeo del 15 y 16/10."
    ],
    "fuentes": [
-    {"nombre": "AP vía ABC y PBS, anuncio de la tregua energética, 11/10"},
-    {"nombre": "Kyiv Independent y The Hill, ataque a Járkov, 11/10"},
-    {"nombre": "Financial Times vía Kyiv Independent, 11/10"},
-    {"nombre": "Polymarket: reglas de la reunión diplomática Rusia–Ucrania"},
-    {"nombre": "Polymarket: reglas del alto el fuego", "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-agreement-by"}
+    {"nombre": "The Moscow Times y CNBC, respuesta del Kremlin, 12/10"},
+    {"nombre": "Al Jazeera, rechazo del alto el fuego de 60 días, 12/10"},
+    {"nombre": "CNN, aviso sobre inteligencia y compras de armas, 11-12/10"},
+    {"nombre": "Kyiv Independent, paquete de sanciones de la UE, 12/10"}
    ]
   },
   "Europa": {
    "texto": [
-    "Francia sigue sin favorito claro para la presidencial de 2027: Marine Le Pen cotiza 39% en Polymarket, seguida por Édouard Philippe (24%), David Lisnard (14%) y Jean-Luc Mélenchon (10%). En España, Alberto Núñez Feijóo está en 80% como próximo presidente del Gobierno, y la salida de Pedro Sánchez antes de fin de 2026, en 22%. Un choque militar entre la OTAN y Rusia antes de fin de año baja a 20%; se resuelve con un incidente menor, como el derribo de un dron. La invasión rusa de un país de la OTAN sigue en 6%.",
-    "El domingo 11/10 Raphaël Glucksmann ganó en primera vuelta la primaria socialista francesa, con 66% de los votos, y será el candidato de la izquierda socialdemócrata (LCP, 11/10). Su probabilidad de ganar la presidencial apenas pasó de 2% a 3%. Las próximas fechas son el paquete de sanciones a Rusia que los cancilleres de la UE aprueban el lunes 12/10 y el Consejo Europeo del 15 y 16/10, el primero después de la tregua energética anunciada por Trump."
+    "Francia sigue sin favorito claro para la presidencial de 2027: Marine Le Pen sube a 42% en Polymarket y cotiza lo mismo en Kalshi, seguida por Édouard Philippe (22%), David Lisnard (14%) y Jean-Luc Mélenchon (12%). En España, Alberto Núñez Feijóo está en 80% como próximo presidente del Gobierno, y la salida de Pedro Sánchez antes de fin de 2026, en 22%. Un choque militar entre la OTAN y Rusia antes de fin de año subió a 26% (el domingo, 20%), sin una causa encontrada; se resuelve con un incidente menor. La invasión rusa de un país de la OTAN sigue en 6%.",
+    "El lunes 12/10 los cancilleres de la Unión Europea aprobaron en Luxemburgo el paquete de sanciones a Rusia número 22, con unas 1.600 designaciones, la mayor ampliación desde 2022, y los 27 acordaron abrir dos grupos de negociación para la adhesión de Ucrania (Kyiv Independent, 12/10). La próxima fecha es el Consejo Europeo del 15 y 16/10, con Zelenski."
    ],
    "fuentes": [
-    {"nombre": "LCP, primaria socialista, 11/10", "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la"}
+    {"nombre": "Kyiv Independent, sanciones y adhesión de Ucrania, 12/10"}
    ]
   }
  }
