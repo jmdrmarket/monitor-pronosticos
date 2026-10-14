@@ -1,5 +1,54 @@
 [
  {
+  "ts": "2026-10-14T03:58:38Z",
+  "clave": "polymarket:814613",
+  "url": "https://polymarket.com/event/2026-taiwanese-local-elections-party-winner",
+  "titulo": "Elecciones locales de Taiwán 2026: partido ganador: Partido Democrático Progresista (PDP): 17% a 22% (+5 pp en 24 h)",
+  "desc": "Polymarket. Tema: China y Taiwán, Estados Unidos."
+ },
+ {
+  "ts": "2026-10-14T03:58:38Z",
+  "clave": "polymarket:2866295",
+  "url": "https://polymarket.com/event/ca-34-house-election-winner-individual-20260710020736883",
+  "titulo": "CA-34 House Election Winner (Individual): Jimmy Gomez: 26% a 20% (−6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-14T03:58:38Z",
+  "clave": "polymarket:5183416",
+  "url": "https://polymarket.com/event/israel-military-action-against-lebanon-on-october-2026",
+  "titulo": "Israel military action against Lebanon on...?: October 15: 82% a 86% (+5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-14T03:58:38Z",
+  "clave": "polymarket:1243902",
+  "url": "https://polymarket.com/event/brazil-annual-inflation-2026",
+  "titulo": "Inflación anual de Brasil en 2026: Entre 5,50% y 5,99%: 14% a 27% (+13 pp en 24 h)",
+  "desc": "Polymarket. Tema: Elecciones en América Latina."
+ },
+ {
+  "ts": "2026-10-14T03:58:38Z",
+  "clave": "polymarket:3660396",
+  "url": "https://polymarket.com/event/rio-grande-do-norte-governor-election-winner",
+  "titulo": "Rio Grande do Norte Governor Election Winner: Cadu de Lula: 18% a 24% (+5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Elecciones en América Latina."
+ },
+ {
+  "ts": "2026-10-14T03:58:38Z",
+  "clave": "kalshi:KXMIDTERMMOV-TXSEND-P1",
+  "url": "https://kalshi.com/markets/kxmidtermmov",
+  "titulo": "Texas Senate margin of victory: James Talarico, 1+ pts: 60% a 51% (−8 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-14T03:58:38Z",
+  "clave": "kalshi:KXMIDTERMMOV-TXSEND-P3",
+  "url": "https://kalshi.com/markets/kxmidtermmov",
+  "titulo": "Texas Senate margin of victory: James Talarico, 3+ pts: 36% a 26% (−10 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
   "ts": "2026-10-14T01:39:21Z",
   "clave": "polymarket:3187537",
   "url": "https://polymarket.com/event/will-mara-corina-machado-enter-venezuela-by-january-31",
@@ -998,55 +1047,6 @@
   "clave": "polymarket:3553897",
   "url": "https://polymarket.com/event/who-will-attend-a-round-of-us-iran-peace-talks-by-december-31-20260812153824803",
   "titulo": "Who will attend a round of US-Iran peace talks by December 31?: Rafael Grossi: 20% a 14% (−6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-12T14:43:12Z",
-  "clave": "polymarket:4424732",
-  "url": "https://polymarket.com/event/pakistan-military-action-against-yemen-by-20260909",
-  "titulo": "Pakistan military action against Yemen by...?: October 31: 18% a 8% (−10 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-12T14:43:12Z",
-  "clave": "polymarket:4639167",
-  "url": "https://polymarket.com/event/saudi-arabia-military-action-against-yemen-on-20260916",
-  "titulo": "¿Ataque aéreo o con misiles de Arabia Saudita contra territorio yemení el día 24 de septiembre?: 66% a 72% (+7 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-12T14:43:12Z",
-  "clave": "polymarket:4640848",
-  "url": "https://polymarket.com/event/perim-island-no-longer-under-houthi-control-by-20260916",
-  "titulo": "¿Pierden los hutíes el control de la isla de Perim antes del 31 de octubre?: 36% a 26% (−10 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-12T14:43:12Z",
-  "clave": "polymarket:5401115",
-  "url": "https://polymarket.com/event/perim-island-no-longer-under-houthi-control-by-20260916",
-  "titulo": "¿Pierden los hutíes el control de la isla de Perim antes del 30 de noviembre?: 58% a 48% (−11 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-12T14:43:12Z",
-  "clave": "polymarket:5167187",
-  "url": "https://polymarket.com/event/saudi-arabia-military-action-against-yemen-on-october-2026",
-  "titulo": "¿Ataque aéreo o con misiles de Arabia Saudita contra territorio yemení el día 6 de octubre?: 61% a 54% (−7 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-12T14:43:12Z",
-  "clave": "polymarket:5167192",
-  "url": "https://polymarket.com/event/saudi-arabia-military-action-against-yemen-on-october-2026",
-  "titulo": "¿Ataque aéreo o con misiles de Arabia Saudita contra territorio yemení el día 11 de octubre?: 44% a 87% (+44 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-12T14:43:12Z",
-  "clave": "polymarket:5167193",
-  "url": "https://polymarket.com/event/saudi-arabia-military-action-against-yemen-on-october-2026",
-  "titulo": "¿Ataque aéreo o con misiles de Arabia Saudita contra territorio yemení el día 12 de octubre?: 68% a 80% (+11 pp en 24 h)",
   "desc": "Polymarket. Tema: Medio Oriente."
  }
 ]
