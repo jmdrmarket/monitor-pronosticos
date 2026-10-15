@@ -1,5 +1,19 @@
 [
  {
+  "ts": "2026-10-15T14:57:01Z",
+  "clave": "polymarket:5572739",
+  "url": "https://polymarket.com/event/who-wins-the-senate-pending-hormuz-agreement-before-the-midterms",
+  "titulo": "Who wins the Senate pending Hormuz Agreement before the midterms?: No Hormuz Agreement: 84% a 89% (+5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-15T14:57:01Z",
+  "clave": "kalshi:KXVOTEBR2-BRPRES26FBOL-48",
+  "url": "https://kalshi.com/markets/kxvotebr2",
+  "titulo": "Brazil presidential runoff: Flávio Bolsonaro vote percent: At least 48%: 98% a 93% (−6 pp en 24 h)",
+  "desc": "Kalshi. Tema: Elecciones en América Latina."
+ },
+ {
   "ts": "2026-10-15T14:52:28Z",
   "clave": "polymarket:948387",
   "url": "https://polymarket.com/event/who-will-leave-trump-administration-before-2027",
@@ -1034,19 +1048,5 @@
   "url": "https://polymarket.com/event/republican-house-seats-after-the-2026-midterm-elections",
   "titulo": "¿Cuántas bancas tendrán los republicanos en la Cámara de Representantes después de las legislativas de 2026?: 205-209: 22% a 17% (−5 pp en 24 h)",
   "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-14T11:24:02Z",
-  "clave": "polymarket:2054225",
-  "url": "https://polymarket.com/event/2027-french-presidential-election-who-will-be-on-the-ballot",
-  "titulo": "Presidencial francesa 2027: ¿quiénes serán candidatos?: Éric Zemmour: 84% a 78% (−5 pp en 24 h)",
-  "desc": "Polymarket. Tema: Europa."
- },
- {
-  "ts": "2026-10-14T11:24:02Z",
-  "clave": "polymarket:4599796",
-  "url": "https://polymarket.com/event/israeli-airspace-closed-by",
-  "titulo": "Israeli airspace closed by...? (Excluding Holiday Closures): December 31: 22% a 34% (+12 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
  }
 ]
