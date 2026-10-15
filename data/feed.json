@@ -1,5 +1,12 @@
 [
  {
+  "ts": "2026-10-15T15:02:01Z",
+  "clave": "kalshi:KXHOUSETURNOUT-26NOV03-120",
+  "url": "https://kalshi.com/markets/kxhouseturnout",
+  "titulo": "2026 Midterms: U.S. House turnout?: 120 to 124.99 million: 20% a 14% (−5 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
   "ts": "2026-10-15T14:57:01Z",
   "clave": "polymarket:5572739",
   "url": "https://polymarket.com/event/who-wins-the-senate-pending-hormuz-agreement-before-the-midterms",
@@ -1041,12 +1048,5 @@
   "url": "https://polymarket.com/event/2026-taiwanese-local-elections-party-winner",
   "titulo": "Elecciones locales de Taiwán 2026: partido ganador: Kuomintang (KMT): 82% a 76% (−6 pp en 24 h)",
   "desc": "Polymarket. Tema: China y Taiwán."
- },
- {
-  "ts": "2026-10-14T11:24:02Z",
-  "clave": "polymarket:919493",
-  "url": "https://polymarket.com/event/republican-house-seats-after-the-2026-midterm-elections",
-  "titulo": "¿Cuántas bancas tendrán los republicanos en la Cámara de Representantes después de las legislativas de 2026?: 205-209: 22% a 17% (−5 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
  }
 ]
