@@ -1,5 +1,124 @@
 [
  {
+  "ts": "2026-10-15T14:52:28Z",
+  "clave": "polymarket:948387",
+  "url": "https://polymarket.com/event/who-will-leave-trump-administration-before-2027",
+  "titulo": "Who will leave Trump Administration before 2027?: Susie Wiles: 20% a 36% (+17 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-15T14:52:28Z",
+  "clave": "polymarket:814612",
+  "url": "https://polymarket.com/event/2026-taiwanese-local-elections-party-winner",
+  "titulo": "Elecciones locales de Taiwán 2026: partido ganador: Kuomintang (KMT): 76% a 70% (−5 pp en 24 h)",
+  "desc": "Polymarket. Tema: China y Taiwán."
+ },
+ {
+  "ts": "2026-10-15T14:52:28Z",
+  "clave": "polymarket:814613",
+  "url": "https://polymarket.com/event/2026-taiwanese-local-elections-party-winner",
+  "titulo": "Elecciones locales de Taiwán 2026: partido ganador: Partido Democrático Progresista (PDP): 24% a 29% (+5 pp en 24 h)",
+  "desc": "Polymarket. Tema: China y Taiwán, Estados Unidos."
+ },
+ {
+  "ts": "2026-10-15T14:52:28Z",
+  "clave": "polymarket:994803",
+  "url": "https://polymarket.com/event/will-trump-endorse-any-candidate-for-president-before-2027",
+  "titulo": "Will Trump endorse any candidate for President before 2027?: 4% a 12% (+8 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-15T14:52:28Z",
+  "clave": "polymarket:2677115",
+  "url": "https://polymarket.com/event/will-russia-enter-khatnie-by",
+  "titulo": "Will Russia enter Khatnie by...?: December 31: 38% a 32% (−6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
+ },
+ {
+  "ts": "2026-10-15T14:52:28Z",
+  "clave": "polymarket:3128888",
+  "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+  "titulo": "¿Anuncia EE. UU. el fin del bloqueo a Irán antes del 31 de octubre?: 12% a 8% (−5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-15T14:52:28Z",
+  "clave": "polymarket:2745549",
+  "url": "https://polymarket.com/event/will-russia-capture-kozacha-lopan-byptptpt-20260630005737619",
+  "titulo": "Will Russia capture Kozacha Lopan by...?: December 31: 36% a 24% (−11 pp en 24 h)",
+  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
+ },
+ {
+  "ts": "2026-10-15T14:52:28Z",
+  "clave": "polymarket:4599796",
+  "url": "https://polymarket.com/event/israeli-airspace-closed-by",
+  "titulo": "Israeli airspace closed by...? (Excluding Holiday Closures): December 31: 34% a 20% (−14 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-15T14:52:28Z",
+  "clave": "polymarket:5401115",
+  "url": "https://polymarket.com/event/perim-island-no-longer-under-houthi-control-by-20260916",
+  "titulo": "¿Pierden los hutíes el control de la isla de Perim antes del 30 de noviembre?: 33% a 28% (−5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-15T14:52:28Z",
+  "clave": "kalshi:KX2028DRUN-28-JOSS",
+  "url": "https://kalshi.com/markets/kx2028drun",
+  "titulo": "¿Quién se postulará a la candidatura presidencial demócrata de 2028?: Jon Ossoff: 60% a 54% (−6 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-15T14:52:28Z",
+  "clave": "kalshi:KXMIDTERMMOV-OHSEND-P2",
+  "url": "https://kalshi.com/markets/kxmidtermmov",
+  "titulo": "Ohio Senate margin of victory: Brown, 2+ pts: 54% a 48% (−5 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-15T14:52:28Z",
+  "clave": "kalshi:KXTRUMPADMINLEAVE-26DEC31-SWIL",
+  "url": "https://kalshi.com/markets/kxtrumpadminleave",
+  "titulo": "Who will leave their role in the Trump administration in 2026?: Susie Wiles: 26% a 45% (+20 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-15T14:52:28Z",
+  "clave": "kalshi:KXDJTATTACKWARSH-26SEP-26DEC01",
+  "url": "https://kalshi.com/markets/kxdjtattackwarsh",
+  "titulo": "Will Trump publicly criticize Kevin Warsh?: Before Dec 1, 2026: 22% a 16% (−5 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-15T14:52:28Z",
+  "clave": "kalshi:KXWHPRESSBANEND-26-26NOV01",
+  "url": "https://kalshi.com/markets/kxwhpressbanend",
+  "titulo": "¿Cuándo anunciará la Casa Blanca el fin de su veto a la prensa?: Antes del 1 de noviembre de 2026: 15% a 4% (−11 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-15T14:52:28Z",
+  "clave": "kalshi:KXLEAVEDUNN",
+  "url": "https://kalshi.com/markets/kxleavedunn",
+  "titulo": "Will Neal Dunn leave Congress before the midterms?: 8% a 1% (−7 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-15T14:52:28Z",
+  "clave": "kalshi:KXBERNIEENDORSE-26NOV03-JTAL",
+  "url": "https://kalshi.com/markets/kxbernieendorse",
+  "titulo": "¿A quién respaldará Bernie Sanders antes de las legislativas?: James Talarico: 27% a 18% (−9 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-15T14:52:28Z",
+  "clave": "manifold:StMF5HKndU9WHMR1lcWX",
+  "url": "https://manifold.markets/GustavoMafra/will-lula-win-the-2026-brazilian-pr",
+  "titulo": "Will Lula win the 2026 Brazilian presidential election?: 14% a 19% (+5 pp en 24 h)",
+  "desc": "Manifold. Tema: Elecciones en América Latina."
+ },
+ {
   "ts": "2026-10-15T11:00:44Z",
   "clave": "polymarket:601819",
   "url": "https://polymarket.com/event/brazil-presidential-election",
@@ -929,124 +1048,5 @@
   "url": "https://polymarket.com/event/israeli-airspace-closed-by",
   "titulo": "Israeli airspace closed by...? (Excluding Holiday Closures): December 31: 22% a 34% (+12 pp en 24 h)",
   "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-14T11:24:02Z",
-  "clave": "polymarket:5237634",
-  "url": "https://polymarket.com/event/will-ukraine-target-moscow-on-october-2026",
-  "titulo": "¿Atacará Ucrania Moscú con drones o misiles el día 20 de octubre?: 52% a 67% (+15 pp en 24 h)",
-  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
- },
- {
-  "ts": "2026-10-14T11:24:02Z",
-  "clave": "polymarket:5237635",
-  "url": "https://polymarket.com/event/will-ukraine-target-moscow-on-october-2026",
-  "titulo": "¿Atacará Ucrania Moscú con drones o misiles el día 21 de octubre?: 55% a 69% (+14 pp en 24 h)",
-  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
- },
- {
-  "ts": "2026-10-14T11:24:02Z",
-  "clave": "polymarket:3748222",
-  "url": "https://polymarket.com/event/will-the-afd-be-part-of-a-german-state-government-in-2026",
-  "titulo": "¿Entrará AfD en el gobierno de algún estado alemán en 2026?: 58% a 42% (−15 pp en 24 h)",
-  "desc": "Polymarket. Tema: Europa."
- },
- {
-  "ts": "2026-10-14T11:24:02Z",
-  "clave": "kalshi:KXTRUMPPARDONS-29JAN21-ESNO",
-  "url": "https://kalshi.com/markets/kxtrumppardons",
-  "titulo": "Who will Trump pardon?: Edward Snowden: 30% a 36% (+5 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-14T11:24:02Z",
-  "clave": "kalshi:KXIMPEACH-29-JAN20",
-  "url": "https://kalshi.com/markets/kximpeach",
-  "titulo": "Will President Trump be impeached during his term?: 62% a 67% (+6 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-14T11:24:02Z",
-  "clave": "kalshi:POPVOTEMOV-28NOV07-DEM800T899",
-  "url": "https://kalshi.com/markets/popvotemov",
-  "titulo": "2028 popular vote margin of victory?: Democratic by 8.0% to 8.99%: 18% a 10% (−8 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-14T11:24:02Z",
-  "clave": "kalshi:KX2028DRUN-28-JOSS",
-  "url": "https://kalshi.com/markets/kx2028drun",
-  "titulo": "¿Quién se postulará a la candidatura presidencial demócrata de 2028?: Jon Ossoff: 66% a 60% (−5 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-14T11:24:02Z",
-  "clave": "kalshi:KXIHOUSEWON-26NOV03-AL1",
-  "url": "https://kalshi.com/markets/kxihousewon",
-  "titulo": "How many House seats will Independents win in the Midterms?: At least 1: 22% a 18% (−5 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-14T11:24:02Z",
-  "clave": "kalshi:KXWHPRESSBANEND-26-26NOV01",
-  "url": "https://kalshi.com/markets/kxwhpressbanend",
-  "titulo": "When will the White House announce an end to its press ban?: Before Nov 1, 2026: 8% a 15% (+6 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-14T11:24:02Z",
-  "clave": "kalshi:KXBERNIEENDORSE-26NOV03-JTAL",
-  "url": "https://kalshi.com/markets/kxbernieendorse",
-  "titulo": "Who will Bernie Sanders endorse before the midterms?: James Talarico: 20% a 27% (+7 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-14T03:58:38Z",
-  "clave": "polymarket:814613",
-  "url": "https://polymarket.com/event/2026-taiwanese-local-elections-party-winner",
-  "titulo": "Elecciones locales de Taiwán 2026: partido ganador: Partido Democrático Progresista (PDP): 17% a 22% (+5 pp en 24 h)",
-  "desc": "Polymarket. Tema: China y Taiwán, Estados Unidos."
- },
- {
-  "ts": "2026-10-14T03:58:38Z",
-  "clave": "polymarket:2866295",
-  "url": "https://polymarket.com/event/ca-34-house-election-winner-individual-20260710020736883",
-  "titulo": "CA-34 House Election Winner (Individual): Jimmy Gomez: 26% a 20% (−6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-14T03:58:38Z",
-  "clave": "polymarket:5183416",
-  "url": "https://polymarket.com/event/israel-military-action-against-lebanon-on-october-2026",
-  "titulo": "Israel military action against Lebanon on...?: October 15: 82% a 86% (+5 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-14T03:58:38Z",
-  "clave": "polymarket:1243902",
-  "url": "https://polymarket.com/event/brazil-annual-inflation-2026",
-  "titulo": "Inflación anual de Brasil en 2026: Entre 5,50% y 5,99%: 14% a 27% (+13 pp en 24 h)",
-  "desc": "Polymarket. Tema: Elecciones en América Latina."
- },
- {
-  "ts": "2026-10-14T03:58:38Z",
-  "clave": "polymarket:3660396",
-  "url": "https://polymarket.com/event/rio-grande-do-norte-governor-election-winner",
-  "titulo": "Rio Grande do Norte Governor Election Winner: Cadu de Lula: 18% a 24% (+5 pp en 24 h)",
-  "desc": "Polymarket. Tema: Elecciones en América Latina."
- },
- {
-  "ts": "2026-10-14T03:58:38Z",
-  "clave": "kalshi:KXMIDTERMMOV-TXSEND-P1",
-  "url": "https://kalshi.com/markets/kxmidtermmov",
-  "titulo": "Texas Senate margin of victory: James Talarico, 1+ pts: 60% a 51% (−8 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-14T03:58:38Z",
-  "clave": "kalshi:KXMIDTERMMOV-TXSEND-P3",
-  "url": "https://kalshi.com/markets/kxmidtermmov",
-  "titulo": "Texas Senate margin of victory: James Talarico, 3+ pts: 36% a 26% (−10 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
  }
 ]
