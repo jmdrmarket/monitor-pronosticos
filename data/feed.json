@@ -1,5 +1,61 @@
 [
  {
+  "ts": "2026-10-16T03:37:06Z",
+  "clave": "polymarket:691635",
+  "url": "https://polymarket.com/event/who-will-trump-pardon-before-2027",
+  "titulo": "¿A quién indultará Trump antes de 2027?: Donald Brodie: 32% a 22% (−10 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-16T03:37:06Z",
+  "clave": "polymarket:2747460",
+  "url": "https://polymarket.com/event/naim-qassem-out-as-hezbollahs-secretary-general-by-december-31",
+  "titulo": "Naim Qassem out as Hezbollah’s secretary-general by...?: December 31, 2026: 7% a 13% (+6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-16T03:37:06Z",
+  "clave": "polymarket:2591184",
+  "url": "https://polymarket.com/event/russia-x-ukraine-peace-talks-byptptpt-20260609012540716",
+  "titulo": "¿Negociaciones de paz entre Rusia y Ucrania antes del 31 de diciembre?: 46% a 41% (−5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
+ },
+ {
+  "ts": "2026-10-16T03:37:06Z",
+  "clave": "polymarket:5339986",
+  "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+  "titulo": "¿Sigue vigente el alto el fuego entre Israel e Irán hasta el 15 de noviembre?: 72% a 64% (−8 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-16T03:37:06Z",
+  "clave": "polymarket:5167225",
+  "url": "https://polymarket.com/event/who-will-trump-speak-to-by-october-31",
+  "titulo": "Who will Trump speak to by October 31?: Ahmed al-Sharaa: 44% a 52% (+8 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-16T03:37:06Z",
+  "clave": "polymarket:3748222",
+  "url": "https://polymarket.com/event/will-the-afd-be-part-of-a-german-state-government-in-2026",
+  "titulo": "¿Entrará AfD en el gobierno de algún estado alemán en 2026?: 47% a 42% (−5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Europa."
+ },
+ {
+  "ts": "2026-10-16T03:37:06Z",
+  "clave": "kalshi:KXMIDTERMMOV-TXSENR-P7",
+  "url": "https://kalshi.com/markets/kxmidtermmov",
+  "titulo": "Texas Senate margin of victory: Ken Paxton, 7+ pts: 8% a 14% (+5 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-16T03:37:06Z",
+  "clave": "kalshi:KXTRUMPADMINLEAVE-26DEC31-PHEG",
+  "url": "https://kalshi.com/markets/kxtrumpadminleave",
+  "titulo": "Who will leave their role in the Trump administration in 2026?: Pete Hegseth: 22% a 26% (+5 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
   "ts": "2026-10-16T01:39:43Z",
   "clave": "polymarket:678747",
   "url": "https://polymarket.com/event/how-many-different-countries-will-israel-strike-in-2026",
@@ -992,61 +1048,5 @@
   "url": "https://polymarket.com/event/next-us-iran-senior-diplomatic-meeting-byptptpt",
   "titulo": "Next US-Iran senior diplomatic meeting by...?: October 31, 2026: 12% a 8% (−5 pp en 24 h)",
   "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-15T01:39:36Z",
-  "clave": "polymarket:4867865",
-  "url": "https://polymarket.com/event/where-will-the-next-us-iran-senior-diplomatic-meeting-take-placeptptpt",
-  "titulo": "Where will the next US-Iran senior diplomatic meeting take place...?: No Meeting by December 31: 55% a 61% (+6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-15T01:39:36Z",
-  "clave": "polymarket:5167225",
-  "url": "https://polymarket.com/event/who-will-trump-speak-to-by-october-31",
-  "titulo": "Who will Trump speak to by October 31?: Ahmed al-Sharaa: 56% a 50% (−6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-15T01:39:36Z",
-  "clave": "polymarket:5167230",
-  "url": "https://polymarket.com/event/who-will-trump-speak-to-by-october-31",
-  "titulo": "¿Con quién hablará Trump (en persona, por teléfono o video) antes del 31 de octubre?: Lula da Silva: 45% a 38% (−8 pp en 24 h)",
-  "desc": "Polymarket. Tema: Elecciones en América Latina, Estados Unidos."
- },
- {
-  "ts": "2026-10-15T01:39:36Z",
-  "clave": "polymarket:5237631",
-  "url": "https://polymarket.com/event/will-ukraine-target-moscow-on-october-2026",
-  "titulo": "¿Atacará Ucrania Moscú con drones o misiles el día 17 de octubre?: 64% a 72% (+7 pp en 24 h)",
-  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
- },
- {
-  "ts": "2026-10-15T01:39:36Z",
-  "clave": "polymarket:5237632",
-  "url": "https://polymarket.com/event/will-ukraine-target-moscow-on-october-2026",
-  "titulo": "¿Atacará Ucrania Moscú con drones o misiles el día 18 de octubre?: 60% a 69% (+9 pp en 24 h)",
-  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
- },
- {
-  "ts": "2026-10-15T01:39:36Z",
-  "clave": "polymarket:5340070",
-  "url": "https://polymarket.com/event/brazil-presidential-election-second-round-margin-of-victory",
-  "titulo": "Segunda vuelta en Brasil: margen de victoria: Flávio Bolsonaro, por 4 a 8 puntos: 38% a 32% (−5 pp en 24 h)",
-  "desc": "Polymarket. Tema: Elecciones en América Latina."
- },
- {
-  "ts": "2026-10-15T01:39:36Z",
-  "clave": "kalshi:KXTRUMPPARDONS-29JAN21-DJTR",
-  "url": "https://kalshi.com/markets/kxtrumppardons",
-  "titulo": "Who will Trump pardon?: Donald Trump Jr.: 62% a 70% (+9 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-15T01:39:36Z",
-  "clave": "kalshi:KXISRAELPM-26OCT27-BNET",
-  "url": "https://kalshi.com/markets/kxisraelpm",
-  "titulo": "¿Quién será primer ministro de Israel después de la próxima elección?: Benjamin Netanyahu: 30% a 24% (−6 pp en 24 h)",
-  "desc": "Kalshi. Tema: Medio Oriente."
  }
 ]
