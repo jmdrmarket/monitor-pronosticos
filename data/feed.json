@@ -1,5 +1,75 @@
 [
  {
+  "ts": "2026-10-17T03:27:04Z",
+  "clave": "polymarket:665317",
+  "url": "https://polymarket.com/event/how-many-gold-cards-will-trump-sell-in-2026",
+  "titulo": "How many Gold Cards will Trump sell in 2026?: 1-100: 71% a 76% (+5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-17T03:27:04Z",
+  "clave": "polymarket:666611",
+  "url": "https://polymarket.com/event/who-will-trump-meet-with-in-2026",
+  "titulo": "Who will Trump meet with in 2026?: Aleksandr Lukashenko: 12% a 17% (+5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-17T03:27:04Z",
+  "clave": "polymarket:5105110",
+  "url": "https://polymarket.com/event/where-will-the-next-russia-x-ukraine-peace-talks-take-place",
+  "titulo": "Where will the next Russia x Ukraine peace talks take place?: UAE: 35% a 42% (+8 pp en 24 h)",
+  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
+ },
+ {
+  "ts": "2026-10-17T03:27:04Z",
+  "clave": "polymarket:1243902",
+  "url": "https://polymarket.com/event/brazil-annual-inflation-2026",
+  "titulo": "Inflación anual de Brasil en 2026: Entre 5,50% y 5,99%: 21% a 16% (−5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Elecciones en América Latina."
+ },
+ {
+  "ts": "2026-10-17T03:27:04Z",
+  "clave": "kalshi:KXTRUMPPARDONS-29JAN21-DJT",
+  "url": "https://kalshi.com/markets/kxtrumppardons",
+  "titulo": "¿A quién indultará Trump?: Donald Trump: 48% a 40% (−8 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-17T03:27:04Z",
+  "clave": "kalshi:KXMIDTERMMOV-GASEND-P8",
+  "url": "https://kalshi.com/markets/kxmidtermmov",
+  "titulo": "Georgia Senate margin of victory: Ossoff, 8+ pts: 62% a 68% (+6 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-17T03:27:04Z",
+  "clave": "kalshi:KXTXSENGOVCOMBO-26NOV-REPDEM",
+  "url": "https://kalshi.com/markets/kxtxsengovcombo",
+  "titulo": "Texas Governor-Senate combo: Greg Abbott and James Talarico win: 45% a 40% (−5 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-17T03:27:04Z",
+  "clave": "kalshi:KXTXSENGOVCOMBO-26NOV-REPREP",
+  "url": "https://kalshi.com/markets/kxtxsengovcombo",
+  "titulo": "Texas Governor-Senate combo: Greg Abbott and Ken Paxton win: 36% a 42% (+5 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-17T03:27:04Z",
+  "clave": "kalshi:KXTRUMPADMINLEAVE-26DEC31-SWIL",
+  "url": "https://kalshi.com/markets/kxtrumpadminleave",
+  "titulo": "¿Quién dejará su cargo en el gobierno de Trump en 2026?: Susie Wiles: 42% a 36% (−6 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-17T03:27:04Z",
+  "clave": "kalshi:KXMANCHINCOMBO-26NOV03-LL",
+  "url": "https://kalshi.com/markets/kxmanchincombo",
+  "titulo": "Manchin Senate combo: Rogers & Collins: Both lose: 48% a 54% (+5 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
   "ts": "2026-10-17T01:40:48Z",
   "clave": "polymarket:665319",
   "url": "https://polymarket.com/event/how-many-gold-cards-will-trump-sell-in-2026",
@@ -978,75 +1048,5 @@
   "url": "https://polymarket.com/event/who-will-xi-jinping-purge-in-2026",
   "titulo": "¿A quién purgará Xi Jinping en 2026?: Wang Huning: 4% a 10% (+6 pp en 24 h)",
   "desc": "Polymarket. Tema: China y Taiwán."
- },
- {
-  "ts": "2026-10-15T16:30:39Z",
-  "clave": "polymarket:2127313",
-  "url": "https://polymarket.com/event/argentina-presidential-election-winner",
-  "titulo": "Elección presidencial argentina: ganador: Sergio Massa: 8% a 12% (+5 pp en 24 h)",
-  "desc": "Polymarket. Tema: Elecciones en América Latina."
- },
- {
-  "ts": "2026-10-15T16:30:39Z",
-  "clave": "polymarket:4096506",
-  "url": "https://polymarket.com/event/will-russia-enter-oleksiievo-druzhkivka-again-byptptpt",
-  "titulo": "Will Russia enter Oleksiievo-Druzhkivka again by...?: October 31: 36% a 26% (−9 pp en 24 h)",
-  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
- },
- {
-  "ts": "2026-10-15T16:30:39Z",
-  "clave": "polymarket:5151716",
-  "url": "https://polymarket.com/event/next-israeli-minister-of-foreign-affairs",
-  "titulo": "Next Israeli Minister of Foreign Affairs?: No Next Minister by Feb 28: 34% a 40% (+7 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-15T16:30:39Z",
-  "clave": "kalshi:KXCABOUT-26MAY22-RFK",
-  "url": "https://kalshi.com/markets/kxcabout",
-  "titulo": "Who will leave Trump's Cabinet next?: Robert F. Kennedy Jr.: 18% a 12% (−6 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-15T16:30:39Z",
-  "clave": "kalshi:KXCABOUT-26MAY22-SWIL",
-  "url": "https://kalshi.com/markets/kxcabout",
-  "titulo": "Who will leave Trump's Cabinet next?: Susie Wiles: 6% a 30% (+24 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-15T16:30:39Z",
-  "clave": "kalshi:KXCAELECTION-2614-MHER",
-  "url": "https://kalshi.com/markets/kxcaelection",
-  "titulo": "CA-14 House winner?: Melissa Hernandez: 14% a 9% (−5 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-15T16:30:39Z",
-  "clave": "manifold:qgluPSESQd",
-  "url": "https://manifold.markets/Jack1/republicans-win-texas-governor-by-6",
-  "titulo": "Republicans win Texas governor by 6+ points?: 51% a 44% (−7 pp en 24 h)",
-  "desc": "Manifold. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-15T15:02:01Z",
-  "clave": "kalshi:KXHOUSETURNOUT-26NOV03-120",
-  "url": "https://kalshi.com/markets/kxhouseturnout",
-  "titulo": "2026 Midterms: U.S. House turnout?: 120 to 124.99 million: 20% a 14% (−5 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-15T14:57:01Z",
-  "clave": "polymarket:5572739",
-  "url": "https://polymarket.com/event/who-wins-the-senate-pending-hormuz-agreement-before-the-midterms",
-  "titulo": "Who wins the Senate pending Hormuz Agreement before the midterms?: No Hormuz Agreement: 84% a 89% (+5 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-15T14:57:01Z",
-  "clave": "kalshi:KXVOTEBR2-BRPRES26FBOL-48",
-  "url": "https://kalshi.com/markets/kxvotebr2",
-  "titulo": "Brazil presidential runoff: Flávio Bolsonaro vote percent: At least 48%: 98% a 93% (−6 pp en 24 h)",
-  "desc": "Kalshi. Tema: Elecciones en América Latina."
  }
 ]
