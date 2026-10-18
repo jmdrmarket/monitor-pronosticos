@@ -1,5 +1,54 @@
 [
  {
+  "ts": "2026-10-18T03:33:35Z",
+  "clave": "polymarket:2125870",
+  "url": "https://polymarket.com/event/which-states-will-use-new-congressional-maps-in-the-midterms",
+  "titulo": "Which states will use new congressional maps in the midterms?: Illinois: 3% a 9% (+6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-18T03:33:35Z",
+  "clave": "polymarket:2697991",
+  "url": "https://polymarket.com/event/will-the-house-pass-another-reconciliation-bill-byptptpt-20260626182351992",
+  "titulo": "¿Aprobará la Cámara de Representantes otra ley de reconciliación presupuestaria antes del 31 de diciembre?: 46% a 40% (−5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-18T03:33:35Z",
+  "clave": "polymarket:3399468",
+  "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+  "titulo": "¿Sigue vigente el alto el fuego entre Israel e Irán hasta el 31 de diciembre?: 44% a 52% (+7 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-18T03:33:35Z",
+  "clave": "polymarket:5697537",
+  "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+  "titulo": "¿Sigue vigente el alto el fuego entre Israel e Irán hasta el 18 de octubre?: 94% a 99% (+5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-18T03:33:35Z",
+  "clave": "kalshi:HOUSEVA2-26-D",
+  "url": "https://kalshi.com/markets/houseva2",
+  "titulo": "VA-02 House winner?: Elaine Luria: 86% a 91% (+5 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-18T03:33:35Z",
+  "clave": "kalshi:KXTRUMPSTATES-27JAN01-MN",
+  "url": "https://kalshi.com/markets/kxtrumpstates",
+  "titulo": "¿Qué estados visitará Trump en 2026?: Minnesota: 42% a 61% (+20 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-18T03:33:35Z",
+  "clave": "kalshi:KXPOPEVISIT-27JAN01-ARG",
+  "url": "https://kalshi.com/markets/kxpopevisit",
+  "titulo": "¿Qué países visitará el papa León XIV en 2026?: Argentina: 55% a 71% (+16 pp en 24 h)",
+  "desc": "Kalshi. Tema: Elecciones en América Latina."
+ },
+ {
   "ts": "2026-10-18T01:40:42Z",
   "clave": "polymarket:1171825",
   "url": "https://polymarket.com/event/taiwanese-premier-cho-jung-tai-out-by",
@@ -999,54 +1048,5 @@
   "url": "https://polymarket.com/event/israel-military-action-against-syria-byptptpt-21",
   "titulo": "Israel military action against Syria by...?: October 31: 21% a 14% (−6 pp en 24 h)",
   "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:5151782",
-  "url": "https://polymarket.com/event/next-israeli-minister-of-national-security",
-  "titulo": "Next Israeli Minister of National Security?: No Next Minister by Feb 28: 34% a 45% (+11 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:5237632",
-  "url": "https://polymarket.com/event/will-ukraine-target-moscow-on-october-2026",
-  "titulo": "¿Atacará Ucrania Moscú con drones o misiles el día 18 de octubre?: 74% a 80% (+6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:1132824",
-  "url": "https://polymarket.com/event/argentina-annual-inflation-2026",
-  "titulo": "Inflación anual de la Argentina en 2026: Entre 25% y 29,9%: 30% a 24% (−6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Elecciones en América Latina."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:1243901",
-  "url": "https://polymarket.com/event/brazil-annual-inflation-2026",
-  "titulo": "Inflación anual de Brasil en 2026: Entre 5,00% y 5,49%: 50% a 58% (+8 pp en 24 h)",
-  "desc": "Polymarket. Tema: Elecciones en América Latina."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:5340069",
-  "url": "https://polymarket.com/event/brazil-presidential-election-second-round-margin-of-victory",
-  "titulo": "Segunda vuelta en Brasil: margen de victoria: Flávio Bolsonaro, por 8 a 12 puntos: 5% a 10% (+5 pp en 24 h)",
-  "desc": "Polymarket. Tema: Elecciones en América Latina."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "kalshi:KXMIDTERMMOV-GASEND-P10",
-  "url": "https://kalshi.com/markets/kxmidtermmov",
-  "titulo": "Georgia Senate margin of victory: Ossoff, 10+ pts: 42% a 50% (+7 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "kalshi:KXMIDTERMMOV-FLSENR-P10",
-  "url": "https://kalshi.com/markets/kxmidtermmov",
-  "titulo": "Florida Senate margin of victory: Moody, 10+ pts: 36% a 40% (+5 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
  }
 ]
