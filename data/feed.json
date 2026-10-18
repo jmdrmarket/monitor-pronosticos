@@ -1,5 +1,110 @@
 [
  {
+  "ts": "2026-10-18T10:33:50Z",
+  "clave": "polymarket:1068741",
+  "url": "https://polymarket.com/event/how-many-democratic-house-incumbents-will-not-win-their-primary",
+  "titulo": "¿Cuántos representantes demócratas en ejercicio perderán su primaria?: 10 a 12: 94% a 81% (−14 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-18T10:33:50Z",
+  "clave": "polymarket:1105742",
+  "url": "https://polymarket.com/event/venezuela-leader-end-of-2026",
+  "titulo": "¿Quién será el jefe de Estado oficial de Venezuela a fin de 2026?: Delcy Rodríguez: 24% a 19% (−5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Elecciones en América Latina."
+ },
+ {
+  "ts": "2026-10-18T10:33:50Z",
+  "clave": "polymarket:2591184",
+  "url": "https://polymarket.com/event/russia-x-ukraine-peace-talks-byptptpt-20260609012540716",
+  "titulo": "¿Negociaciones de paz entre Rusia y Ucrania antes del 31 de diciembre?: 36% a 30% (−6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
+ },
+ {
+  "ts": "2026-10-18T10:33:50Z",
+  "clave": "polymarket:3089431",
+  "url": "https://polymarket.com/event/will-russia-capture-vodianske-byptptpt-20260724162613570",
+  "titulo": "Will Russia capture Vodianske by...?: December 31: 30% a 36% (+6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
+ },
+ {
+  "ts": "2026-10-18T10:33:50Z",
+  "clave": "polymarket:3121260",
+  "url": "https://polymarket.com/event/another-nato-article-4-byptptpt-20260726214235871",
+  "titulo": "¿Otra invocación del artículo 4 de la OTAN antes del 31 de diciembre?: 30% a 24% (−6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Europa."
+ },
+ {
+  "ts": "2026-10-18T10:33:50Z",
+  "clave": "polymarket:3553894",
+  "url": "https://polymarket.com/event/who-will-attend-a-round-of-us-iran-peace-talks-by-december-31-20260812153824803",
+  "titulo": "Who will attend a round of US-Iran peace talks by December 31?: Badr bin Hamad Al Busaidi: 14% a 25% (+11 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-18T10:33:50Z",
+  "clave": "polymarket:3553896",
+  "url": "https://polymarket.com/event/who-will-attend-a-round-of-us-iran-peace-talks-by-december-31-20260812153824803",
+  "titulo": "¿Quién participará en una ronda de negociaciones de paz entre EE. UU. e Irán antes del 31 de diciembre?: Ishaq Dar: 12% a 18% (+7 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-18T10:33:50Z",
+  "clave": "polymarket:4713483",
+  "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt",
+  "titulo": "¿Sigue vigente el alto el fuego entre EE. UU. e Irán hasta el 30 de noviembre?: 38% a 44% (+6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-18T10:33:50Z",
+  "clave": "polymarket:5105110",
+  "url": "https://polymarket.com/event/where-will-the-next-russia-x-ukraine-peace-talks-take-place",
+  "titulo": "Where will the next Russia x Ukraine peace talks take place?: UAE: 46% a 40% (−6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
+ },
+ {
+  "ts": "2026-10-18T10:33:50Z",
+  "clave": "polymarket:5167161",
+  "url": "https://polymarket.com/event/will-russia-target-kyiv-on-october-2026",
+  "titulo": "¿Atacará Rusia Kiev el 20 de octubre?: 90% a 84% (−6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
+ },
+ {
+  "ts": "2026-10-18T10:33:50Z",
+  "clave": "polymarket:5167230",
+  "url": "https://polymarket.com/event/who-will-trump-speak-to-by-october-31",
+  "titulo": "¿Con quién hablará Trump (en persona, por teléfono o video) antes del 31 de octubre?: Lula da Silva: 34% a 42% (+8 pp en 24 h)",
+  "desc": "Polymarket. Tema: Elecciones en América Latina, Estados Unidos."
+ },
+ {
+  "ts": "2026-10-18T10:33:50Z",
+  "clave": "polymarket:4824672",
+  "url": "https://polymarket.com/event/which-parties-will-be-in-the-next-israeli-government",
+  "titulo": "¿Qué partidos integrarán el próximo gobierno de Israel?: Ra'am: 16% a 32% (+16 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-18T10:33:50Z",
+  "clave": "kalshi:KXNEXTPRESSECPERM-29JAN20-SJEN",
+  "url": "https://kalshi.com/markets/kxnextpressecperm",
+  "titulo": "Who will be Trump's next Press Secretary?: Scott Jennings: 20% a 15% (−5 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-18T10:33:50Z",
+  "clave": "kalshi:KXTRUMPPARDON-27JAN01-GMAX",
+  "url": "https://kalshi.com/markets/kxtrumppardon",
+  "titulo": "Who will Trump pardon in 2026?: Ghislaine Maxwell: 10% a 4% (−6 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-18T10:33:50Z",
+  "clave": "kalshi:KXBERNIEENDORSE-26NOV03-NRAM",
+  "url": "https://kalshi.com/markets/kxbernieendorse",
+  "titulo": "Who will Bernie Sanders endorse before the midterms?: Nithya Raman: 11% a 19% (+8 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
   "ts": "2026-10-18T03:33:35Z",
   "clave": "polymarket:2125870",
   "url": "https://polymarket.com/event/which-states-will-use-new-congressional-maps-in-the-midterms",
@@ -943,110 +1048,5 @@
   "url": "https://polymarket.com/event/who-will-leave-trump-administration-before-2027",
   "titulo": "Who will leave Trump Administration before 2027?: Pete Hegseth: 21% a 28% (+7 pp en 24 h)",
   "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:972263",
-  "url": "https://polymarket.com/event/who-will-leave-trump-administration-before-2027",
-  "titulo": "Who will leave Trump Administration before 2027?: Kristi Noem: 32% a 37% (+5 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:1098288",
-  "url": "https://polymarket.com/event/maduro-prison-time-527",
-  "titulo": "¿Cuántos años de prisión para Maduro?: Sin prisión: 50% a 62% (+12 pp en 24 h)",
-  "desc": "Polymarket. Tema: Elecciones en América Latina."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:1285079",
-  "url": "https://polymarket.com/event/va-05-house-election-winner",
-  "titulo": "VA-05 House Election Winner: John McGuire (R): 76% a 70% (−5 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:2677115",
-  "url": "https://polymarket.com/event/will-russia-enter-khatnie-by",
-  "titulo": "Will Russia enter Khatnie by...?: December 31: 28% a 38% (+9 pp en 24 h)",
-  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:2100981",
-  "url": "https://polymarket.com/event/israeli-legislative-election-winner",
-  "titulo": "Elecciones legislativas en Israel: partido ganador: Likud: 40% a 34% (−6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:2100984",
-  "url": "https://polymarket.com/event/israeli-legislative-election-winner",
-  "titulo": "Elecciones legislativas en Israel: partido ganador: Yashar: 60% a 66% (+6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:2125873",
-  "url": "https://polymarket.com/event/which-states-will-use-new-congressional-maps-in-the-midterms",
-  "titulo": "Which states will use new congressional maps in the midterms?: Maryland: 2% a 30% (+27 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:2332981",
-  "url": "https://polymarket.com/event/who-will-be-the-next-to-leave-the-trump-cabinet-474",
-  "titulo": "Who will be the next to leave the Trump Cabinet?: None before 2027: 54% a 43% (−11 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:2364962",
-  "url": "https://polymarket.com/event/where-will-trump-and-putin-meet-next-678",
-  "titulo": "¿Dónde será la próxima reunión entre Trump y Putin en 2026?: China: 78% a 72% (−5 pp en 24 h)",
-  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania, Estados Unidos."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:2682267",
-  "url": "https://polymarket.com/event/will-congress-override-any-veto-in-2026-20260624150337322",
-  "titulo": "Will Congress override any veto in 2026?: 9% a 24% (+15 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:2697991",
-  "url": "https://polymarket.com/event/will-the-house-pass-another-reconciliation-bill-byptptpt-20260626182351992",
-  "titulo": "¿Aprobará la Cámara de Representantes otra ley de reconciliación presupuestaria antes del 31 de diciembre?: 32% a 38% (+5 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:3358720",
-  "url": "https://polymarket.com/event/who-will-trump-endorse-for-president-of-brazil-20260803210809",
-  "titulo": "¿A quién respaldará Trump para presidente de Brasil?: Flávio Bolsonaro: 16% a 23% (+6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Elecciones en América Latina, Estados Unidos."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:2374243",
-  "url": "https://polymarket.com/event/will-ukraine-re-enter-obratne-or-temyrivka-by-march-31",
-  "titulo": "Will Ukraine re-enter Obratne or Temyrivka by...?: December 31: 35% a 44% (+9 pp en 24 h)",
-  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:2232192",
-  "url": "https://polymarket.com/event/which-cities-will-russia-enter-by-december-31",
-  "titulo": "¿En qué ciudades entrará Rusia antes del 31 de diciembre?: Druzhkivka: 36% a 30% (−6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
- },
- {
-  "ts": "2026-10-16T16:16:00Z",
-  "clave": "polymarket:4839196",
-  "url": "https://polymarket.com/event/israel-military-action-against-syria-byptptpt-21",
-  "titulo": "Israel military action against Syria by...?: October 31: 21% a 14% (−6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
  }
 ]
