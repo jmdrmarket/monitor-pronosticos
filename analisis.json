@@ -1,73 +1,70 @@
 {
- "fecha": "2026-10-18T22:39:00-03:00",
- "numeros_de": "2026-10-18T20:15:27Z",
+ "fecha": "2026-10-19T22:39:00-03:00",
+ "numeros_de": "2026-10-19T22:05:44Z",
  "temas": {
   "Medio Oriente": {
    "texto": [
-    "La elección israelí del 27/10 fue lo que más se movió el domingo. Gadi Eizenkot como próximo primer ministro bajó en Polymarket de 52% a 46% en un día, y Benjamin Netanyahu subió a 32%. Como partido con más bancas, en cambio, Yashar, el de Eizenkot, sigue en 68% contra 32% del Likud: son dos preguntas distintas, porque la de bancas no dice quién arma el gobierno. Las treguas siguen altas: la de Estados Unidos con Irán, vigente hasta el 31/10, subió a 82%, y la de Israel con Irán está en 86%. Que los hutíes pierdan la isla de Perim antes del 31/10 quedó en 6%.",
-    "La baja de Eizenkot coincide con el respaldo público de Trump a Netanyahu del 18/10: escribió que si Israel elige a otro, Estados Unidos tendrá que ocuparse solo de Irán (Times of Israel y Al Jazeera, 18/10). Ese mismo día, el canciller iraní repitió su plan de reabrir Ormuz en seis días si Washington acepta sus condiciones, y un funcionario estadounidense llamó «constructivas» las conversaciones (The Hill, 18/10). En Yemen, el Consejo de Defensa egipcio aprobó dar apoyo a Arabia Saudita (presidencia egipcia vía The National, 18/10), pero el Parlamento postergó el voto al lunes o al martes (AFP vía The New Arab, 18/10)."
+    "A ocho días de la elección israelí del 27/10, Gadi Eizenkot volvió a subir como próximo primer ministro: 51% en Polymarket, 6 puntos más en el día, contra 28% de Benjamin Netanyahu. Yashar, su partido, está en 72% como el más votado, y que el Likud saque menos de 20 bancas subió 15 puntos, a 39%. Las treguas bajaron un poco: la de Estados Unidos con Irán hasta el 31/10 está en 80%, y la de Israel con Irán, en 84%. Que Washington anuncie el fin del bloqueo a Irán antes de que Irán y Omán anuncien un acuerdo sobre Ormuz subió 14 puntos, a 45%; la pregunta solo paga si el anuncio estadounidense llega primero.",
+    "La subida de Eizenkot revierte la baja del domingo sin una noticia que la explique. El 19/10, el secretario de Guerra Pete Hegseth llegó a Israel sin anuncio y se reunió con Netanyahu; según Axios, para hablar de reanudar las operaciones conjuntas contra Irán (Axios vía Al Jazeera, 19/10). El Pentágono no comentó. En Yemen, misiles hutíes cayeron sobre un campamento militar de Shabwa con entre 18 y 53 muertos según la fuente y la hora (Reuters y AFP, 19/10), y el Parlamento egipcio pasó al 26/10 el voto sobre el apoyo a Arabia Saudita (Anadolu, 19/10)."
    ],
    "fuentes": [
-    {"nombre": "Polymarket: reglas del partido con más bancas en Israel"},
-    {"nombre": "Times of Israel y Al Jazeera, respaldo de Trump a Netanyahu, 18/10"},
-    {"nombre": "The Hill, plan iraní de siete días para Ormuz, 18/10"},
-    {"nombre": "The National, comunicado de la presidencia egipcia, 18/10"},
-    {"nombre": "The New Arab (AFP), postergación del voto en el Parlamento egipcio, 18/10"}
+    {"nombre": "Polymarket: reglas del fin del bloqueo antes del acuerdo Irán–Omán"},
+    {"nombre": "Al Jazeera, visita de Hegseth según Axios, 19/10"},
+    {"nombre": "Reuters y AFP, ataque en Shabwa, 19/10"},
+    {"nombre": "Middle East Monitor (Anadolu), postergación del voto egipcio, 19/10"}
    ]
   },
   "Estados Unidos": {
    "texto": [
-    "A dos semanas de las legislativas del 3/11, la Cámara sigue casi definida en los precios: los demócratas cotizan 90% en Kalshi. En el Senado por Texas, James Talarico está en 60% y Ken Paxton en 38%. Para 2028, J. D. Vance tiene 46% de la candidatura republicana en Polymarket; del lado demócrata, Gavin Newsom 16% y Alexandria Ocasio-Cortez 15%. Lo que saltó el domingo fue la emergencia electoral: que Trump firme una declaración de emergencia nacional sobre las legislativas antes del 4/11 pasó de 13% a 23% en Kalshi, y una emergencia por interferencia electoral antes de fin de año, de 21% a 28% en Polymarket.",
-    "Las dos exigen un documento firmado por Trump. La de Kalshi pide una orden con efecto legal que trate expresamente las legislativas; la de Polymarket, una declaración bajo la ley de emergencias nacionales que nombre la interferencia electoral, y no cuenta renovaciones de emergencias anteriores. No apareció ninguna noticia que explique la suba. También subió, sin anuncio detrás, la salida de la jefa de gabinete Susie Wiles antes de 2027: 36% en Polymarket, 18 puntos más en la semana. Lo próximo es la reunión de la Reserva Federal del 27 y 28/10."
+    "A dos semanas de las legislativas del 3/11, los demócratas siguen en 90% para ganar la Cámara en Kalshi. En Texas, Ken Paxton está en 38% para la banca del Senado. Para 2028, J. D. Vance bajó a 44% como candidato republicano en Polymarket; del lado demócrata, Gavin Newsom tiene 16% y Alexandria Ocasio-Cortez 15%. La declaración de emergencia nacional sobre las legislativas antes del 4/11 devolvió la suba del domingo y volvió a 12% en Kalshi. La salida de la jefa de gabinete Susie Wiles antes de 2027 sigue alta: 41% en Polymarket y 42% en Kalshi para 2026, unos 20 puntos más en la semana.",
+    "Ni la ida y vuelta de la emergencia electoral ni la suba de Wiles tienen un anuncio detrás. Tampoco lo tiene el salto del día en Minnesota: que la elección al Senado allí se defina por menos de 5 puntos subió 25 puntos, a 60%. El dato de la semana es la aprobación de Trump, que cayó a 31%, su mínimo, por el precio de la nafta, según Reuters/Ipsos (Reuters, 19/10). Lo próximo es la reunión de la Reserva Federal del 27 y 28/10."
    ],
    "fuentes": [
-    {"nombre": "Kalshi: reglas de la emergencia nacional por las legislativas"},
-    {"nombre": "Polymarket: reglas de la emergencia por interferencia electoral"}
+    {"nombre": "Reuters/Ipsos, aprobación de Trump, 19/10"},
+    {"nombre": "Kalshi: reglas de la emergencia nacional por las legislativas"}
    ]
   },
   "China y Taiwán": {
    "texto": [
-    "El riesgo de guerra no se movió y crece con el plazo: una invasión china de Taiwán cotiza 2% para fin de 2026, 6% para mediados de 2027 y 10% para fin de 2027 en Polymarket. En Manifold, que opera con dinero ficticio, una invasión a gran escala antes de 2030 está en 30%. Un choque militar antes de 2027 está en 4%, y un bloqueo en 2026, en 3%. En las elecciones locales del 29/11, el Kuomintang como gran ganador recuperó 6 puntos en el día, a 66%, después de haber caído desde 86% en la semana; el Partido Democrático Progresista está en 32%.",
-    "Ni la caída del Kuomintang ni su recuperación del domingo tienen una encuesta o un hecho de campaña confirmado detrás. Lo que toca a China en la semana es diplomático: The Wall Street Journal informó el 18/10 que Putin propuso a Trump una cumbre a tres con Xi Jinping el mes próximo para negociar el fin de la guerra en Ucrania. El Kremlin confirmó que se discute un encuentro, y un funcionario estadounidense dijo que Trump no aceptó (Bloomberg, 18/10). La próxima prueba sigue siendo el 29/11."
+    "El riesgo de guerra sigue quieto y crece con el plazo: una invasión china de Taiwán cotiza 2% para fin de 2026, 6% para mediados de 2027 y 10% para fin de 2027 en Polymarket. En Manifold, que opera con dinero ficticio, una invasión a gran escala antes de 2030 está en 30%. Un choque militar antes de 2027 y un bloqueo en 2026 están en 3% y 2%. En las elecciones locales del 29/11, el Kuomintang como gran ganador está en 68% y el Partido Democrático Progresista en 31%, después de una semana en la que el primero perdió 14 puntos.",
+    "La caída del Kuomintang en la semana no tiene una encuesta ni un hecho de campaña confirmado detrás. Lo que toca a China es diplomático: el 19/10 Trump dijo que haría «cualquier cosa» para terminar la guerra en Ucrania y que una reunión con Xi Jinping y Putin sería en China (CNBC, 19/10). Marco Rubio dijo ese día que se habló del encuentro pero que no sabe si está acordado. China recibe la cumbre de APEC en Shenzhen el 18 y 19/11."
    ],
    "fuentes": [
-    {"nombre": "Bloomberg, propuesta de cumbre Trump-Putin-Xi según The Wall Street Journal, 18/10"}
+    {"nombre": "CNBC, declaraciones de Trump sobre la reunión con Xi y Putin, 19/10"}
    ]
   },
   "Elecciones en América Latina": {
    "texto": [
-    "En Brasil, Flávio Bolsonaro recuperó 3 puntos en el día y está en 80% en Polymarket para ganar la segunda vuelta del 25/10; Lula, en 20%. La pregunta quedó fechada en la primera vuelta, pero sus reglas incluyen la segunda. El margen esperado se achicó en la semana: una victoria de Flávio por menos de 4 puntos subió a 40%, y por 4 a 8, bajó a 32%. En Venezuela, Maduro como jefe de Estado oficial a fin de año está en 72% en Polymarket y 78% en Kalshi; Delcy Rodríguez, en 22% y 18%, con una baja de 6 puntos en Kalshi sin noticia confirmada detrás. Que el papa León XIV visite la Argentina en 2026 subió a 84% en Kalshi.",
-    "El margen más chico de Brasil viene de dos encuestas de empate técnico: Quaest, 46 a 44 el 14/10, y Datafolha, 47 a 45 el 15/10. El debate de Band se hizo la noche del 18/10 y todavía no hay encuesta posterior. La suba del Papa sigue a su alta del 17/10, después de una cirugía, con la gira sin cambios (BBC y Reuters, 17/10). Las cifras de Venezuela miden el cargo formal, no quién gobierna, según aclaró Kalshi el 15/4. Lo próximo es el debate de Globo del 23/10."
+    "En Brasil, Flávio Bolsonaro bajó a 77% en Polymarket para ganar la segunda vuelta del 25/10, 10 puntos menos que hace siete días; Lula subió a 24%. La pregunta quedó fechada en la primera vuelta, pero sus reglas incluyen la segunda. El margen esperado sigue achicándose: una victoria de Flávio por menos de 4 puntos subió a 46%, y por 4 a 8, bajó a 24%. En Kalshi, Flávio por 0 a 3 puntos está en 33%. En Venezuela, Maduro como jefe de Estado oficial a fin de año está en 73% en Polymarket y 77% en Kalshi; Delcy Rodríguez, en 18% y 19%. Un ataque de Estados Unidos contra Colombia antes de fin de año cotiza 24%.",
+    "La baja de Flávio llega sin encuesta nueva: el último dato son los empates técnicos de Quaest (14/10) y Datafolha (15/10), y la única novedad fue el debate de Band del 18/10. Las primeras encuestas posteriores salen esta semana: Real Time Big Data el 20/10, Quaest el 21/10 y Datafolha el 22/10 (Band, 19/10); el debate de Globo es el 23/10. Las cifras de Venezuela miden el cargo formal, no quién gobierna, según aclaró Kalshi el 15/4."
    ],
    "fuentes": [
+    {"nombre": "Band, calendario de encuestas posteriores al debate, 19/10"},
     {"nombre": "Poder360, encuesta Quaest, 14/10"},
     {"nombre": "Brasil de Fato, encuesta Datafolha, 15/10"},
-    {"nombre": "Band, debate de la segunda vuelta, 18/10"},
-    {"nombre": "BBC y Reuters, alta del papa León XIV, 17/10"},
     {"nombre": "Kalshi: reglas y aclaración del 15/4/2026", "url": "https://kalshi.com/markets/kxvenezuelaleader"}
    ]
   },
   "Guerra Rusia–Ucrania": {
    "texto": [
-    "Las preguntas de diplomacia se quedaron abajo después de la caída de la semana. Que haya negociaciones de paz entre Rusia y Ucrania antes de fin de año está en 32% en Polymarket, 23 puntos menos que hace siete días, y antes del 30/11, en 19%. Una reunión presencial, aunque sea con mediadores, antes del 31/10, bajó a 14%. Un alto el fuego antes de fin de año está en 12%, y si tiene que durar al menos 10 días, en 10%. En el frente, que Rusia tome Vodianske antes de fin de año subió 8 puntos en el día, a 38%, sin un parte confirmado detrás. Que Ucrania ataque Moscú el 20 y el 21/10 cotiza 76% y 80%.",
-    "El domingo trajo señales en los dos sentidos. The Wall Street Journal informó que Putin propuso a Trump una cumbre a tres con Xi, sin Zelenski; el Kremlin confirmó que se discute y Washington dijo que Trump no aceptó (Bloomberg, 18/10). Trump escribió que Zelenski «no quiere terminar la guerra» (Kyiv Independent, 18/10). La noche del 17 al 18/10, Ucrania atacó San Petersburgo, con incendio en la terminal petrolera y un muerto según el gobernador (Kyiv Independent y Reuters, 18/10). No está claro si los precios ya recogen la propuesta de cumbre."
+    "Las preguntas de diplomacia rebotaron el lunes. Que haya negociaciones de paz entre Rusia y Ucrania antes de fin de año subió 8 puntos en Polymarket, a 40%, aunque sigue 12 por debajo de hace una semana. Un acuerdo de alto el fuego antes de fin de año subió a 18%; si tiene que durar al menos 10 días, está en 12%, porque el primero paga con la firma. Que no haya otra reunión entre Trump y Putin este año bajó a 13%. Que Ucrania ataque Moscú con drones o misiles el 20/10 cotiza 84%, y el 21/10, 76%.",
+    "El 19/10 Trump dijo que «es hora de que otro negocie por Ucrania» y que se reuniría con Xi y Putin en China, esté quien esté (CNBC, 19/10); el Kremlin respondió que no hay acuerdo posible sin alguien de Kiev que lo firme (Ukrainska Pravda, 19/10). La noche anterior, Rusia lanzó 16 misiles balísticos sobre Kiev y su región, y 550.000 hogares quedaron sin luz según Zelenski (Kyiv Independent, 19/10). En Nova Vodolaha, en Járkov, un ataque mató a seis personas, entre ellas dos chicos (administración regional, 19/10). Kiev dice además que Washington demora un lote de Patriot ya pagado; no hay anuncio estadounidense."
    ],
    "fuentes": [
-    {"nombre": "Bloomberg, propuesta de cumbre según The Wall Street Journal, 18/10"},
-    {"nombre": "Kyiv Independent, mensaje de Trump sobre Zelenski, 18/10"},
-    {"nombre": "Kyiv Independent y Reuters, ataque sobre San Petersburgo, 18/10"}
+    {"nombre": "CNBC, declaraciones de Trump, 19/10"},
+    {"nombre": "Ukrainska Pravda, declaración de Peskov, 19/10"},
+    {"nombre": "Kyiv Independent, ataque sobre Kiev y Patriot demorados, 19/10"},
+    {"nombre": "UNITED24 Media, administración de Járkov sobre Nova Vodolaha, 19/10"}
    ]
   },
   "Europa": {
    "texto": [
-    "El choque militar entre la OTAN y Rusia antes de fin de año devolvió parte de la suba del sábado: bajó de 30% a 26% en Polymarket, y antes del 31/10, a 8%. En Francia, Marine Le Pen está en 48% en Polymarket y en Kalshi para la presidencial de 2027, seguida por Édouard Philippe (20%), David Lisnard (12%) y Jean-Luc Mélenchon (10%). Que Francia apruebe un presupuesto antes de fin de año subió a 60%, 15 puntos más en la semana. En España, Alberto Núñez Feijóo sigue en 82% como próximo presidente del Gobierno, y que la AfD entre al gobierno de algún estado alemán está en 42%.",
-    "La baja del choque coincide con otro incidente que terminó sin atribución a Rusia: un objeto, probablemente un dron, entró a Lituania y explotó el 18/10, y la cancillería ucraniana dijo que «probablemente» era un dron suyo desviado por la guerra electrónica rusa, y pidió disculpas (Kyiv Independent y Ukrainska Pravda, 18/10). Las reglas piden fuego directo entre fuerzas de los dos lados. En Francia, la jornada contra el costo de vida del 17/10 reunió entre 550.000 y 800.000 personas según policía y organizadores (BFMTV, 18/10); la suba del presupuesto no tiene una noticia confirmada detrás."
+    "El choque militar entre la OTAN y Rusia antes de fin de año siguió bajando, a 24% en Polymarket, y antes del 31/10 está en 8%. En Francia, Marine Le Pen cotiza 46% en Polymarket y 52% en Kalshi para la próxima presidencial, 5 puntos más en el día en la segunda; Édouard Philippe sigue con 18%. Que Francia apruebe un presupuesto antes de fin de año está en 60%. En España, Alberto Núñez Feijóo sigue en 81% como próximo presidente del Gobierno, y que Carles Puigdemont vuelva al país antes de fin de año cayó 28 puntos en el día, a 62%. Que la AfD entre al gobierno de algún estado alemán está en 44%.",
+    "La suba de Le Pen en Kalshi coincide con los disturbios en Francia: el 19/10 hubo toques de queda nocturnos en zonas de París, en Lyon, en Niza y en ciudades del norte, en parte solo para menores (BBC, 19/10). La caída de Puigdemont no tiene una noticia confirmada detrás. Las dos preguntas de Le Pen tienen plazos distintos: la de Polymarket cierra en abril de 2027 y la de Kalshi, en mayo de 2028."
    ],
    "fuentes": [
-    {"nombre": "Kyiv Independent, dron en Lituania, 18/10"},
-    {"nombre": "Ukrainska Pravda, declaración de la cancillería ucraniana, 18/10"},
-    {"nombre": "Polymarket: reglas del choque militar OTAN–Rusia"},
-    {"nombre": "BFMTV, cifras de la jornada del 17/10"}
+    {"nombre": "BBC, toques de queda en Francia, 19/10"},
+    {"nombre": "Polymarket: reglas del choque militar OTAN–Rusia"}
    ]
   }
  }
