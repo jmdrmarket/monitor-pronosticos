@@ -1,5 +1,264 @@
 [
  {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:665319",
+  "url": "https://polymarket.com/event/how-many-gold-cards-will-trump-sell-in-2026",
+  "titulo": "How many Gold Cards will Trump sell in 2026?: 1k-2.5k: 21% a 12% (−8 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:665409",
+  "url": "https://polymarket.com/event/will-trump-cut-corporate-taxes-before-2027",
+  "titulo": "Will Trump cut corporate taxes before 2027?: 8% a 3% (−6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:666664",
+  "url": "https://polymarket.com/event/who-will-leave-trump-administration-before-2027",
+  "titulo": "Who will leave Trump Administration before 2027?: Lee Zeldin: 8% a 13% (+6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:948387",
+  "url": "https://polymarket.com/event/who-will-leave-trump-administration-before-2027",
+  "titulo": "¿Quién dejará el gobierno de Trump antes de 2027?: Susie Wiles: 38% a 32% (−6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:682956",
+  "url": "https://polymarket.com/event/will-republicans-lose-a-seat-in-the-us-senate-for-any-state-trump-won-in-2024",
+  "titulo": "Will Republicans lose a seat in the US Senate for any state Trump won in 2024?: 80% a 95% (+15 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:734885",
+  "url": "https://polymarket.com/event/which-states-will-donald-trump-visit-in-2026",
+  "titulo": "¿Qué estados visitará Trump en 2026?: New Hampshire: 46% a 52% (+6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:919491",
+  "url": "https://polymarket.com/event/republican-house-seats-after-the-2026-midterm-elections",
+  "titulo": "Republican House seats after the 2026 midterm elections?: 195-199: 16% a 12% (−5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:3187537",
+  "url": "https://polymarket.com/event/will-mara-corina-machado-enter-venezuela-by-january-31",
+  "titulo": "¿Entra María Corina Machado a Venezuela antes del 31 de diciembre?: 32% a 25% (−8 pp en 24 h)",
+  "desc": "Polymarket. Tema: Elecciones en América Latina."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:1284082",
+  "url": "https://polymarket.com/event/nc-13-house-election-winner",
+  "titulo": "NC-13 House Election Winner: Paul Barringer (D): 22% a 44% (+22 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:2125853",
+  "url": "https://polymarket.com/event/which-states-will-use-new-congressional-maps-in-the-midterms",
+  "titulo": "Which states will use new congressional maps in the midterms?: California: 98% a 93% (−5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:3399472",
+  "url": "https://polymarket.com/event/total-internet-blackout-in-iran-byptptpt-20260720155238426",
+  "titulo": "¿Apagón total de internet en Irán (según Cloudflare Radar) antes del 31 de diciembre?: 36% a 24% (−12 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:3408667",
+  "url": "https://polymarket.com/event/hi-01-house-margin-of-victory-2026",
+  "titulo": "HI-01 House Election Margin of Victory: Democrat 45-50%: 14% a 26% (+12 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:3488605",
+  "url": "https://polymarket.com/event/il-15-house-margin-of-victory-2026",
+  "titulo": "Cámara de Representantes, distrito 15 de Illinois: margen de victoria: Partido Republicano, por 30 a 35 puntos: 16% a 26% (+10 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:3489841",
+  "url": "https://polymarket.com/event/ky-04-house-margin-of-victory-2026",
+  "titulo": "Cámara de Representantes, distrito 4 de Kentucky: margen de victoria: Partido Republicano, por 20 a 25 puntos: 19% a 25% (+7 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:3515949",
+  "url": "https://polymarket.com/event/iowa-senate-and-governor-combo-20260810203009113",
+  "titulo": "Iowa Senate and Governor Combo: Dems win Gov, Reps win Senate: 52% a 47% (−5 pp en 24 h)",
+  "desc": "Polymarket. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:5151609",
+  "url": "https://polymarket.com/event/next-israeli-minister-of-defense",
+  "titulo": "Next Israeli Minister of Defense?: Avigdor Lieberman: 8% a 16% (+8 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:5151637",
+  "url": "https://polymarket.com/event/next-israeli-minister-of-defense",
+  "titulo": "Next Israeli Minister of Defense?: No Next Minister by Feb 28: 31% a 39% (+7 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:5151749",
+  "url": "https://polymarket.com/event/next-israeli-minister-of-justice",
+  "titulo": "¿Quién será el próximo ministro de Justicia de Israel?: Sin nuevo ministro antes del 28 de febrero: 68% a 46% (−22 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:5167170",
+  "url": "https://polymarket.com/event/will-russia-target-kyiv-on-october-2026",
+  "titulo": "¿Atacará Rusia Kiev el 29 de octubre?: 80% a 88% (+8 pp en 24 h)",
+  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:4824670",
+  "url": "https://polymarket.com/event/which-parties-will-be-in-the-next-israeli-government",
+  "titulo": "¿Qué partidos integrarán el próximo gobierno de Israel?: Yashar: 66% a 57% (−10 pp en 24 h)",
+  "desc": "Polymarket. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:5339882",
+  "url": "https://polymarket.com/event/brazil-presidential-election-second-round-turnout",
+  "titulo": "Brazil Presidential Election Second Round: Turnout: 78-80%: 50% a 58% (+7 pp en 24 h)",
+  "desc": "Polymarket. Tema: Elecciones en América Latina."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:5340071",
+  "url": "https://polymarket.com/event/brazil-presidential-election-second-round-margin-of-victory",
+  "titulo": "Segunda vuelta en Brasil: margen de victoria: Flávio Bolsonaro, por menos de 4 puntos: 40% a 46% (+6 pp en 24 h)",
+  "desc": "Polymarket. Tema: Elecciones en América Latina."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "polymarket:5371646",
+  "url": "https://polymarket.com/event/brazil-presidential-election-second-round-any-candidate-gets-most-votes-ever",
+  "titulo": "Brazil Presidential Election Second Round: Any Candidate Gets Most Votes Ever?: 73% a 85% (+12 pp en 24 h)",
+  "desc": "Polymarket. Tema: Elecciones en América Latina."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "kalshi:KXMIDTERMMOV-NCSEND-P9",
+  "url": "https://kalshi.com/markets/kxmidtermmov",
+  "titulo": "Senado por Carolina del Norte: margen de victoria: Cooper, por 9 puntos o más: 82% a 88% (+6 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "kalshi:KXMIDTERMMOV-NCSEND-P13",
+  "url": "https://kalshi.com/markets/kxmidtermmov",
+  "titulo": "North Carolina Senate margin of victory: Cooper, 13+ pts: 52% a 60% (+8 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "kalshi:KXMIDTERMMOV-NCSEND-P15",
+  "url": "https://kalshi.com/markets/kxmidtermmov",
+  "titulo": "North Carolina Senate margin of victory: Cooper, 15+ pts: 32% a 46% (+14 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "kalshi:KXMIDTERMMOV-NCSEND-P17",
+  "url": "https://kalshi.com/markets/kxmidtermmov",
+  "titulo": "North Carolina Senate margin of victory: Cooper, 17+ pts: 22% a 26% (+5 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "kalshi:KXIASENGOVCOMBO-26NOV-DEMREP",
+  "url": "https://kalshi.com/markets/kxiasengovcombo",
+  "titulo": "Iowa Governor-Senate combo: Rob Sand and Ashley Hinson win: 52% a 48% (−5 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "kalshi:KXBRPRES2MOV-26OCT25-FBOL-P1",
+  "url": "https://kalshi.com/markets/kxbrpres2mov",
+  "titulo": "Segunda vuelta presidencial en Brasil: margen de victoria: Flávio Bolsonaro, por 0 a 3 puntos: 42% a 32% (−10 pp en 24 h)",
+  "desc": "Kalshi. Tema: Elecciones en América Latina."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "kalshi:KXAKMOV-AKSENATE26NOV03-MPEL-P4",
+  "url": "https://kalshi.com/markets/kxakmov",
+  "titulo": "Alaska Senate election margin of victory: Mary Peltola, 3-6%: 22% a 29% (+6 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "kalshi:KXFRPRES1R1ST-27-1-MLEP",
+  "url": "https://kalshi.com/markets/kxfrpres1r1st",
+  "titulo": "Próxima presidencial francesa: ¿quién sale primero en la primera vuelta?: Marine Le Pen: 88% a 82% (−6 pp en 24 h)",
+  "desc": "Kalshi. Tema: Europa."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "kalshi:KXDHOUSEWON-26NOV03-AL250",
+  "url": "https://kalshi.com/markets/kxdhousewon",
+  "titulo": "How many House seats will Democrats win in the Midterms?: At least 250: 15% a 20% (+5 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "kalshi:KXHOUSERACE-NC03-26-D",
+  "url": "https://kalshi.com/markets/kxhouserace",
+  "titulo": "NC-03 House winner?: Raymond Smith Jr.: 28% a 34% (+5 pp en 24 h)",
+  "desc": "Kalshi. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "kalshi:KXUSAIRANAGREEMENT-27-27MAR",
+  "url": "https://kalshi.com/markets/kxusairanagreement",
+  "titulo": "¿Acuerdo nuclear entre EE. UU. e Irán?: Antes del 1 de marzo de 2027: 24% a 18% (−6 pp en 24 h)",
+  "desc": "Kalshi. Tema: Medio Oriente."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "kalshi:KXMACHADOVENEZUELA-26JUN29-JAN01",
+  "url": "https://kalshi.com/markets/kxmachadovenezuela",
+  "titulo": "Will María Corina Machado visit Venezuela?: Before Jan 1, 2027: 34% a 28% (−7 pp en 24 h)",
+  "desc": "Kalshi. Tema: Elecciones en América Latina."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "manifold:Zn8qzU9ERZ",
+  "url": "https://manifold.markets/GeorgElgeback/will-trump-change-his-mind-on-ai-be",
+  "titulo": "Will Trump change his mind on AI before 2027?: 48% a 27% (−21 pp en 24 h)",
+  "desc": "Manifold. Tema: Estados Unidos."
+ },
+ {
+  "ts": "2026-10-25T10:56:08Z",
+  "clave": "manifold:A9hC8NPQnn",
+  "url": "https://manifold.markets/Jack1/will-democrats-win-the-texas-gubern",
+  "titulo": "Will Democrats win the Texas Gubernatorial election?: 29% a 35% (+6 pp en 24 h)",
+  "desc": "Manifold. Tema: Estados Unidos."
+ },
+ {
   "ts": "2026-10-25T03:41:47Z",
   "clave": "polymarket:665320",
   "url": "https://polymarket.com/event/how-many-gold-cards-will-trump-sell-in-2026",
@@ -789,264 +1048,5 @@
   "url": "https://kalshi.com/markets/kxhouserace",
   "titulo": "NC-03 House winner?: Greg Murphy: 79% a 72% (−8 pp en 24 h)",
   "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T10:29:10Z",
-  "clave": "kalshi:KXTRUMPSTATES-27JAN01-MN",
-  "url": "https://kalshi.com/markets/kxtrumpstates",
-  "titulo": "¿Qué estados visitará Trump en 2026?: Minnesota: 62% a 70% (+8 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:2749311",
-  "url": "https://polymarket.com/event/foreign-intervention-in-gaza-by",
-  "titulo": "Foreign intervention in Gaza by..?: December 31: 15% a 6% (−10 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:734893",
-  "url": "https://polymarket.com/event/which-states-will-donald-trump-visit-in-2026",
-  "titulo": "Which states will Donald Trump visit in 2026?: Oregon: 26% a 18% (−8 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:907689",
-  "url": "https://polymarket.com/event/how-many-republican-governors-after-the-2026-midterm-elections",
-  "titulo": "How many Republican Governors after the 2026 midterm elections?: 26–27: 15% a 9% (−6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:919491",
-  "url": "https://polymarket.com/event/republican-house-seats-after-the-2026-midterm-elections",
-  "titulo": "Republican House seats after the 2026 midterm elections?: 195-199: 10% a 17% (+8 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:1283288",
-  "url": "https://polymarket.com/event/ia-02-house-election-winner",
-  "titulo": "IA-02 House Election Winner: Joe Mitchell (R): 34% a 27% (−7 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:1283289",
-  "url": "https://polymarket.com/event/ia-02-house-election-winner",
-  "titulo": "IA-02 House Election Winner: Lindsay James (D): 64% a 72% (+9 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:1284009",
-  "url": "https://polymarket.com/event/nc-03-house-election-winner",
-  "titulo": "NC-03 House Election Winner: Greg Murphy (R): 80% a 68% (−12 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:2677115",
-  "url": "https://polymarket.com/event/will-russia-enter-khatnie-by",
-  "titulo": "¿Entra Rusia en Khatnie antes del...?: 31 de diciembre: 26% a 22% (−5 pp en 24 h)",
-  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:3192168",
-  "url": "https://polymarket.com/event/how-many-israeli-elections-before-government-formed-20260728195012183",
-  "titulo": "How many Israeli elections before government formed?: 2: 32% a 39% (+6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:3207080",
-  "url": "https://polymarket.com/event/which-senate-races-will-be-within-5-20260727153827321",
-  "titulo": "¿Qué elecciones al Senado se definirán por menos de 5 puntos?: Minnesota: 47% a 40% (−7 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:3344125",
-  "url": "https://polymarket.com/event/south-carolina-senate-margin-of-victory-2026",
-  "titulo": "South Carolina Senate Election Margin of Victory: Graham 5-10%: 52% a 36% (−15 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:3358720",
-  "url": "https://polymarket.com/event/who-will-trump-endorse-for-president-of-brazil-20260803210809",
-  "titulo": "¿A quién respaldará Trump para presidente de Brasil?: Flávio Bolsonaro: 19% a 12% (−6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Elecciones en América Latina, Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:3489841",
-  "url": "https://polymarket.com/event/ky-04-house-margin-of-victory-2026",
-  "titulo": "Cámara de Representantes, distrito 4 de Kentucky: margen de victoria: Partido Republicano, por 20 a 25 puntos: 28% a 17% (−11 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:3520348",
-  "url": "https://polymarket.com/event/ok-03-house-margin-of-victory-2026",
-  "titulo": "OK-03 House Election Margin of Victory: Republican 25-30%: 19% a 12% (−7 pp en 24 h)",
-  "desc": "Polymarket. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:6044505",
-  "url": "https://polymarket.com/event/nato-x-russia-military-clash-in-2025",
-  "titulo": "¿Choque militar entre la OTAN y Rusia antes del 15 de noviembre?: 19% a 8% (−12 pp en 24 h)",
-  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania, Europa."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:2757806",
-  "url": "https://polymarket.com/event/iran-charges-hormuz-fees-byptptpt-20260625175035466",
-  "titulo": "¿Cobra Irán peaje por cruzar Ormuz antes del 31 de octubre?: 8% a 3% (−5 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:4119722",
-  "url": "https://polymarket.com/event/israel-military-action-against-beirut-byptptpt-20260708221422557",
-  "titulo": "¿Acción militar israelí contra Beirut antes del...?: 31 de octubre: 14% a 8% (−6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:6027088",
-  "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-  "titulo": "¿Sigue vigente el alto el fuego entre Israel e Irán hasta el 24 de octubre?: 92% a 98% (+6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:3212530",
-  "url": "https://polymarket.com/event/who-will-visit-ukraine-by-december-31-20260729205841876",
-  "titulo": "¿Quién visitará Ucrania antes del 31 de diciembre?: Ursula von der Leyen: 62% a 69% (+7 pp en 24 h)",
-  "desc": "Polymarket. Tema: Guerra Rusia–Ucrania."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:5087226",
-  "url": "https://polymarket.com/event/us-iran-hormuz-agreement-byptptpt-20260803235957575",
-  "titulo": "US-Iran Hormuz Agreement by...?: November 30: 26% a 20% (−6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:3553897",
-  "url": "https://polymarket.com/event/who-will-attend-a-round-of-us-iran-peace-talks-by-december-31-20260812153824803",
-  "titulo": "Who will attend a round of US-Iran peace talks by December 31?: Rafael Grossi: 16% a 22% (+6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:4599796",
-  "url": "https://polymarket.com/event/israeli-airspace-closed-by",
-  "titulo": "¿Cierre del espacio aéreo israelí, sin contar los cierres por feriados, antes del 31 de diciembre?: 26% a 34% (+8 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:5151637",
-  "url": "https://polymarket.com/event/next-israeli-minister-of-defense",
-  "titulo": "Next Israeli Minister of Defense?: No Next Minister by Feb 28: 37% a 31% (−6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:4824670",
-  "url": "https://polymarket.com/event/which-parties-will-be-in-the-next-israeli-government",
-  "titulo": "¿Qué partidos integrarán el próximo gobierno de Israel?: Yashar: 78% a 66% (−12 pp en 24 h)",
-  "desc": "Polymarket. Tema: Medio Oriente."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "polymarket:5340070",
-  "url": "https://polymarket.com/event/brazil-presidential-election-second-round-margin-of-victory",
-  "titulo": "Segunda vuelta en Brasil: margen de victoria: Flávio Bolsonaro, por 4 a 8 puntos: 28% a 34% (+6 pp en 24 h)",
-  "desc": "Polymarket. Tema: Elecciones en América Latina."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "kalshi:KXMIDTERMMOV-TXSEND-P1",
-  "url": "https://kalshi.com/markets/kxmidtermmov",
-  "titulo": "Texas Senate margin of victory: James Talarico, 1+ pts: 64% a 58% (−5 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "kalshi:KXMIDTERMMOV-OHSEND-P4",
-  "url": "https://kalshi.com/markets/kxmidtermmov",
-  "titulo": "Ohio Senate margin of victory: Brown, 4+ pts: 46% a 42% (−5 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "kalshi:KXMIDTERMMOV-NHSEND-P6",
-  "url": "https://kalshi.com/markets/kxmidtermmov",
-  "titulo": "New Hampshire Senate margin of victory: Pappas, 6+ pts: 66% a 60% (−5 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "kalshi:KXMIDTERMMOV-NCSEND-P13",
-  "url": "https://kalshi.com/markets/kxmidtermmov",
-  "titulo": "North Carolina Senate margin of victory: Cooper, 13+ pts: 38% a 50% (+12 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "kalshi:KXMIDTERMMOV-NCSEND-P17",
-  "url": "https://kalshi.com/markets/kxmidtermmov",
-  "titulo": "North Carolina Senate margin of victory: Cooper, 17+ pts: 17% a 22% (+5 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "kalshi:KXMIDTERMMOV-NESENR-P3",
-  "url": "https://kalshi.com/markets/kxmidtermmov",
-  "titulo": "Elección al Senado en Nebraska: margen de victoria: Ricketts, por 3 puntos o más: 46% a 52% (+7 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "kalshi:KXTRUMPAPPROVALBELOW-26DEC31-35",
-  "url": "https://kalshi.com/markets/kxtrumpapprovalbelow",
-  "titulo": "How low will Trump's approval rating get before 2027?: Below 35%: 38% a 44% (+5 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "kalshi:KXHOUSERACE-NC03-26-D",
-  "url": "https://kalshi.com/markets/kxhouserace",
-  "titulo": "NC-03 House winner?: Raymond Smith Jr.: 19% a 29% (+10 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "kalshi:KXHOUSERACE-IA02-26-R",
-  "url": "https://kalshi.com/markets/kxhouserace",
-  "titulo": "IA-02 House winner?: Joe Mitchell: 36% a 29% (−8 pp en 24 h)",
-  "desc": "Kalshi. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "manifold:s8uqRyg2U0",
-  "url": "https://manifold.markets/DannyOBrien/if-democrats-win-the-house-or-senat",
-  "titulo": "If Dems win the House or Senate in 2026, will officials try to block a working Democratic majority from being seated?: 66% a 71% (+5 pp en 24 h)",
-  "desc": "Manifold. Tema: Estados Unidos."
- },
- {
-  "ts": "2026-10-24T03:43:45Z",
-  "clave": "manifold:IvCwScqBduV7jlgOIVRc",
-  "url": "https://manifold.markets/Elspeth/will-the-republican-party-win-the-2-10b747429652",
-  "titulo": "Will the republican party win the 2026 texas gubernatorial election?: 66% a 72% (+6 pp en 24 h)",
-  "desc": "Manifold. Tema: Estados Unidos."
  }
 ]
