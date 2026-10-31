@@ -1,76 +1,75 @@
 {
- "fecha": "2026-10-29T22:40:00-03:00",
- "numeros_de": "2026-10-29T22:32:04Z",
+ "fecha": "2026-10-30T22:39:00-03:00",
+ "numeros_de": "2026-10-30T22:00:25Z",
  "temas": {
   "Medio Oriente": {
    "texto": [
-    "La tregua entre Estados Unidos e Irán bajó en el día. En Polymarket, que siga vigente hasta el 31/10 pasó de 96% a 86%, y hasta las legislativas del 3/11, de 92% a 82%. La regla solo cuenta un ataque aéreo o con misiles estadounidense que impacte en suelo iraní: los incidentes en el mar no la rompen. Una invasión antes de 2027 está en 20% y el fin del bloqueo antes de fin de año, en 39%. En Israel, Benjamin Netanyahu como próximo primer ministro bajó de 52% a 41% en Polymarket y Gadi Eizenkot subió de 26% a 32%; en Kalshi, que pone plazo y resuelve «nadie» si hay otra elección antes de formar gobierno, Netanyahu está en 23% y Eizenkot en 18%.",
-    "El 29/10 el jefe del Comando Central, Brad Cooper, le presentó a Trump las opciones militares contra Irán en la Casa Blanca; Trump confirmó la reunión, sin decisión anunciada (Wall Street Journal). La UKMTO informó ese día un buque en llamas cerca de Khasab y un petrolero alcanzado por un proyectil, sin atribuir la causa; la Guardia Revolucionaria habla de minas, sin confirmación independiente. En Israel terminó el conteo: 53 bancas para el bloque de Netanyahu, 48 para la oposición y 19 para los partidos árabes, y la Comisión Central le pidió al Shin Bet investigar denuncias de soborno extranjero (Al Jazeera, Haaretz y ABC News, 29/10). Lo próximo: el 3/11 y la certificación israelí, antes del 4/11."
+    "La tregua entre Estados Unidos e Irán recuperó lo que había perdido el día anterior. En Polymarket, que siga vigente hasta el 31/10 subió de 86% a 94%, y hasta las legislativas del 3/11, de 82% a 87%; la que llega al 8/11, y por lo tanto cubre el 4/11, sigue en 72%. La regla solo cuenta un ataque estadounidense que impacte en suelo iraní: los incidentes en el mar no la rompen. El fin del bloqueo antes de fin de año subió a 43% y una invasión antes de 2027 bajó a 18%. En Israel, Benjamin Netanyahu está en 42% como próximo primer ministro en Polymarket y Gadi Eizenkot en 34%; en Kalshi, que resuelve «nadie» si hay otra elección antes de formar gobierno, 22% y 18%.",
+    "El 30/10 Trump dijo en una radio de Kansas City que la guerra «se va a terminar pronto» y que no atacará antes de las legislativas (AP, Arab News y Fox News). El mismo día, tres funcionarios del Golfo dijeron a MS NOW que Washington les pidió prepararse para una ronda corta de ataques desde el 4/11; según la AP, no hay decisión final. Reuters informó minas lapa en un petrolero frente a Khasab el 29/10, sin atribución. Lo próximo: el 3/11 y la certificación del resultado israelí, el 4/11."
    ],
    "fuentes": [
-    {"nombre": "Wall Street Journal, vía i24NEWS y TASS, reunión en la Casa Blanca, 29/10"},
-    {"nombre": "UKMTO, avisos 185-26 y 186-26, 29/10"},
-    {"nombre": "Al Jazeera, Haaretz y Jerusalem Post, conteo final en Israel, 29/10"},
-    {"nombre": "ABC News, pedido de la Comisión Central al Shin Bet, 29/10"},
-    {"nombre": "Polymarket: reglas de la tregua entre EE. UU. e Irán al 31/10"}
+    {"nombre": "AP, vía IranWire; Arab News; Fox News, declaraciones de Trump, 30/10"},
+    {"nombre": "MS NOW, funcionarios del Golfo, 30/10"},
+    {"nombre": "Reuters, minas lapa frente a Khasab, 29/10"},
+    {"nombre": "Polymarket: reglas de la tregua entre EE. UU. e Irán"},
+    {"nombre": "Polymarket y Kalshi, números del 30/10"}
    ]
   },
   "Estados Unidos": {
    "texto": [
-    "A cinco días de las legislativas del 3/11, los demócratas siguen en 92% para ganar la Cámara de Representantes en Kalshi y en Polymarket; que los republicanos ganen las dos cámaras está entre 6% y 8%. En Texas, James Talarico tiene 68% para la banca del Senado y Ken Paxton 32%. Que los republicanos terminen con menos bancas en algún estado que ganó Trump en 2024 bajó de 97% a 73% en el día en Polymarket; cuenta el saldo de cada estado, no la pérdida de un distrito. No se encontró una noticia que explique la baja. Para 2028, J. D. Vance tiene 40% como candidato republicano, y Gavin Newsom y Alexandria Ocasio-Cortez 16% cada uno del lado demócrata.",
-    "El 29/10 el secretario de Defensa, Pete Hegseth, echó al teniente general Brett Sylvia, director de estrategia del Estado Mayor Conjunto, en una investigación por filtraciones sobre Irán y Ucrania (The Atlantic). La tregua con Irán hasta las legislativas bajó a 82% después de la reunión de Trump con el Comando Central. Lo próximo: la elección del martes 3/11."
+    "A cuatro días de las legislativas del 3/11, los demócratas suben a 93% en Kalshi y 94% en Polymarket para ganar la Cámara de Representantes. Que los republicanos ganen las dos cámaras está en 6% en las dos plataformas, y que retengan el Senado, en 30% en Kalshi. En Texas, James Talarico subió a 72% para la banca del Senado y Ken Paxton bajó a 28%. Para 2028, J. D. Vance tiene 39% como candidato republicano; del lado demócrata, Alexandria Ocasio-Cortez 17% y Gavin Newsom 16%.",
+    "La frase de Trump del 30/10, que no habrá ataque contra Irán antes de la votación (AP), sacó a la guerra del calendario electoral. El Nasdaq 100 cayó ese día entre 4% y 5% y quedó cerca de 10% debajo de su máximo del 6/10, con una caída de alrededor de 31% de Intel; las cifras son de cuentas de mercado y no se vio todavía la nota de una agencia. Que Trump visite Minnesota este año bajó a 12% en Kalshi, sin una noticia que lo explique. Lo próximo: la elección del martes 3/11."
    ],
    "fuentes": [
-    {"nombre": "The Atlantic, despido en el Estado Mayor Conjunto, 29/10"},
-    {"nombre": "Polymarket: reglas de las bancas republicanas en los estados que ganó Trump"},
-    {"nombre": "Kalshi y Polymarket, números del 29/10"}
+    {"nombre": "AP, vía IranWire, declaraciones de Trump, 30/10"},
+    {"nombre": "The Kobeissi Letter y The Spectator Index, Nasdaq e Intel, 30/10"},
+    {"nombre": "Kalshi y Polymarket, números del 30/10"}
    ]
   },
   "China y Taiwán": {
    "texto": [
-    "Sin cambios de fondo. La invasión china de Taiwán cotiza como curva en Polymarket: 2% para fin de 2026, 6% para mediados de 2027 y 10% para fin de 2027. Un choque militar antes de 2027 está en 5% y un bloqueo en 2026, en 3%. En Manifold, que opera con dinero ficticio, una invasión a gran escala antes de 2030 está en 27%. En las locales del 29/11, el Kuomintang tiene 70% como gran ganador y el Partido Democrático Progresista 31%. Que Xi Jinping deje el poder antes de 2027 está en 3% en Polymarket y 4% en Kalshi.",
-    "La alerta de «no viajar» a Taiwán antes de 2028 volvió en Kalshi a 18%, después de haber bajado a 3% el día anterior; las dos variaciones no tienen noticia que las explique y son de poco volumen. Que Li Qiang sea designado sucesor de Xi bajó a 10% en la semana en Kalshi, también sin noticia. Lo próximo: la cumbre de APEC en Shenzhen, el 18 y 19/11, y las locales de Taiwán del 29/11."
+    "Sin cambios de fondo. La invasión china de Taiwán sigue como curva en Polymarket: 2% para fin de 2026, 4% para mediados de 2027 y 10% para fin de 2027. Un choque militar antes de 2027 está en 5% y un bloqueo en 2026, en 3%. En Manifold, que opera con dinero ficticio, una invasión a gran escala antes de 2030 está en 28%. En las locales del 29/11, el Kuomintang tiene 70% como gran ganador y el Partido Democrático Progresista 29%. Que Xi Jinping deje el poder antes de 2027 está en 3% en Polymarket y en Kalshi.",
+    "El Quinto Pleno del Partido confirmó la expulsión de 33 altos funcionarios, 16 de ellos oficiales del Ejército Popular de Liberación (Instituto para el Estudio de la Guerra, 30/10). Los mercados de purgas no se movieron: Dong Jun está en 6%. Que Li Qiang sea designado sucesor de Xi bajó a 8% en Kalshi en la semana, sin noticia que lo explique. Lo próximo: la cumbre de APEC en Shenzhen, el 18 y 19/11, y las locales de Taiwán del 29/11."
    ],
    "fuentes": [
-    {"nombre": "Polymarket, Kalshi y Manifold, números del 29/10"}
+    {"nombre": "Instituto para el Estudio de la Guerra, en su cuenta de X, Quinto Pleno, 30/10"},
+    {"nombre": "Polymarket, Kalshi y Manifold, números del 30/10"}
    ]
   },
   "Elecciones en América Latina": {
    "texto": [
-    "En Venezuela, Nicolás Maduro como jefe de Estado oficial a fin de año está en 78% en Polymarket y 79% en Kalshi, y Delcy Rodríguez en 14% y 18%; miden el cargo formal, no quién gobierna, según aclaró Kalshi el 15/4. Un ataque de Estados Unidos contra Colombia antes de fin de año está en 18%. En Brasil, que Jair Bolsonaro deje de estar detenido antes del 31/3/2027 subió de 20% a 28% en el día en Polymarket, sin una noticia que lo explique; hace una semana estaba en 70%. En la Argentina, Javier Milei tiene 44% para la presidencial de 2027.",
-    "El 29/10 el New York Times informó que Trump y sus asesores ayudaron a Flávio Bolsonaro, investigado en varias causas penales, a entrar a Estados Unidos. El jefe de Gabinete argentino, Diego Santilli, dijo que Flávio entró y salió del país «porque no había impedimento de Interpol» (Perfil, 29/10). No hay declaración oficial de Itamaraty. El PL, el partido de Bolsonaro, reconoció la victoria de Lula (NPR, 27/10). El riesgo país argentino cerró el 29/10 cerca de 750 puntos, unos 14 menos que el día anterior. Que Alexandre de Moraes deje el Supremo antes de fin de año está en 5%."
+    "En Venezuela, Nicolás Maduro como jefe de Estado oficial a fin de año subió a 83% en Polymarket y 84% en Kalshi, y Delcy Rodríguez está en 14% y 16%. Miden el cargo formal, no quién gobierna, según aclaró Kalshi el 15/4. Un ataque de Estados Unidos contra Colombia antes de fin de año está en 18%. En Brasil, que Jair Bolsonaro deje de estar detenido antes del 31/3/2027 subió de 28% a 36% en Polymarket, sin una noticia que lo explique. En la Argentina, Javier Milei sigue en 44% para la presidencial de 2027.",
+    "El riesgo país argentino cerró el 30/10 en 787 puntos, máximo del año, después de subir 30% en octubre (Rava y Ámbito). Perfil lo atribuye al triunfo de Lula y a las dudas sobre el financiamiento de 2027; Balanz, a la inflación y las tasas globales. Según Reuters, citada en redes, el gobierno de Trump no reconocerá a Flávio Bolsonaro como ganador; no se vio la nota. Que Trump hable con Lula antes del 31/10 bajó a 9%. Lo próximo: la gira del Papa por Uruguay, la Argentina y Perú, del 6 al 17/11."
    ],
    "fuentes": [
-    {"nombre": "New York Times, en su cuenta de X, Flávio Bolsonaro en Estados Unidos, 29/10"},
-    {"nombre": "Perfil, declaraciones de Diego Santilli, 29/10"},
-    {"nombre": "NPR, el PL y la victoria de Lula, 27/10"},
-    {"nombre": "Perfil y Diario Mendoza, riesgo país, 29/10"},
+    {"nombre": "Rava y Ámbito, riesgo país, 30/10"},
+    {"nombre": "Perfil y Yahoo Finanzas, explicaciones de la suba, 30/10"},
+    {"nombre": "Reuters, citada por @MundoEConflicto, Flávio Bolsonaro, 30/10"},
     {"nombre": "Kalshi: reglas y aclaración del 15/4/2026", "url": "https://kalshi.com/markets/kxvenezuelaleader"}
    ]
   },
   "Guerra Rusia–Ucrania": {
    "texto": [
-    "Las negociaciones siguen arriba, con una baja en el día. En Polymarket, que haya negociaciones de paz antes de fin de año está en 84%, 6 puntos menos, y antes del 30/11 en 81%; la regla pide una reunión en persona, oficial y sobre los términos de paz. Un alto el fuego antes de fin de año sigue en 16%, y en 10% si tiene que durar al menos 10 días. Que Estados Unidos importe diésel ruso antes del 30/11 bajó de 71% a 49% en el día, sin una noticia que lo explique; la regla exige que el combustible se entregue en un puerto estadounidense. Que J. D. Vance visite Ucrania antes de fin de año saltó de 5% a 33%, también sin noticia encontrada.",
-    "El 29/10 un dron ruso mató a 14 personas en un andén de la estación central de Dnipró (Reuters). El Kremlin, por boca de Yuri Ushakov, dijo que la situación en el campo de batalla define cuándo empiezan las negociaciones y que los europeos no irán a Abu Dabi (Kyiv Independent). En Oleshky terminó el desminado y la entrega humanitaria es el 30/10, con delegaciones de Ucrania, Rusia y Estados Unidos (Ukrainska Pravda). El banco central ucraniano subió la tasa a 16,5%. Lo próximo: la tregua de Oleshky termina el 1/11, y la reunión a tres en Abu Dabi se espera entre el 6 y el 10/11, sin fecha firme."
+    "Las negociaciones volvieron a bajar. En Polymarket, que haya negociaciones de paz antes del 30/11 pasó de 81% a 76%, y antes de fin de año sigue en 84%; la regla pide una reunión en persona, oficial y sobre los términos de paz. Emiratos Árabes Unidos tiene 72% como sede. Un alto el fuego antes de fin de año está en 14%, y en 12% si tiene que durar al menos 10 días. Que Estados Unidos importe diésel ruso antes del 30/11 está en 48% en Polymarket y en Kalshi; la regla exige la entrega en un puerto estadounidense. Que Rusia tome Svitle antes del 31/10 saltó a 98%.",
+    "El 30/10 empezó la evacuación de Oleshky: 527 personas volverán al territorio controlado por Kiev, por Rusia y Bielorrusia, según el gobierno ucraniano; las dos partes dicen que la tregua local se respeta (Kyiv Independent y Ukrainska Pravda). El mismo día ardió la refinería de Novokuibyshevsk, en Samara, y el vicepremier ruso Novak confirmó ataques a tres refinerías. Ucrania pidió una reunión de urgencia del Consejo de Seguridad de la ONU. Lo próximo: Zelenski y Erdogan en Estambul el 31/10, el fin de la tregua de Oleshky el 1/11 y la reunión en Abu Dabi, esperada entre el 6 y el 10/11."
    ],
    "fuentes": [
-    {"nombre": "Reuters, vía CNN y Euronews, ataque en Dnipró, 29/10"},
-    {"nombre": "Kyiv Independent, declaraciones de Ushakov, 29/10"},
-    {"nombre": "Ukrainska Pravda, Oleshky, 29/10"},
-    {"nombre": "Polymarket: reglas de la importación de diésel ruso"},
-    {"nombre": "Polymarket: reglas de las negociaciones de paz"}
+    {"nombre": "Kyiv Independent y Ukrainska Pravda, Oleshky, 30/10"},
+    {"nombre": "Kyiv Independent, declaraciones de Novak, 30/10"},
+    {"nombre": "UNITED24, pedido al Consejo de Seguridad, 30/10"},
+    {"nombre": "Polymarket: reglas de las negociaciones de paz y de la importación de diésel"}
    ]
   },
   "Europa": {
    "texto": [
-    "En Francia, Marine Le Pen cotiza 42% en Polymarket y 46% en Kalshi para la próxima presidencial; los plazos son distintos, abril de 2027 y mayo de 2028. David Lisnard y Édouard Philippe tienen 16% cada uno, y Christine Lagarde subió a 3%. Que Francia declare el estado de emergencia antes de fin de año está en 8%. En España, Alberto Núñez Feijóo sigue en 82% como próximo presidente del Gobierno y Pedro Sánchez bajó a 9%. Que algún país de la OTAN vuelva a invocar el artículo 4 antes de fin de año saltó de 19% a 38% en el día; la regla pide un pedido formal de consultas, y no se encontró ninguno.",
-    "El 29/10 se supo que Lagarde dejará la presidencia del Banco Central Europeo el 7/2/2027, unos nueve meses antes del fin de su mandato (Reuters); es lo que coincide con su suba como candidata francesa. El mismo día se hundió el Contship Jet, el portacontenedores alcanzado por drones navales frente a Bulgaria el 28/10, con sus 18 tripulantes ya rescatados; Bulgaria no atribuyó el ataque (Reuters). Un choque militar entre la OTAN y Rusia está en 4% antes del 15/11 y en 18% antes de fin de año. Lo próximo en Francia: el sábado 31/10 y la huelga general del 5/11."
+    "En España, que Pedro Sánchez deje la presidencia del Gobierno antes del 31/1/2027 subió a 74% en Polymarket, contra 20% antes del 31/12. La distancia tiene explicación: hay elecciones el 29/11, y la regla no cuenta como salida seguir en funciones, así que paga recién cuando asuma otro. Alberto Núñez Feijóo está en 84% como próximo presidente del Gobierno y el PP en 84% como ganador. En Francia, Marine Le Pen tiene 41% en Polymarket y 44% en Kalshi para la próxima presidencial, con plazos distintos, y David Lisnard subió a 18%.",
+    "El 30/10 la policía entró al Tribunal Constitucional de Polonia, y su presidente y su vicepresidente fueron suspendidos por un mes por orden de la jueza de mayor antigüedad. El presidente Nawrocki volvió de un viaje y fue al Tribunal (Euronews, NBC y Reuters). No hay mercado sobre Polonia entre los seguidos. Un choque militar entre la OTAN y Rusia está en 4% antes del 15/11 y en 16% antes de fin de año. Lo próximo: el sábado 31/10 en Francia y la huelga general del 5/11."
    ],
    "fuentes": [
-    {"nombre": "Reuters, salida de Lagarde del BCE, 29/10"},
-    {"nombre": "Reuters, hundimiento del Contship Jet, 29/10"},
-    {"nombre": "Polymarket: reglas de la invocación del artículo 4 de la OTAN"},
-    {"nombre": "Polymarket y Kalshi, números del 29/10"}
+    {"nombre": "Articulo14, convocatoria a elecciones en España para el 29/11", "url": "https://www.articulo14.es/politica/pedro-sanchez-convoca-elecciones-generales-anticipadas-el-29-de-noviembre-20261005.html"},
+    {"nombre": "Polymarket: reglas de la salida de Sánchez antes del 31/1/2027"},
+    {"nombre": "Euronews, NBC News y Reuters, Tribunal Constitucional de Polonia, 30/10"},
+    {"nombre": "Polymarket y Kalshi, números del 30/10"}
    ]
   }
  }
