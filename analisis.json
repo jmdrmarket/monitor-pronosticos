@@ -1,35 +1,34 @@
 {
- "fecha": "2026-11-01T02:03:00-03:00",
- "numeros_de": "2026-11-01T04:55:35Z",
+ "fecha": "2026-11-01T22:39:00-03:00",
+ "numeros_de": "2026-11-01T21:48:20Z",
  "temas": {
   "Medio Oriente": {
    "texto": [
-    "La tregua entre Estados Unidos e Irán sigue firme a corto plazo. En Polymarket, que dure hasta las legislativas del 3/11 está en 90%, once puntos más que hace una semana; la regla solo cuenta un ataque aéreo o con misiles estadounidense que impacte en suelo iraní, y deja afuera los incidentes en el mar. El fin del bloqueo anunciado antes de fin de año está en 43%, un acuerdo nuclear definitivo en 14% y que Irán acepte entregar su uranio enriquecido subió a 9%. En Israel, Benjamin Netanyahu tiene 42% como próximo primer ministro en Polymarket y Gadi Eizenkot 35%; en Kalshi, que resuelve «nadie» si hay otra elección antes de formar gobierno, 18% y 22%. Que Netanyahu deje el cargo antes de fin de año bajó a 18%.",
-    "El 31/10 negociadores iraníes se reunieron en Doha con mediadores de Qatar y Pakistán (Reuters, CNBC). El canciller Araghchi llamó «paso positivo» al acercamiento estadounidense y dijo que una propuesta en discusión permitiría reabrir del todo el estrecho de Ormuz en dos días (Al Jazeera). El secretario de Estado, Marco Rubio, dijo que Trump no decidió si vuelve a atacar (Fox News). El mismo día, el líder supremo Mojtaba Jamenei ordenó responder «sin restricciones geográficas» a cualquier amenaza (medios estatales iraníes, vía CBS). Lo próximo: el 3/11 y la certificación del resultado israelí, el 4/11."
+    "La tregua entre Estados Unidos e Irán sigue firme hasta las legislativas: en Polymarket, que dure hasta el 3/11 está en 94%, trece puntos más que hace una semana, y hasta el 4/11, en 90%. Lo que bajó es el acuerdo: uno sobre Ormuz antes de fin de año pasó de 39% a 33% en un día, el fin del bloqueo anunciado antes del 31/12 está en 42% y un acuerdo nuclear definitivo, en 14%. En Israel se movió todo: Gadi Eizenkot subió a 85% para recibir el primer encargo de formar gobierno y a 43% como próximo primer ministro; Benjamin Netanyahu bajó a 36%. En Kalshi, que resuelve «nadie» si hay otra elección antes de formar gobierno, Netanyahu está en 12%.",
+    "Según Axios (1/11), Netanyahu le pidió a Trump en una llamada del 31/10 atacar a Irán apenas pasen las elecciones del martes, y Trump no decidió. Trump dijo el 1/11 que no tiene «mucho apuro» y que Irán «no es muy confiable» (Reuters, Anadolu). Ese día la UKMTO recibió el aviso de un buque alcanzado por un proyectil en el estrecho de Ormuz (Arab News, Middle East Eye); la Guardia Revolucionaria dice que dos petroleros chocaron con minas. En Israel, el partido de Bennett recomendará a Eizenkot (The Jerusalem Post, Haaretz, 1/11). Lo próximo: el 3/11 y la certificación del resultado israelí, el 4/11."
    ],
    "fuentes": [
-    {"nombre": "Reuters y CNBC, ronda de Doha, 31/10"},
-    {"nombre": "Al Jazeera, declaraciones de Araghchi, 31/10"},
-    {"nombre": "Fox News, declaraciones de Rubio en el G20, 31/10"},
-    {"nombre": "CBS News, orden de Mojtaba Jamenei, 31/10"},
-    {"nombre": "Polymarket: reglas de la tregua entre EE. UU. e Irán hasta las legislativas"},
+    {"nombre": "Axios, llamada de Netanyahu a Trump, 1/11"},
+    {"nombre": "Reuters y Anadolu, declaraciones de Trump, 1/11"},
+    {"nombre": "Arab News y Middle East Eye, aviso de la UKMTO, 1/11"},
+    {"nombre": "The Jerusalem Post y Haaretz, recomendación de B'Yachad, 1/11"},
     {"nombre": "Polymarket y Kalshi, números del 1/11"}
    ]
   },
   "Estados Unidos": {
    "texto": [
-    "A dos días de las legislativas del 3/11, el Partido Demócrata tiene 94% en Polymarket para ganar la Cámara de Representantes. Que gane las dos cámaras está en 70%, cinco puntos más en la semana, y que los republicanos se queden con las dos, en 4%. Que Trump deje la presidencia antes de 2027 sigue en 4%. Para 2028, J. D. Vance tiene 38% como candidato republicano, seis puntos menos que hace una semana; del lado demócrata, Gavin Newsom tiene 16% en Polymarket y 18% en Kalshi, y Alexandria Ocasio-Cortez 16%.",
-    "Trump dijo el 30/10 que no atacará a Irán antes de la votación (AP), y eso sacó a la guerra del calendario electoral. Que Illinois use un mapa electoral nuevo en estas legislativas saltó a 40% en un día, sin una noticia que lo explique a dos días de la elección. Que Kristi Noem deje el gobierno antes de 2027 bajó a 27% en la semana. Lo próximo: la elección del martes 3/11 y el conteo de los días siguientes."
+    "A dos días de las legislativas del 3/11, el Partido Demócrata tiene 94% en Polymarket para ganar la Cámara de Representantes. Que gane las dos cámaras está en 70%, cinco puntos más en la semana, y que los republicanos se queden con las dos, en 6%. Que Trump deje la presidencia antes de 2027 está en 3%. Para 2028, J. D. Vance tiene 38% como candidato republicano y Marco Rubio 20%; del lado demócrata, Gavin Newsom tiene 15% en Polymarket y 16% en Kalshi, Alexandria Ocasio-Cortez 16% y Jon Ossoff 15%.",
+    "Los mercados sobre los mapas electorales siguen erráticos: que Alabama use un mapa nuevo en estas legislativas cayó 17 puntos en un día, a 36%, y que lo use Illinois subió 20, a 23%, después de haber tocado 40% el sábado; no apareció una noticia que lo explique. Que el Congreso anule algún veto presidencial en 2026 subió a 27%, también sin noticia. La guerra con Irán quedó para después de la votación: según Axios (1/11), Netanyahu pidió atacar apenas pase. Lo próximo: la elección del martes 3/11 y el conteo de los días siguientes."
    ],
    "fuentes": [
-    {"nombre": "AP, declaraciones de Trump, 30/10"},
+    {"nombre": "Axios, llamada de Netanyahu a Trump, 1/11"},
     {"nombre": "Polymarket y Kalshi, números del 1/11"}
    ]
   },
   "China y Taiwán": {
    "texto": [
-    "La invasión china de Taiwán sigue como curva en Polymarket: 2% para fin de 2026, 4% para mediados de 2027 y 10% para fin de 2027. Un choque militar antes de 2027 está en 5% y un bloqueo en 2026, en 3%. En Manifold, que opera con dinero ficticio, una invasión a gran escala antes de 2030 está en 28%. Lo que se movió son las elecciones locales del 29/11: el Kuomintang subió a 77% como gran ganador y el Partido Democrático Progresista bajó a 22%.",
-    "No apareció una noticia de la semana que explique la suba del Kuomintang. Tampoco la baja de Li Qiang como sucesor designado de Xi Jinping, que quedó en 9% en Kalshi. Los mercados de purgas siguen quietos después del Quinto Pleno: Dong Jun está en 5%. Lo próximo: la cumbre de APEC en Shenzhen, el 18 y 19/11, y las locales de Taiwán, el 29/11."
+    "La invasión china de Taiwán sigue como curva en Polymarket: 6% para mediados de 2027 y 10% para fin de 2027. Un choque militar antes de 2027 está en 4% y un bloqueo en 2026, en 2%. En Manifold, que opera con dinero ficticio, una invasión a gran escala antes de 2030 está en 28%. Que Estados Unidos emita una alerta de «no viajar» a Taiwán antes de 2028 está en 19% en Kalshi. En las elecciones locales del 29/11, el Kuomintang tiene 76% como gran ganador y el Partido Democrático Progresista 23%, sin cambios en el día.",
+    "No hubo novedades en la semana que muevan los mercados de conflicto. La suba del Kuomintang, seis puntos en siete días, no tiene una noticia que la explique, y tampoco la caída de Li Qiang como sucesor designado de Xi Jinping, a 9% en Kalshi. Los mercados de purgas siguen quietos: Dong Jun está en 5%. Lo próximo: la cumbre de APEC en Shenzhen, el 18 y 19/11, y las locales de Taiwán, el 29/11."
    ],
    "fuentes": [
     {"nombre": "Polymarket, Kalshi y Manifold, números del 1/11"}
@@ -37,36 +36,35 @@
   },
   "Elecciones en América Latina": {
    "texto": [
-    "En Venezuela, Nicolás Maduro como jefe de Estado oficial a fin de año está en 84% en Polymarket y Delcy Rodríguez en 12%. Miden el cargo formal, no quién gobierna, según aclaró Kalshi el 15/4. Un ataque de Estados Unidos contra Colombia antes de fin de año está en 20%. En Brasil, que Jair Bolsonaro deje de estar detenido antes del 31/3/2027 subió nueve puntos en un día, a 38%, y que Alexandre de Moraes deje el Supremo Tribunal Federal está en 8%. En la Argentina, Javier Milei sigue en 44% para la presidencial de 2027.",
-    "Flávio Bolsonaro está en Estados Unidos. Salió de Brasil pese a una orden del Supremo de entregar los pasaportes, y Rubio dijo el 31/10 que Washington no facilitó la salida (AP). Circulan versiones de que salió por la Argentina, pero ninguna agencia las confirmó y el gobierno argentino no habló. La suba del mercado sobre Jair Bolsonaro no tiene una noticia que la explique. El riesgo país argentino cerró el 30/10 en 787 puntos (Rava y Ámbito). Lo próximo: la visita del Papa a la Argentina, del 8 al 11/11."
+    "En Venezuela, Nicolás Maduro como jefe de Estado oficial a fin de año está en 84% en Polymarket y Delcy Rodríguez bajó a 10%; miden el cargo formal, no quién gobierna. Sobre la condena a Maduro en Nueva York, «sin prisión» está en 45% y «60 años o más» en 35%; la regla de la primera cuenta también que no haya sentencia antes de fin de 2027. Un ataque de Estados Unidos contra Colombia está en 20%. En Brasil, que Jair Bolsonaro deje de estar detenido antes del 31/3/2027 está en 39%, que Lula designe un ministro del Supremo antes de fin de año en 94%, y que Alexandre de Moraes deje el Supremo bajó a 6%. Javier Milei sigue en 44% para 2027.",
+    "Flávio Bolsonaro salió de Brasil por la Argentina: el gobierno argentino confirmó que despegó de Puerto Iguazú hacia Miami, con escala en Guayaquil, y el jefe de Gabinete, Diego Santilli, dijo que «no tenía impedimentos de Interpol» (Infobae, 29/10). En la oposición argentina se preparan pedidos de interpelación. Ninguna de esas noticias explica por sí sola el movimiento de los mercados brasileños. Lo próximo: la visita del Papa a la Argentina, del 8 al 11/11."
    ],
    "fuentes": [
-    {"nombre": "AP, Flávio Bolsonaro y declaraciones de Rubio, 31/10"},
-    {"nombre": "Rava y Ámbito, riesgo país, 30/10"},
-    {"nombre": "Kalshi: reglas y aclaración del 15/4/2026", "url": "https://kalshi.com/markets/kxvenezuelaleader"},
+    {"nombre": "Infobae, salida de Flávio Bolsonaro por Puerto Iguazú, 27 y 29/10"},
+    {"nombre": "Kalshi: aclaración del 15/4/2026 sobre el cargo formal", "url": "https://kalshi.com/markets/kxvenezuelaleader"},
+    {"nombre": "Polymarket: reglas de la condena a Maduro"},
     {"nombre": "Polymarket, números del 1/11"}
    ]
   },
   "Guerra Rusia–Ucrania": {
    "texto": [
-    "En Polymarket, que haya negociaciones de paz entre Rusia y Ucrania antes del 30/11 bajó a 72%, y antes de fin de año está en 82%; la regla pide una reunión en persona, oficial y sobre los términos de paz. Un alto el fuego antes de fin de año está en 14%, y en 12% si tiene que durar al menos 10 días. Lo que más cayó en la semana es la importación de diésel ruso por Estados Unidos: 50% antes del 30/11, 32 puntos menos, y 62% antes de fin de año. Una reunión entre Zelenski y Putin antes de 2027 sigue casi descartada: «sin reunión» está en 93%.",
-    "El 31/10 terminó la evacuación de Oleshky, con los civiles ya en territorio controlado por Kiev; el Instituto para el Estudio de la Guerra evalúa que las dos partes respetaron en general la tregua local (Kyiv Independent). Zelenski y Erdogan acordaron trabajar en el corredor de granos del mar Negro (Ukrainska Pravda), y Rubio dijo no saber si una paz negociada es alcanzable (Kyiv Independent). La caída del diésel no tiene una noticia que la explique. Lo próximo: la reunión en Abu Dabi, esperada entre el 6 y el 10/11, todavía sin fecha firme."
+    "En Polymarket, que haya negociaciones de paz entre Rusia y Ucrania antes del 30/11 bajó a 68%, y antes de fin de año, siete puntos en un día, a 74%; la regla pide una reunión en persona, oficial y sobre los términos de paz. Un alto el fuego antes de fin de año está en 14%, y en 10% si tiene que durar al menos 10 días. Una reunión entre Zelenski y Putin antes de 2027 sigue casi descartada: «sin reunión» está en 94%. La importación de diésel ruso por Estados Unidos está en 55% antes del 30/11 y 62% antes de fin de año, después de caer más de 20 puntos en la semana.",
+    "El 1/11 Zelenski se dijo dispuesto a reunirse con Putin y Trump en Estambul, con la reunión técnica de Abu Dabi como proceso aparte (Ukrainska Pravda). Venció la tregua de Oleshky, durante la que Ucrania evacuó a 167 civiles (Reuters, 1/11). Esa noche, la aplicación de alertas aéreas envió falsas alertas nucleares y químicas por un hackeo, según la Fuerza Aérea (Kyiv Independent). Un ataque ruso de cientos de drones sobre la red eléctrica dejó cortes en Kiev y dos muertos en Vínnytsia (Kyiv Independent). Lo próximo: la reunión de Abu Dabi, esperada entre el 6 y el 10/11, sin fecha firme."
    ],
    "fuentes": [
-    {"nombre": "Kyiv Independent, Oleshky y declaraciones de Rubio, 31/10"},
-    {"nombre": "Instituto para el Estudio de la Guerra, en su cuenta de X, 31/10"},
-    {"nombre": "Ukrainska Pravda, Zelenski y Erdogan, 31/10"},
-    {"nombre": "Polymarket: reglas de las negociaciones de paz y de la importación de diésel"}
+    {"nombre": "Ukrainska Pravda, oferta de Zelenski, 1/11"},
+    {"nombre": "Reuters, fin de la tregua de Oleshky, 1/11"},
+    {"nombre": "Kyiv Independent, hackeo de alertas y ataque a la red eléctrica, 1/11"},
+    {"nombre": "Polymarket: reglas de las negociaciones de paz y del alto el fuego"}
    ]
   },
   "Europa": {
    "texto": [
-    "En Francia, Marine Le Pen tiene 41% en Polymarket para la próxima presidencial, David Lisnard 17% y Édouard Philippe 14%. Que Francia apruebe un presupuesto antes de fin de año bajó a 44%, y que declare el estado de emergencia, a 8%. En España, Alberto Núñez Feijóo está en 84% como próximo presidente del Gobierno, y que PP y Vox sumen la mitad de los votos o más subió a 48%. Que Brigitte Macron gane su demanda contra Candace Owens cayó doce puntos en un día, a 33%, en Kalshi, sin una noticia que lo explique. Un choque militar entre la OTAN y Rusia está en 4% antes del 15/11 y en 16% antes de fin de año.",
-    "En Francia, el 31/10 protestaron entre 320.000 y 400.000 personas según cifras oficiales, con más de 560 detenidos y sin estado de emergencia (CNN, CBC). En Polonia, el presidente Nawrocki entró al Tribunal Constitucional la madrugada del 31/10 y Tusk dijo que «no habrá compromiso» (Euronews, CNN); no hay mercado sobre Polonia entre los seguidos. Lo próximo: la huelga general en Francia, el 5/11, y las elecciones españolas del 29/11."
+    "En Francia, Marine Le Pen tiene 40% en Polymarket para la próxima presidencial, David Lisnard 15%, Jean-Luc Mélenchon 14% y Édouard Philippe 12%; que Philippe pase a la segunda vuelta bajó a 26%. En España, Alberto Núñez Feijóo está en 84% como próximo presidente del Gobierno, el PP en 86% para ganar las generales y que PP y Vox sumen la mitad de los votos, en 48%. Que Pedro Sánchez deje el cargo antes del 31/1/2027 está en 66%. Un choque militar entre la OTAN y Rusia está en 2% antes del 15/11 y en 12% antes de fin de año.",
+    "Que Brigitte Macron gane su demanda contra Candace Owens saltó 30 puntos en un día en Kalshi, a 44%, después de haber caído el sábado; ninguna noticia lo explica. En Polonia, un vocero de la Comisión Europea dijo el 1/11 que el nombramiento de los ocho nuevos jueces del Tribunal Constitucional está dentro del poder del Sejm (Kyiv Independent); no hay mercado sobre Polonia entre los seguidos. Lo próximo: la huelga general en Francia, el 5/11, y las elecciones españolas del 29/11."
    ],
    "fuentes": [
-    {"nombre": "CNN y CBC, protestas en Francia, 31/10"},
-    {"nombre": "Euronews y CNN, Tribunal Constitucional de Polonia, 31/10"},
+    {"nombre": "Kyiv Independent, Comisión Europea sobre Polonia, 1/11"},
     {"nombre": "Polymarket y Kalshi, números del 1/11"}
    ]
   }
