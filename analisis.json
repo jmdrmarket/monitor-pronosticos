@@ -1,71 +1,74 @@
 {
- "fecha": "2026-11-02T23:05:00-03:00",
- "numeros_de": "2026-11-03T00:41:40Z",
+ "fecha": "2026-11-03T22:38:00-03:00",
+ "numeros_de": "2026-11-03T22:59:07Z",
  "temas": {
   "Medio Oriente": {
    "texto": [
-    "En Polymarket, que siga vigente el alto el fuego entre Estados Unidos e Irán hasta las legislativas del 3/11 está en 91%. Lo que no avanza es el acuerdo: el fin del bloqueo a Irán anunciado antes del 31/12 está en 42%, un acuerdo nuclear definitivo en 14% y una invasión estadounidense antes de 2027 en 18%. En Israel, Gadi Eizenkot tiene 90% para recibir el primer encargo de formar gobierno y Benjamin Netanyahu 10%. Como próximo primer ministro, Eizenkot tiene 45% y Netanyahu 33% en Polymarket; en Kalshi, que paga «nadie» si hay otra elección antes de formar gobierno, Eizenkot está en 28% y Netanyahu en 17%.",
-    "El Brent cerró el 2/11 en 104,77 dólares, 8,66 menos que el viernes (NBC News, Quartz), después de que el presidente iraní Pezeshkian dijera que el líder supremo Mojtaba Jamenei autorizó al gobierno a negociar y de que Trump dijera que un acuerdo «podría ocurrir». La cancillería iraní respondió que Ormuz no se abre antes de que Washington levante el bloqueo de los puertos iraníes. La UKMTO recibió el 2/11 el aviso de otro petrolero alcanzado en el Golfo, sin confirmación de una agencia. En Israel, el presidente Herzog inicia consultas con los partidos el 4/11 (Algemeiner). Lo próximo: el 3/11 y el 4/11."
+    "En Polymarket, que Estados Unidos invada Irán antes de 2027 está en 20%, tres puntos más en un día. Que anuncie el fin del bloqueo a Irán antes del 31/12 bajó siete puntos en un día, a 38%; un acuerdo nuclear definitivo está en 12% y que Irán acepte dejar de enriquecer uranio, en 9%. Mojtaba Jamenei tiene 86% como líder de Irán a fin de año. En Israel, Gadi Eizenkot tiene 94% para recibir el primer encargo de formar gobierno (30 puntos más en la semana) y Benjamin Netanyahu 6%. Como próximo primer ministro, Eizenkot tiene 47% y Netanyahu 35% en Polymarket; Kalshi, que mide quién sucede a Netanyahu, da a Eizenkot 36%, 35 puntos menos que hace una semana.",
+    "El Pentágono tiene listas opciones para reanudar ataques contra Irán desde el 4/11, según el New York Times citado por varios canales; Trump no las aprobó. El secretario del Consejo Supremo de Seguridad iraní, Mohsen Rezaei, dijo que la respuesta de Washington a las siete condiciones de Teherán no alcanza y que Ormuz se abre solo si se cumplen. Es el hecho que acompaña la baja del mercado del bloqueo. Estados Unidos golpeó Qeshm en la noche del 2/11, de forma defensiva según un funcionario citado por el Wall Street Journal. Lo próximo: el conteo de Israel y las consultas del presidente Herzog, el 4/11."
    ],
    "fuentes": [
-    {"nombre": "NBC News y Quartz, cierre del Brent, 2/11"},
-    {"nombre": "Algemeiner, consultas de Herzog, 2/11"},
-    {"nombre": "UKMTO vía OSINTdefender, 2/11"},
-    {"nombre": "Polymarket y Kalshi, números del 2/11"}
+    {"nombre": "New York Times vía canales de seguimiento, planes de ataque, 3/11 (sin nota de agencia cruzada)"},
+    {"nombre": "Wall Street Journal vía @sentdefender, Qeshm, 2/11"},
+    {"nombre": "Middle East Spectator, declaración de Rezaei, 3/11"},
+    {"nombre": "Polymarket y Kalshi, números del 3/11"}
    ]
   },
   "Estados Unidos": {
    "texto": [
-    "A un día de las legislativas del 3/11, el Partido Demócrata tiene 94% en Polymarket para ganar la Cámara de Representantes y el Republicano 6%. Que los demócratas ganen las dos cámaras está en 76%, cinco puntos más en un día y diez en la semana, y que los republicanos ganen las dos, en 6%. Que haya menos de 22 gobernadores republicanos después de la elección está en 53%. Para 2028, J. D. Vance tiene 36% como candidato republicano; del lado demócrata, Gavin Newsom tiene 16% en Polymarket y 18% en Kalshi, y Alexandria Ocasio-Cortez 16%.",
-    "Los mercados de carreras puntuales se movieron mucho sin una noticia que lo explique en lo que se leyó esta semana: que el Senado de Kansas lo gane el demócrata Adam Hamilton subió 24 puntos en siete días, a 62%, y que Michigan se defina por 5 puntos o más a favor de El-Sayed subió 22, a 46% en Kalshi. Que Luisiana use un mapa nuevo cayó 41 puntos en un día, a 55%; la regla exige que el mapa esté en vigencia y no haya sido anulado antes de la elección. Que Trump deje la presidencia antes de 2027 está en 4%. Lo próximo: la votación del 3/11 y el conteo de los días siguientes."
+    "Es el día de las legislativas del 3/11. En Polymarket, el Partido Demócrata tiene 94% para ganar la Cámara de Representantes y el Republicano 6%. Que los demócratas ganen las dos cámaras está en 74%; el Senado, por separado, en 76% para los demócratas. Que los republicanos ganen las dos está en 4%. Que haya menos de 22 gobernadores republicanos después de la elección está en 55%. Para 2028, J. D. Vance tiene 37% como candidato republicano; del lado demócrata, Gavin Newsom tiene 15% en Polymarket y 16% en Kalshi, y Alexandria Ocasio-Cortez 16%.",
+    "Los mercados de carreras puntuales se movieron mucho. En el distrito 1 de Pensilvania, Bob Harvie (demócrata) subió 14 puntos en un día, a 70%; que el demócrata Adam Hamilton gane el Senado de Kansas subió 26 en la semana, a 64%. El de mapas nuevos dio un giro: que Luisiana use un mapa nuevo bajó a 53% e Illinois subió a 45%. La regla exige que el mapa esté en vigencia y no haya sido anulado antes de la elección; no hay una noticia leída que explique el cambio. La Casa Blanca fijó la decisión sobre Irán para después del voto. Lo próximo: el conteo de la noche del 3/11 y de los días siguientes."
    ],
    "fuentes": [
     {"nombre": "Polymarket: reglas del mercado de mapas electorales (Luisiana)"},
-    {"nombre": "Polymarket y Kalshi, números del 2/11"}
+    {"nombre": "Polymarket y Kalshi, números del 3/11"}
    ]
   },
   "China y Taiwán": {
    "texto": [
-    "La invasión china de Taiwán sigue como curva en Polymarket: 6% antes de mediados de 2027 y 10% antes de fin de 2027. Un choque militar antes de 2027 está en 4% y un bloqueo en 2026, en 2%. En Manifold, que opera con dinero ficticio, una invasión a gran escala antes de 2030 está en 28%. Que Estados Unidos emita una alerta de «no viajar» a Taiwán antes de 2028 está en 19% en Kalshi. En las elecciones locales del 29/11, el Kuomintang tiene 74% como partido ganador y el Partido Democrático Progresista 24%.",
-    "No hubo novedades en la semana que muevan los mercados de conflicto. La suba del Kuomintang, seis puntos en siete días, y la baja del Partido Democrático Progresista, ocho, no tienen una noticia que las explique entre las fuentes consultadas. Tampoco la caída de Li Qiang como sucesor designado de Xi Jinping, a 9% en Kalshi, 19 puntos menos en siete días. Que Xi deje el poder antes de 2027 sigue en 2%. Lo próximo: la cumbre de APEC en Shenzhen, el 18 y 19/11, y las locales de Taiwán, el 29/11."
+    "La invasión china de Taiwán sigue como curva en Polymarket: 6% antes de mediados de 2027 y 10% antes de fin de 2027. Un choque militar antes de 2027 está en 2% y un bloqueo en 2026, también en 2%. En Manifold, que opera con dinero ficticio, una invasión a gran escala antes de 2030 está en 29%. Que Estados Unidos emita una alerta de «no viajar» a Taiwán antes de 2028 está en 14% en Kalshi. En las elecciones locales del 29/11, el Kuomintang tiene 76% como partido ganador y el Partido Democrático Progresista 21%.",
+    "La cifra diaria de aeronaves militares chinas cerca de Taiwán, 49 en 24 horas, la más alta de 2026, circuló el 3/11 en un solo canal y no se pudo cruzar con una fuente oficial. Los mercados de conflicto casi no se movieron. La suba del Kuomintang, seis puntos en siete días, y la baja del Partido Democrático Progresista, diez, no tienen una noticia que las explique entre las fuentes consultadas; tampoco la caída de Li Qiang como sucesor designado de Xi Jinping, a 9% en Kalshi, 13 puntos menos en la semana. Que Xi deje el poder antes de 2027 sigue en 2%. Lo próximo: la cumbre de APEC en Shenzhen, el 18 y 19/11, y las locales de Taiwán, el 29/11."
    ],
    "fuentes": [
-    {"nombre": "Polymarket, Kalshi y Manifold, números del 2/11"}
+    {"nombre": "@MundoEConflicto, aeronaves chinas, 3/11 (sin cruzar)"},
+    {"nombre": "Polymarket, Kalshi y Manifold, números del 3/11"}
    ]
   },
   "Elecciones en América Latina": {
    "texto": [
-    "En Venezuela, Nicolás Maduro como jefe de Estado oficial a fin de año está en 85% en Polymarket y Delcy Rodríguez en 10%; miden el cargo formal, no quién gobierna. Sobre la condena a Maduro en Nueva York, «sin prisión» bajó 22 puntos en la semana, a 37%, y «60 años o más» subió 18, a 38%; la regla de la primera cuenta también que no haya sentencia a tiempo. Un ataque de Estados Unidos contra Colombia está en 18%. En Brasil, que Jair Bolsonaro deje de estar detenido antes del 31/3/2027 está en 37%, que Lula designe un ministro del Supremo antes de fin de año, en 80% (13 puntos menos en un día), y que la inflación de 2026 cierre entre 5,00% y 5,49%, en 51%. Javier Milei está en 45% para la presidencial de 2027.",
-    "En la Argentina, el riesgo país cerró el 2/11 en 808 puntos según Infobae, el más alto desde octubre de 2025, y el índice Merval cayó 3,2% (Infobae, La Capital, 2/11). Ocurrió el día en que el crudo bajó 7,6%. Flávio Bolsonaro salió de Brasil por Puerto Iguazú, hecho que el gobierno argentino confirmó el 29/10 (Infobae). Ninguna de esas noticias explica por sí sola el movimiento de los mercados brasileños. Lo próximo: la gira del Papa por Uruguay, la Argentina y Perú, del 6 al 17/11."
+    "En Venezuela, Nicolás Maduro como jefe de Estado oficial a fin de año está en 86% en Polymarket y Delcy Rodríguez en 10%; miden el cargo formal, no quién gobierna. Sobre la condena a Maduro en Nueva York, «sin prisión» subió 26 puntos en un día, a 68%, y «60 años o más» bajó 23, a 16%; la regla de la primera cuenta también que no haya sentencia antes del 31/12/2027, que no haya condena o que la pena no incluya cárcel. Un ataque de Estados Unidos contra Colombia está en 16%. En Brasil, que Jair Bolsonaro deje de estar detenido antes del 31/3/2027 está en 38%, 14 puntos más en la semana, y que la inflación de 2026 cierre entre 5,00% y 5,49%, en 52%. Javier Milei está en 46% para la presidencial de 2027.",
+    "No hay una noticia leída que explique el salto de «sin prisión» en un día. En la Argentina, el riesgo país cerró el 2/11 en 808 puntos según Infobae, el más alto desde octubre de 2025; no hay dato de cierre del 3/11. En Paraguay circula, sin confirmar, que el Banco Central intervino el banco Ueno y que el presidente Peña pidió la renuncia de su titular, Carlos Carvallo; Reuters informó el 22/10 de una investigación sobre Ueno desde septiembre. Lo próximo: la gira del Papa por Uruguay, la Argentina y Perú, del 6 al 17/11."
    ],
    "fuentes": [
-    {"nombre": "Infobae y La Capital, riesgo país y Merval, 2/11"},
-    {"nombre": "Infobae, salida de Flávio Bolsonaro por Puerto Iguazú, 29/10"},
+    {"nombre": "Infobae, riesgo país, 2/11"},
+    {"nombre": "Reuters, investigación del Banco Central de Paraguay sobre Ueno, 22/10"},
     {"nombre": "Kalshi: aclaración del 15/4/2026 sobre el cargo formal", "url": "https://kalshi.com/markets/kxvenezuelaleader"},
     {"nombre": "Polymarket: reglas de la condena a Maduro"},
-    {"nombre": "Polymarket, números del 2/11"}
+    {"nombre": "Polymarket, números del 3/11"}
    ]
   },
   "Guerra Rusia–Ucrania": {
    "texto": [
-    "En Polymarket, que haya negociaciones de paz entre Rusia y Ucrania antes del 30/11 subió 22 puntos en un día, a 90%, y antes de fin de año, a 92%; la regla pide una reunión en persona, oficial y sobre los términos de paz. Los Emiratos Árabes Unidos están en 88% como sede. Un alto el fuego antes de fin de año está en 16%, y en 10% si tiene que durar al menos 10 días. «Sin reunión» entre Zelenski y Putin antes de 2027 sigue en 94%. La importación de diésel ruso por Estados Unidos cayó unos 30 puntos en la semana: 56% antes del 30/11 y 62% antes de fin de año.",
-    "Zelenski ofreció reunirse con Putin en Turquía (Kyiv Independent, 2/11) y habló de una reunión a tres en Abu Dabi entre el 6 y el 10/11, sin fecha firme. Rusia lanzó una oleada de drones de 48 horas sobre casi todas las regiones; Zelenski dijo que los ataques sobre Komyshuvakha, en Zaporiyia, mataron entre 18 y 24 personas, cifra que no se pudo confirmar con una agencia. El Instituto para el Estudio de la Guerra evalúa que Rusia perdió terreno neto en octubre, por segundo mes (2/11). Lo próximo: la reunión de Abu Dabi y los ataques anunciados para la noche del 3/11."
+    "En Polymarket, que haya negociaciones de paz entre Rusia y Ucrania antes del 30/11 subió 18 puntos en un día, a 86%, y antes de fin de año, a 91%; los Emiratos Árabes Unidos están en 88% como sede. Un alto el fuego antes de fin de año está en 16%, y en 10% si tiene que durar al menos 10 días. «Sin reunión» entre Zelenski y Putin antes de 2027 sigue en 93%. La importación de diésel ruso por Estados Unidos cayó unos 20 puntos en un día: 37% antes del 30/11 y 40% antes de fin de año.",
+    "El portavoz del Kremlin, Peskov, confirmó una ronda entre Ucrania, Estados Unidos y Rusia en Abu Dabi el 10 y 11/11, con Medinsky al frente de la delegación rusa (TASS). Eso explica la suba de las negociaciones. Para el diésel, la advertencia de la gobernadora de Nueva Jersey, Mikie Sherrill, sobre el primer petrolero, que llega a Nueva York el 7/11 (Kyiv Independent). En la noche del 3/11 Rusia golpeó cuatro centrales térmicas y dos subestaciones; las defensas ucranianas dicen haber neutralizado 257 de 289 drones. Zelenski dijo que murieron 33 personas en Komyshuvakha el 2/11; son cifras del gobierno ucraniano sin confirmación de una agencia. Lo próximo: Abu Dabi, el 10 y 11/11."
    ],
    "fuentes": [
-    {"nombre": "Kyiv Independent, oferta de Zelenski, 2/11"},
-    {"nombre": "Instituto para el Estudio de la Guerra, balance de octubre, 2/11"},
-    {"nombre": "Zelenski vía UNITED24, Komyshuvakha, 2/11 (sin confirmación de agencia)"},
+    {"nombre": "TASS, Peskov sobre la ronda de Abu Dabi, 3/11"},
+    {"nombre": "Kyiv Independent, advertencia de Nueva Jersey, 3/11"},
+    {"nombre": "Fuerzas Aéreas de Ucrania vía UNITED24, 3/11 (sin confirmación de agencia)"},
     {"nombre": "Polymarket: reglas de las negociaciones de paz y del alto el fuego"}
    ]
   },
   "Europa": {
    "texto": [
-    "En Francia, Marine Le Pen tiene 40% en Polymarket para la próxima presidencial, David Lisnard 16%, Jean-Luc Mélenchon 12% y Édouard Philippe 12%, siete puntos menos que hace una semana. En España, Alberto Núñez Feijóo está en 84% como próximo presidente del Gobierno, que PP y Vox tengan mayoría en las generales en 93% y que sumen la mitad de los votos o más, en 48%. Que Pedro Sánchez deje el cargo antes del 31/1/2027 está en 70%, once puntos más en la semana. Un choque militar entre la OTAN y Rusia está en 2% antes del 15/11 y en 14% antes de fin de año.",
-    "Que Brigitte Macron gane su demanda por difamación contra Candace Owens cayó 32 puntos en la semana, a 28% en Kalshi; no hay una noticia que lo explique entre las fuentes consultadas. En Bulgaria, Iliana Yotova ganó la segunda vuelta presidencial con 57,58% (Reuters, Kyiv Independent, 2/11). No hay mercado sobre ese resultado entre los seguidos. Lo próximo: la huelga general en Francia, el 5/11."
+    "En Francia, Marine Le Pen tiene 40% en Polymarket para la próxima presidencial, David Lisnard 14%, Jean-Luc Mélenchon 12% y Édouard Philippe 12%, seis puntos menos que hace una semana. En España, Alberto Núñez Feijóo está en 84% como próximo presidente del Gobierno y que PP y Vox tengan mayoría en las generales, en 94%. Que Pedro Sánchez deje el cargo antes del 31/1/2027 está en 70%, diez puntos más en la semana, y antes del 31/12/2026, en 20%. Un choque militar entre la OTAN y Rusia antes de fin de año está en 14%; que salga algún país de la OTAN, en 7%.",
+    "Que Brigitte Macron gane su demanda por difamación contra Candace Owens cayó 31 puntos en la semana, a 28% en Kalshi; no hay una noticia que lo explique entre las fuentes consultadas. En Bélgica, un canal ruso dice que el primer ministro De Wever ofreció la renuncia del gobierno al rey el 3/11; no se pudo confirmar, y el plazo previo para un acuerdo de presupuesto vence el 6/11 (Brussels Times). En Polonia hay un operativo de seguridad en la frontera con Kaliningrado por una alerta de infiltración (policía polaca vía UNITED24). Lo próximo: la huelga general en Francia, el 5/11."
    ],
    "fuentes": [
-    {"nombre": "Reuters y Kyiv Independent, segunda vuelta en Bulgaria, 2/11"},
-    {"nombre": "Polymarket y Kalshi, números del 2/11"}
+    {"nombre": "Brussels Times, plazo del presupuesto belga, 6/11"},
+    {"nombre": "Rybar, renuncia de De Wever, 3/11 (sin cruzar)"},
+    {"nombre": "UNITED24, operativo en Polonia, 3/11"},
+    {"nombre": "Polymarket y Kalshi, números del 3/11"}
    ]
   }
  }
